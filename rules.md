@@ -202,8 +202,9 @@ permalink: /rules/
 - - - -
 ## **Donate**
 
-You can support the server by helping with upkeep costs at [paypal.me/bluejayonmeth]
+You can support the server by helping with upkeep costs: [Donate][paypal.me/bluejayonmeth]
 
 <ins>*The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.</ins>
 
-Ban appeals may be submitted at [bit.ly/methodbanappeal]
+Ban appeals may be submitted at: [Ban Appeal][bit.ly/methodbanappeal]
+Join now: [Connect Now][steam://connect/135.148.136.142:28015] or [Join Our Discord][https://discord.gg/methodgames]
