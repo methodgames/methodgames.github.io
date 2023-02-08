@@ -50,19 +50,32 @@ permalink: /rules/
 - External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 
+## **Raiding and Looting Rules**
 
-## Building Rules
+- Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
+- Sleepers cannot be killed or looted for 20 minutes after a server restart only. Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. Please create a ticket as soon as possible to let us know. Saving the player’s items for some time and letting an admin know is appreciated.
+- Non-decaying bases:
+    - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or <p syle="color:#22ffcd";>in unsecured areas of a base<p> will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
+    - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
+    - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
+    - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
+    - If you gain access to an unlocked tool cupboard (TC), you may not grief or the base (ex. authorizing TC and building to close it off or taking items).
+        - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
 
-## Raiding and Looting Rules
+## **PVP / Monument Rules**
 
-## PVP / Monument Rules
 
-## Transportation Rules
+## **Transportation Rules**
 
-## PVP Raid Zone Rules
 
-## Purge Rules
+## **PVP Raid Zone Rules**
 
-## Admin Rules
 
-## Donate
+## **Purge Rules**
+
+
+## **Admin Rules**
+
+
+## **Donate**
+
