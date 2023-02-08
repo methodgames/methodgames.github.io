@@ -39,8 +39,8 @@ permalink: /rules/
 <p align="center">
   <img src="/assets/2023-02_PRZ.png"/>
 </p>
-- - - -
 
+- - - -
 ## **Building Rules**
 
 - You may ask a staff member to trade ***4*** wind turbines for a test generator.
@@ -50,6 +50,7 @@ permalink: /rules/
 - External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 
+- - - -
 ## **Raiding and Looting Rules**
 
 - Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
@@ -61,21 +62,59 @@ permalink: /rules/
     - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief or the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
+- Decaying bases:
+    - Decaying bases cannot be raided (ex. breaking tool cupboards or building blocks) or griefed (ex. closing off by authorizing on TC and building walls). If something is not lootable due to building privilege, repair the building block it is on until the block the TC is on decays.
+    - Decaying bases can be looted and locked boxes can be broken. Twig and ladders can be placed on decaying bases. 
+    - If the base owner returns to their decaying base, looters may be asked to leave to secure the base.
+    - Decaying bases are not PVP zones.
+- Killed players:
+    - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
+    - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Attack Helicopter down.
 
+- - - -
 ## **PVP / Monument Rules**
+- PVP has been designated to specific areas of the map. Please see the table below for information regarding which monuments are PVP vs non-PVP.
+- The PVP area at designated monuments is limited to terrain change or adjacent roads, whichever is closer. Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
+- If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
+- There is a max team size of 8.
+
+| PVP Monuments / Zones | Temporary PVP Zones | Non-PVP Monuments    | Safe Zones      |
+| |:-------------------:| |:-----------------:| |:------------------:| |:-------------:|
+| Large Oil Rig         | Attack Helicopter†  | Gas Station          | Outpost         |
+| Small Oil Rig         | Air Drops†          | Supermarket          | Bandit Camp     |
+| Launch Site*          | Locked Crates†      | Lighthouse           | Fishing Village |
+| Military Tunnels      | Cargo Ship†         | Mining Outpost       | Barn / Ranch    |
+| Power Plant           |                     | Harbors              |                 |
+| Train Yard            |                     | Giant Excavator†     |                 |
+| Airfield              |                     | Underwater Labs      |                 |
+| Sewer Branch          |                     | Stone Quarry         |                 |
+| Arctic Research Base  |                     | Desert Military Base |                 |
+| Satellite Dish*       |                     |                      |                 |
+| Q9 Gas Station*       |                     |                      |                 |
+| V5 Gas Station*       |                     |                      |                 |
+| Y9 Mining Outpost*    |                     | Work Carts†          |                 |
+| Sulfur Quarry*        |                     | Junkyard*            |                 |
+| X4 and W10 Caves*     |                     | Water Treatment*     |                 |
+| PRZ*                  |                     | Dome*                |                 |
+
+- Players in PVP zones may not attack players outside of it and vice versa.
+- If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
+- If you are killed or downed while the temporary PVP is active, your body can be looted by anyone, including yourself, after the temporary PVP is over. The looting of bodies after the PVP has ended should not be a PVP zone. If you do not want to participate in temp PVP, stay inside and out of vision.
+    - Temporary PVP Zones:
 
 
+- - - -
 ## **Transportation Rules**
 
-
+- - - -
 ## **PVP Raid Zone Rules**
 
-
+- - - -
 ## **Purge Rules**
 
-
+- - - -
 ## **Admin Rules**
 
-
+- - - -
 ## **Donate**
 
