@@ -5,16 +5,11 @@ permalink: /about/
 ---
 
 
+This inclusive community has been created to facilitate respectful, interactive roleplay.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Although this is the primary focus of the server, we have included designated PVP areas, as this is a part of Rust that we would like our players to enjoy. The intent of this design is to allow it to be used as an avenue for players to explore various aspects of gameplay in a safe environment, and to use that exposure to even continue onto other servers which are more focused on the specific aspects of gameplay they enjoy. Please remember, there are instances when people may not be seeking RP or PVP interactions, so please respect their decision. Most importantly, be respectful, be creative, and have fun!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Connect Now][direct-connect] or [Join Our Discord][discord]
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[direct-connect]: steam://connect/135.148.136.142:28015
+[discord]: discord.gg/methodgames
