@@ -194,7 +194,7 @@ permalink: /rules/
 - Interpretation and final verdict are at admin discretion. Everything is reviewed on a case-by-case basis and the rules stated here are to cover the basics.
 
 ### Conduct
-- Complaints about staff may be emailed to [methodgamesrust@gmail.com] and will be addressed with the staff member and the rest of the staff team. 
+- Complaints about staff may be emailed to [methodgamesrust@gmail.com](methodgamesrust@gmail.com) and will be addressed with the staff member and the rest of the staff team. 
 - Admins may act as mediators between players and teams but will not enforce the terms of any agreements that fall outside of the rules. Such agreements do not allow any violation of the rules.
 - In certain situations, such as removal of a team member, admins may attempt to facilitate conversation and compromise between players, but the terms should come from the players.
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
