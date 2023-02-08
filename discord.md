@@ -7,11 +7,11 @@ permalink: /discord/
 ---
 <hr color="#22ffcd">
 
-**We are dedicated to building a respectful and welcoming community. **
+**We are dedicated to building a respectful and welcoming community.** Come share your experiences with us!
 
-Join our discord [here](https://discord.gg/methodgames).
+Join our discord [here](https://discord.gg/methodgames). 
 
-## **Discord Rules**
+## **Rules**
 
 1. Be kind, civil, and respectful to everyone.
 2. Be mindful of everyone's backgrounds, beliefs, and interests. This is a safe and inclusive community.
