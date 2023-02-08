@@ -33,7 +33,9 @@ permalink: /rules/
 
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
-<div style="text-align:center">![2023-02 PRZ](/assets/2023-02_PRZ.png "Title")<img src="..." /></div>
+<p align="center">
+  <img src="/assets/2023-02_PRZ.png" />
+</p>
 
 ## General Rules
 
