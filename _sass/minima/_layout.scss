@@ -339,3 +339,10 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/* Cover Image */
+.cover {
+  .feature-img: {
+    max-width: 100%;
+  }
+}
