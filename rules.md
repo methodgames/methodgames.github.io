@@ -19,7 +19,7 @@ permalink: /rules/
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
 ***
-### <ins>Behavior Rules</ins>
+## Behavior Rules
 - No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
 - No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP or creating temporary PVP zones as a cover or excuse for killing people.
 - <ins>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</ins>
@@ -33,7 +33,7 @@ permalink: /rules/
 
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
-![2023-02 PRZ](/assets/2023-02_PRZ.png "Title")
+<div style="text-align:center">![2023-02 PRZ](/assets/2023-02_PRZ.png "Title")<img src="..." /></div>
 
 ## General Rules
 
