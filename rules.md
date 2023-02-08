@@ -43,7 +43,7 @@ permalink: /rules/
 
 ## **Building Rules**
 
-- You may ask a staff member to trade <p syle="color:#22ffcd";>4<p> wind turbines for a test generator.
+- You may ask a staff member to trade <p syle="color:#22ffcd">4<p> wind turbines for a test generator.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
 - Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
@@ -55,7 +55,7 @@ permalink: /rules/
 - Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
 - Sleepers cannot be killed or looted for 20 minutes after a server restart only. Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. Please create a ticket as soon as possible to let us know. Saving the player’s items for some time and letting an admin know is appreciated.
 - Non-decaying bases:
-    - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or <p syle="color:#22ffcd";>in unsecured areas of a base<p> will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
+    - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or <p syle="color:#22ffcd;">in unsecured areas of a base<p> will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
     - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
