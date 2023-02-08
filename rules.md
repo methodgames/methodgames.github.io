@@ -7,6 +7,7 @@ permalink: /rules/
 ---
 - - - -
 ## **Behavior Rules**
+
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
 - Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. 
@@ -18,8 +19,10 @@ permalink: /rules/
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
+
 - - - -
-## General Rules
+## **General Rules**
+
 - No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
 - No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP or creating temporary PVP zones as a cover or excuse for killing people.
 - <ins>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</ins>
@@ -34,17 +37,18 @@ permalink: /rules/
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-02_PRZ.png" />
+  <img src="/assets/2023-02_PRZ.png"/>
 </p>
 - - - -
 
-## **General Rules**
+## **Building Rules**
 
-* Beryl Chen, Menglong Li, David Simchi-Levi (2022) Dynamic Pricing With Infrequent Inventory Replenishments. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240137))
-* Xin Chen, Jiachun Li, Menglong Li, Tiancheng Zhao, Yuan Zhou (2022) Assortment Optimization Under the Multivariate MNL Model. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4233712))
-* Ebrahim Arian, Xin Chen, Menglong Li (2022) Decentralized Pricing and Capacitated Assortment Planning in an Online Marketplace. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007777))
-* Xingyu Bai, Xin Chen, Menglong Li and Alexander Stolyar (2020) Asymptotic Optimality of Semi-Open-Loop Policies in Markov Decision Processes with Large Lead Times. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3685551))
-* Xin Chen, Menglong Li, David Simchi-Levi, Tiancheng Zhao (2020) Allocation of Covid-19 Vaccines Under Limited Supply. ([MedRxiv](https://www.google.com/url?q=https%3A%2F%2Fwww.medrxiv.org%2Fcontent%2F10.1101%2F2020.08.23.20179820v1&sa=D&sntz=1&usg=AFQjCNF5VW40jSoxcYmOYoA2ajo0RJaDSA), [SSRN](https://www.google.com/url?q=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D3678986&sa=D&sntz=1&usg=AFQjCNGGBgKDaZ2vfJQ4eJaqZ2xsgPuXUw))
+- You may ask a staff member to trade <p syle="color:#22ffcd";>4<p> wind turbines for a test generator.
+- You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
+- External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
+- Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
+- External TCs, deployables, and walls around decayed bases may be removed by an admin.
+- If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 
 
 ## Building Rules
