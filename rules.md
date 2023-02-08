@@ -7,7 +7,6 @@ permalink: /rules/
 ---
 <hr color="#22ffcd">
 
-- - - -
 ## **Behavior Rules**
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
@@ -22,7 +21,6 @@ permalink: /rules/
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
 
-- - - -
 <hr color="#22ffcd">
 
 ## **General Rules**
@@ -44,7 +42,8 @@ permalink: /rules/
   <img src="/assets/2023-02_PRZ.png"/>
 </p>
 
-- - - -
+<hr color="#22ffcd">
+
 ## **Building Rules**
 
 - You may ask a staff member to trade 4 wind turbines for a test generator.
@@ -54,7 +53,8 @@ permalink: /rules/
 - External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 
-- - - -
+<hr color="#22ffcd">
+
 ## **Raiding and Looting Rules**
 
 - Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
@@ -75,7 +75,8 @@ permalink: /rules/
     - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
     - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Attack Helicopter down.
 
-- - - -
+<hr color="#22ffcd">
+
 ## **PVP / Monument Rules**
 - PVP has been designated to specific areas of the map. Please see the table below for information regarding which monuments are PVP vs non-PVP.
 - The PVP area at designated monuments is limited to terrain change or adjacent roads, whichever is closer. Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
@@ -139,7 +140,8 @@ permalink: /rules/
         - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecured deployables.
         - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection). Excavator airdrops have been disabled.
 
-- - - -
+<hr color="#22ffcd">
+
 ## **Transportation Rules**
 - You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. You may not steal or kill horses owned by or led by another player. 
@@ -147,7 +149,8 @@ permalink: /rules/
 - Please create a ticket If your mode of transportation is not recoverable.
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 
-- - - -
+<hr color="#22ffcd">
+
 ## **PVP Raid Zone Rules**
 - PRZ will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will  be explicitly stated below by category. Please be respectful.
     - Killing on sight (KOS) is allowed. Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
@@ -173,12 +176,14 @@ permalink: /rules/
 - Transportation:
     - Locked vehicles found in this zone may be damaged to destroy locks.
 
-- - - -
+<hr color="#22ffcd">
+
 ## **Purge Rules**
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
 - There is a max roam / raiding size of 4 members per team at once (Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team at the same raid target at the same time. Teammates waiting to be swapped in must not leave base / respawn point until the teammate being swapped out has returned or died).
 
-- - - -
+<hr color="#22ffcd">
+
 ## **Admin Rules**
 ### General
 - Players can reach out to admins by creating a discord ticket or reaching out to us in game. For requests which do not require immediate attention, please feel free to post in the support channel. Admin response is only guaranteed via discord ticket. Allow up to 24 hours for pending tickets.
@@ -203,10 +208,12 @@ permalink: /rules/
 - Admins may teleport you to an event but you are not guaranteed a teleport back. If you are asked to not bring items, you are not guaranteed storage or recovery if lost.
 - If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you.
 
-- - - -
+<hr color="#dab3ff">
+
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
 
-- - - -
+<hr color="#dab3ff">
+
 ## **Donate**
 
 You can support the server [Donate](https://paypal.me/bluejayonmeth)
