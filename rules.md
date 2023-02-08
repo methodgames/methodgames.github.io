@@ -5,7 +5,7 @@ permalink: /rules/
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
 ---
-***
+- - - -
 ## **Behavior Rules**
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
@@ -18,8 +18,8 @@ permalink: /rules/
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
-***
-## Behavior Rules
+- - - -
+## General Rules
 - No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
 - No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP or creating temporary PVP zones as a cover or excuse for killing people.
 - <ins>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</ins>
@@ -36,8 +36,9 @@ permalink: /rules/
 <p align="center">
   <img src="/assets/2023-02_PRZ.png" />
 </p>
+- - - -
 
-## General Rules
+## **General Rules**
 
 * Beryl Chen, Menglong Li, David Simchi-Levi (2022) Dynamic Pricing With Infrequent Inventory Replenishments. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4240137))
 * Xin Chen, Jiachun Li, Menglong Li, Tiancheng Zhao, Yuan Zhou (2022) Assortment Optimization Under the Multivariate MNL Model. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4233712))
