@@ -43,7 +43,7 @@ permalink: /rules/
 - - - -
 ## **Building Rules**
 
-- You may ask a staff member to trade ***4*** wind turbines for a test generator.
+- You may ask a staff member to trade 4 wind turbines for a test generator.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
 - Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
@@ -54,7 +54,7 @@ permalink: /rules/
 ## **Raiding and Looting Rules**
 
 - Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
-- Sleepers cannot be killed or looted for <code>20<code> minutes after a server restart only. Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. Please create a ticket as soon as possible to let us know. Saving the player’s items for some time and letting an admin know is appreciated.
+- Sleepers cannot be killed or looted for 20 minutes after a server restart only. Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. Please create a ticket as soon as possible to let us know. Saving the player’s items for some time and letting an admin know is appreciated.
 - Non-decaying bases:
     - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or ***in unsecured areas of a base*** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
@@ -101,20 +101,109 @@ permalink: /rules/
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
 - If you are killed or downed while the temporary PVP is active, your body can be looted by anyone, including yourself, after the temporary PVP is over. The looting of bodies after the PVP has ended should not be a PVP zone. If you do not want to participate in temp PVP, stay inside and out of vision.
     - Temporary PVP Zones:
-
+        - <sup>†</sup>Attack helicopter:
+            - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
+            - The temporary PVP zone ends when all of the crates have been looted.
+                - If the Attack Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
+                - Your base may be used as cover by people in the area who are currently in PVP after the Attack Helicopter has fallen.
+            - If Attack Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
+            - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Attack Helicopter down. (Same as the rule above regarding killed players.)
+            - Calling out when all crates have been looted is advised.
+            - The new life rule does not apply to Attack Helicopter PVP.
+        - <sup>†</sup>Airdrops:
+            - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
+            - If an airdrop recently falls near your base and you do not wish to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
+            - Airdrops should not be used specifically to create extended PVP zones.
+        - <sup>†</sup>Cargo ship:
+            - Cargo ship pvp ends when the sirens signal that the ship is leaving.
+            - If you do not wish to participate in cargo ship pvp, stay out of vision.
+            - The new life rule does not apply to cargo if you die within the PRZ.
+        - <sup>†</sup>Locked crates:
+            - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP. Locked crates should not be moved.
+            - Locked crates at monuments that are normally non-PVP are considered temporary PVP zones from the time they touch the ground until the time they are fully looted.
+        - <sup>†</sup>Work carts:
+            - For the work cart stations at PVP monuments and the PRZ, only the above-ground area is considered PVP.
+- Please use reasonable discretion when determining the size of a PVP and temporary PVP zones.
+- If you have any concerns about the boundaries of a PVP zone, please reach out to an admin.
+- You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them. If you are killed after being invited to a PVP zone, this will not be considered baiting; you are reentering at your own discretion.
+- New Life Rule:
+    - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. There must be no doubt here from other players. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone in a PvE situation you are free to go back to your body.
+    - If you are killed in a PVP situation, you may or may not be invited back to continue the fight or to retrieve your items. They may or may not return the items found on your body at that time. Do not presume you are invited back; wait for the invitation. If you are killed again, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
+    - The new life rule applies to temporary PVP (except Attack Helicopter PVP) but does not apply to the PRZ
+- Other Monuments:
+    - <sup>†</sup>Giant Excavator:
+        - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecured deployables.
+        - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection). Excavator airdrops have been disabled.
 
 - - - -
 ## **Transportation Rules**
+- You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
+- Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. You may not steal or kill horses owned by or led by another player. 
+- You should not shoot at people in vehicles within non-pvp zones. If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to add a lock.
+- Please create a ticket If your mode of transportation is not recoverable.
+- Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 
 - - - -
 ## **PVP Raid Zone Rules**
+- PRZ will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will  be explicitly stated below by category. Please be respectful.
+    - Killing on sight (KOS) is allowed. Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
+    - Items lost in this area are not recoverable.
+- Building Rules:
+    - Walling off monuments is not allowed. Test generators are allowed.Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
+- Raiding and Looting Rules:
+    - Offline raiding (breaking building blocks) is not allowed. Offline and online looting is allowed.
+        - You may loot and break boxes and tool cupboards in unsecured areas of a base.
+        - Building ladders, flying, etc. can be used to gain access to unsecured areas of a base.
+        - Twig is not considered secure and can be broken. Compounds are not considered secure.
+    - PVP should not turn into a raid without first confirming online status.
+    - Online Raiding*:
+        - Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
+        - Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.
+        - Counters may engage in PvP and may raid only using explosives obtained from countering.
+        - A raid is over when the raiders have not used any explosives for 10 minutes.
+            - Consent to an online raid may not be rescinded without the agreement of all parties.
+            - *Raids require moderation and therefore may be delayed due to staff availability.
+- PVP Rules:
+    - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area. The new life rule does not apply to the PRZ or monuments that extend into the PRZ.
+    - The work cart station in this zone is only considered PVP above ground.
+- Transportation:
+    - Locked vehicles found in this zone may be damaged to destroy locks.
 
 - - - -
 ## **Purge Rules**
+- The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
+- There is a max roam / raiding size of 4 members per team at once (Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team at the same raid target at the same time. Teammates waiting to be swapped in must not leave base / respawn point until the teammate being swapped out has returned or died).
 
 - - - -
 ## **Admin Rules**
+### General
+- Players can reach out to admins by creating a discord ticket or reaching out to us in game. For requests which do not require immediate attention, please feel free to post in the support channel. Admin response is only guaranteed via discord ticket. Allow up to 24 hours for pending tickets.
+- Please respect that, as a principal, we try to inform players, give them the chance to correct their actions and have a discussion with all parties involved before taking action. Give people the chance to learn and move forward without conflict.
+    - Please note we will always prioritize issues pertaining to the behavior rules before attending to other matters. Be aware that not all information is made public, but rest assured we will be doing our due diligence to address concerns.
+    - Please try to avoid spamming chat asking for admin assistance. We will get to you when we can. Feel free to call out again if it has been some time.
+- Punishment for issues that come up as a result of loopholes or lack of clarification in the rules will be addressed and decided by the admin team and adjusted accordingly.
+- Interpretation and final verdict are at admin discretion. Everything is reviewed on a case-by-case basis and the rules stated here are to cover the basics.
+
+### Conduct
+- Complaints about staff may be emailed to [methodgamesrust@gmail.com] and will be addressed with the staff member and the rest of the staff team. 
+- Admins may act as mediators between players and teams but will not enforce the terms of any agreements that fall outside of the rules. Such agreements do not allow any violation of the rules.
+- In certain situations, such as removal of a team member, admins may attempt to facilitate conversation and compromise between players, but the terms should come from the players.
+- Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
+
+### Building and Admin Spawning
+- At any time you may reach out to an admin to either <ins>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
+- If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance.
+- If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
+
+### Teleporting
+- Admins may teleport you to an event but you are not guaranteed a teleport back. If you are asked to not bring items, you are not guaranteed storage or recovery if lost.
+- If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you.
 
 - - - -
 ## **Donate**
 
+You can support the server by helping with upkeep costs at [paypal.me/bluejayonmeth]
+
+<ins>*The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.</ins>
+
+Ban appeals may be submitted at [bit.ly/methodbanappeal]
