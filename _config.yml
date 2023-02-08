@@ -35,6 +35,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+Navigation:
+- title: Home
+ url: /index.html
+- title: About
+url: /about.html
+- title: Discord
+url: https://discord.gg/methodgames
+- title: Roleplay Rules
+url: /rules.html
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
