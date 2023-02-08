@@ -12,4 +12,4 @@ Although this is the primary focus of the server, we have included designated PV
 [Connect Now][direct-connect] or [Join Our Discord][discord]
 
 [direct-connect]: steam://connect/135.148.136.142:28015
-[discord]: discord.gg/methodgames
+[discord]: https://discord.gg/methodgames
