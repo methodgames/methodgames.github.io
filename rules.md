@@ -79,23 +79,23 @@ permalink: /rules/
 - There is a max team size of 8.
 
 | PVP Monuments / Zones | Temporary PVP Zones | Non-PVP Monuments    | Safe Zones      |
-| |:-------------------:| |:-----------------:| |:------------------:| |:-------------:|
-| Large Oil Rig         | Attack Helicopter†  | Gas Station          | Outpost         |
-| Small Oil Rig         | Air Drops†          | Supermarket          | Bandit Camp     |
-| Launch Site*          | Locked Crates†      | Lighthouse           | Fishing Village |
-| Military Tunnels      | Cargo Ship†         | Mining Outpost       | Barn / Ranch    |
-| Power Plant           |                     | Harbors              |                 |
-| Train Yard            |                     | Giant Excavator†     |                 |
-| Airfield              |                     | Underwater Labs      |                 |
-| Sewer Branch          |                     | Stone Quarry         |                 |
-| Arctic Research Base  |                     | Desert Military Base |                 |
-| Satellite Dish*       |                     |                      |                 |
-| Q9 Gas Station*       |                     |                      |                 |
-| V5 Gas Station*       |                     |                      |                 |
-| Y9 Mining Outpost*    |                     | Work Carts†          |                 |
-| Sulfur Quarry*        |                     | Junkyard*            |                 |
-| X4 and W10 Caves*     |                     | Water Treatment*     |                 |
-| PRZ*                  |                     | Dome*                |                 |
+| |:-------------------:        | |:-----------------:| |:------------------:| |:-------------:|
+| Large Oil Rig                 | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Small Oil Rig                 | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
+| Launch Site<sup>†</sup>       | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
+| Military Tunnels              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Power Plant                   |                               | Harbors                     |                 |
+| Train Yard                    |                               | Giant Excavator<sup>†</sup> |                 |
+| Airfield                      |                               | Underwater Labs             |                 |
+| Sewer Branch                  |                               | Stone Quarry                |                 |
+| Arctic Research Base          |                               | Desert Military Base        |                 |
+| Satellite Dish<sup>†</sup>    |                               |                             |                 |
+| Q9 Gas Station<sup>†</sup>    |                               |                             |                 |
+| V5 Gas Station<sup>†</sup>    |                               |                             |                 |
+| Y9 Mining Outpost<sup>†</sup> |                               | Work Carts<sup>†</sup>      |                 |
+| Sulfur Quarry<sup>†</sup>     |                               | Junkyard<sup>†</sup>        |                 |
+| X4 and W10 Caves<sup>†</sup>  |                               | Water Treatment<sup>†</sup> |                 |
+| PRZ<sup>†</sup>               |                               | Dome<sup>†</sup>            |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
