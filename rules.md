@@ -5,6 +5,10 @@ permalink: /rules/
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
 ---
+
+<label for="colorWell">Color:</label>
+<input type="color" value="#22ffcd" id="colorWell" />
+
 - - - -
 ## **Behavior Rules**
 
@@ -43,7 +47,7 @@ permalink: /rules/
 
 ## **Building Rules**
 
-- You may ask a staff member to trade <p syle="color:#22ffcd">4<p> wind turbines for a test generator.
+- You may ask a staff member to trade <code>4</code> wind turbines for a test generator.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
 - Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
