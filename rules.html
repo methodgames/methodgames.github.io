@@ -1,0 +1,11 @@
+---
+layout: page
+title: Rules
+---
+
+{% for rule in site.rules %}
+    <div class="rule">
+        <h2><a href="{{ rule.url }}">{{ rule.title }}</a></h2>
+        {{ rule.content }}
+    </div>
+{% endfor %}
