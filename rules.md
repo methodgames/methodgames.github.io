@@ -5,6 +5,8 @@ permalink: /rules/
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
 ---
+<hr color="#22ffcd">
+
 - - - -
 ## **Behavior Rules**
 
@@ -21,6 +23,8 @@ permalink: /rules/
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
 
 - - - -
+<hr color="#22ffcd">
+
 ## **General Rules**
 
 - No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
