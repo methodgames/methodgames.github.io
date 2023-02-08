@@ -6,8 +6,7 @@ permalink: /rules/
 #toc_icon: "cog"
 ---
 ***
-
-## Behavior Rules
+## **Behavior Rules**
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
 - Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. 
@@ -19,13 +18,22 @@ permalink: /rules/
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
-
 ***
 ### <ins>Behavior Rules</ins>
-* Xin Chen, Menglong Li (2022) S-Convexity and Gross Substitutability. **Operations Research**, forthcoming. ([SSRN](http://www.google.com/url?q=http%3A%2F%2Fssrn.com%2Fabstract%3D3549632&sa=D&sntz=1&usg=AFQjCNESBg5t491MLj-0NKrjKkYFGuFT2w),[OR](https://doi.org/10.1287/opre.2022.2394))
-* Xin Chen, Menglong Li (2021) M-Natural-Convexity and Its Applications in Operations. **Operations Research**, 69(5):1396-1408. ([SSRN](https://www.google.com/url?q=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D3431474&sa=D&sntz=1&usg=AFQjCNHni1WzyvoGd5vpDaCPE5U-B70ULg),[OR](https://doi.org/10.1287/opre.2020.2070))
-* Xin Chen, Menglong Li (2020) Discrete Convex Analysis and Its Applications in Operations: A Survey. **Production and Operations Management**, 30(6):1904-1926. ([SSRN](http://www.google.com/url?q=http%3A%2F%2Fssrn.com%2Fabstract%3D3549628&sa=D&sntz=1&usg=AFQjCNF1-_9NcdaipDQTTJkvt1-B0RsRTg),[POM](https://doi.org/10.1111/poms.13234))
+- No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
+- No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP or creating temporary PVP zones as a cover or excuse for killing people.
+- <ins>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</ins>
+- If you are asked to leave someone’s property, please respect their request without hard feelings. Someone may ask you to leave if they are not currently looking to RP.
+- Please do not hesitate to contact a staff member regarding any concerns or assistance.
+- Please create a ticket If your items are not recoverable due to misconduct of another player.
+- If you are ever in an uncomfortable situation or fear your items being lost, please take a clip or screenshot of your inventory and/or players in question to make recovery easier.
+- Any instance where a loophole in gameplay or in the rules is being exploited will be handled by an admin decision.
+- You will not be allowed to play if you have any accounts with a rust game ban in the last 180 days or >1 rust game ban.
+- Use of third-party applications (using the Rust+ protocol) on the server relating to PVP timers or locations are not allowed and will result in an automatic temporary ban for 15 minutes.
 
+**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
+
+![2023-02 PRZ](/assets/2023-02_PRZ.png "Title")
 
 ## General Rules
 
