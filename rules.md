@@ -216,7 +216,7 @@ permalink: /rules/
 
 ## **Other Information:**
 
-You can support the server here: [Donate](https://paypal.me/bluejayonmeth).
+You can support the server here: [Donate](https://paypal.me/bluejayonmeth)
 
 You can submit a ban appeal here: [Ban Appeal](bit.ly/methodbanappeal)
 
