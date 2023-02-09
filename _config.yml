@@ -21,15 +21,14 @@
 title: Method Games
 email: methodgamesrust@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Please Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Method Games. We are dedicated to building a respectful and welcoming community.
+thumbnail: /assets/sitepreview.png
 domain: methodgames.github.io
 url: "https://methodgames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  methodgames
-
+og:image:
 # Build settings
 theme: minima
 plugins:
