@@ -5,3 +5,8 @@
 layout: landing
 
 ---
+
+/* Cover Image */
+.hero {
+  background: url('../home-feature.jpg');
+}
