@@ -28,7 +28,7 @@ url: "https://methodgames.github.io" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  methodgames
-og:image:
+
 # Build settings
 theme: minima
 plugins:
