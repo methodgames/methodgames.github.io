@@ -23,7 +23,7 @@ email: methodgamesrust@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Method Games. We are dedicated to building a respectful and welcoming rust community. 2
 
-og:image: https://cdn.discordapp.com/attachments/899683711023468554/1073083223170621561/sitepreview.png
+image: https://cdn.discordapp.com/attachments/899683711023468554/1073083223170621561/sitepreview.png
 
 domain: methodgames.github.io
 url: "https://methodgames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,7 +35,6 @@ github_username:  methodgames
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 
 # Navigation:
