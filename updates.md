@@ -4,7 +4,11 @@ title: Updates
 permalink: /updates/
 ---
 
+<hr color="#22ffcd">
+
 Here you will find patch notes to the rules as well as community updates.
+
+<hr color="#22ffcd">
 
 [Connect Now][direct-connect] or [Join Our Discord][discord]
 
