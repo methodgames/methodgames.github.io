@@ -5,6 +5,13 @@
 layout: landing
 
 ---
+{% for post in site.categories.blog %}
+    <div>
+        <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
+        <a href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}
+
 <!-- 
 /* Cover Image */
 .hero {
