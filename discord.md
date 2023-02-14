@@ -9,7 +9,7 @@ permalink: /discord/
 
 **We are dedicated to building a respectful and welcoming community.** Come share your experiences with us!
 
-Join our discord [here](https://discord.gg/methodgames). 
+Support is **only** gaurnteed via a discord ticket. Join our discord [here](https://discord.gg/methodgames). 
 
 ## **Rules**
 
