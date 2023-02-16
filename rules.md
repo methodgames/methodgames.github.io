@@ -84,7 +84,7 @@ permalink: /rules/
 - There is a max team size of 8.
 
 | PVP Monuments / Zones | Temporary PVP Zones | Non-PVP Monuments    | Safe Zones      |
-| |:-------------------:        | |:-----------------:| |:------------------:| |:-------------:|
+| |:--------------------------: | :----------------------------:| :--------------------------:|:---------------:|
 | Large Oil Rig                 | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                 | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>       | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
@@ -92,9 +92,9 @@ permalink: /rules/
 | Power Plant                   |                               | Harbors                     |                 |
 | Train Yard                    |                               | Giant Excavator<sup>†</sup> |                 |
 | Airfield                      |                               | Underwater Labs             |                 |
-| Sewer Branch                  |                               | Stone Quarry                |                 |
-| Arctic Research Base          |                               | Desert Military Base        |                 |
-| Satellite Dish<sup>†</sup>    |                               |                             |                 |
+| Sewer Branch                  |                               | Desert Military Base        |                 |
+| Arctic Research Base          |                               | HQM Quarry                  |                 |
+| Satellite Dish<sup>†</sup>    |                               | Stone Quarry                |                 |
 | Q9 Gas Station<sup>†</sup>    |                               |                             |                 |
 | V5 Gas Station<sup>†</sup>    |                               |                             |                 |
 | Y9 Mining Outpost<sup>†</sup> |                               | Work Carts<sup>†</sup>      |                 |
