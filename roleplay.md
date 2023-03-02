@@ -1,6 +1,6 @@
 ---
 title: "Roleplay Rules"
-permalink: /rules/
+permalink: /roleplay/
 #toc: true
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
