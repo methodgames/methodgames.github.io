@@ -1,6 +1,7 @@
 ---
 title: "Vanilla Quad Rules"
 permalink: /quad/
+order: 4
 #toc: true
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"

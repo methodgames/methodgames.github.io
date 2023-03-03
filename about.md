@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 <hr color="#22ffcd">

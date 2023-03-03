@@ -1,6 +1,7 @@
 ---
 title: "Roleplay Rules"
 permalink: /roleplay/
+order: 3
 #toc: true
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"

@@ -2,6 +2,7 @@
 layout: updates
 title: Updates
 permalink: /updates/
+order: 5
 ---
 
 <!-- <hr color="#22ffcd"> -->

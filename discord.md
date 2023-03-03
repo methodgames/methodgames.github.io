@@ -1,6 +1,7 @@
 ---
 title: "Discord"
 permalink: /discord/
+order: 2
 #toc: true
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
