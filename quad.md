@@ -1,5 +1,5 @@
 ---
-title: "Quad Rules"
+title: "Vanilla Quad Rules"
 permalink: /quad/
 #toc: true
 #toc_label: "My Table of Contents"
