@@ -12,7 +12,7 @@ order: 3
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
-- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. 
+- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. Use of these terms may result in an automatic ban from the server.
 - Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed (including bullying, stream sniping, and insiding).
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - Please be mindful that everyone is allowed to focus on aspects of gameplay they enjoy. Your ideas or interests may not coincide, but please be respectful.
@@ -45,7 +45,7 @@ order: 3
 
 <hr color="#22ffcd">
 
-## **Building Rules**
+## **Building and Gameplay Rules**
 
 - You may ask a staff member to trade 4 wind turbines for a test generator.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
@@ -53,6 +53,7 @@ order: 3
 - Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
+- Player controlled drones may be flown at the owner's risk and others will not be held responsible for recovery.
 
 <hr color="#22ffcd">
 
@@ -84,24 +85,23 @@ order: 3
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
 - There is a max team size of 8.
 
-| PVP Monuments / Zones | Temporary PVP Zones | Non-PVP Monuments    | Safe Zones      |
-| |:--------------------------: | :----------------------------:| :--------------------------:|:---------------:|
-| Large Oil Rig                 | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
-| Small Oil Rig                 | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
-| Launch Site<sup>†</sup>       | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Military Tunnels              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Power Plant                   |                               | Harbors                     |                 |
-| Train Yard                    |                               | Giant Excavator<sup>†</sup> |                 |
-| Airfield                      |                               | Underwater Labs             |                 |
-| Sewer Branch                  |                               | Desert Military Base        |                 |
-| Arctic Research Base          |                               | HQM Quarry                  |                 |
-| Satellite Dish<sup>†</sup>    |                               | Stone Quarry                |                 |
-| Q9 Gas Station<sup>†</sup>    |                               |                             |                 |
-| V5 Gas Station<sup>†</sup>    |                               |                             |                 |
-| Y9 Mining Outpost<sup>†</sup> |                               | Work Carts<sup>†</sup>      |                 |
-| Sulfur Quarry<sup>†</sup>     |                               | Junkyard<sup>†</sup>        |                 |
-| X4 and W10 Caves<sup>†</sup>  |                               | Water Treatment<sup>†</sup> |                 |
-| PRZ<sup>†</sup>               |                               | Dome<sup>†</sup>            |                 |
+| PVP Monuments / Zones            | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
+| |:-----------------------------: | :----------------------------:| :--------------------------:|:---------------:|
+| Large Oil Rig                    | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Small Oil Rig                    | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
+| Launch Site<sup>†</sup>          | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
+| Military Tunnels                 | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Power Plant<sup>†</sup>          |                               | Harbors                     |                 |
+| Train Yard                       |                               | Giant Excavator<sup>†</sup> |                 |
+| Airfield                         |                               | Underwater Labs             |                 |
+| Sewer Branch                     |                               | Desert Military Base        |                 |
+| Arctic Research Base<sup>†</sup> |                               | Sulfur Quarry               |                 |
+| Satellite Dish                   |                               | Stone Quarry                |                 |
+| HQM Quarry<sup>†</sup>           |                               | P5 Gas Station              |                 |
+| R9 and AA10 Caves<sup>†</sup>    |                               | Work Carts<sup>†</sup>      |                 |
+| V7 Mining Outpost<sup>†</sup>    |                               | Junkyard<sup>†</sup>        |                 |
+|                                  |                               | Water Treatment<sup>†</sup> |                 |
+| PRZ<sup>†</sup>                  |                               | Dome<sup>†</sup>            |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
