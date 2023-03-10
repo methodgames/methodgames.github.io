@@ -157,7 +157,7 @@ order: 3
     - Killing on sight (KOS) is allowed. Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
 - Building Rules:
-    - Walling off monuments is not allowed. Test generators are allowed.Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
+    - Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
 - Raiding and Looting Rules:
     - Offline raiding (breaking building blocks) is not allowed. Offline and online looting is allowed.
         - You may loot and break boxes and tool cupboards in unsecured areas of a base.
