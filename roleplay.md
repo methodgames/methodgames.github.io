@@ -154,7 +154,8 @@ order: 3
 
 ## **PVP Raid Zone Rules**
 - PRZ will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will  be explicitly stated below by category. Please be respectful.
-    - Killing on sight (KOS) is allowed. Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
+    - Killing on sight (KOS) is allowed. 
+    - Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
 - Building Rules:
     - Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
