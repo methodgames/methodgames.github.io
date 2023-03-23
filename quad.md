@@ -12,7 +12,7 @@ order: 4
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
-- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. 
+- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. Use of these terms may result in an automatic ban from the server.
 - Actions taken to expressly deny other players the ability to enjoy the community are not allowed (including bullying, stream sniping, and insiding).
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
