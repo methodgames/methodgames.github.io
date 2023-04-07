@@ -40,7 +40,7 @@ order: 3
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-03_PRZ.png"/>
+  <img src="/assets/2023-04_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -85,23 +85,23 @@ order: 3
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
 - There is a max team size of 8.
 
-| PVP Monuments / Zones            | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
-| |:-----------------------------: | :----------------------------:| :--------------------------:|:---------------:|
-| Large Oil Rig                    | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
-| Small Oil Rig                    | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
-| Launch Site<sup>†</sup>          | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Military Tunnels                 | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Power Plant<sup>†</sup>          |                               | Harbors                     |                 |
-| Train Yard                       |                               | Giant Excavator<sup>†</sup> |                 |
-| Airfield                         |                               | Underwater Labs             |                 |
-| Sewer Branch                     |                               | Desert Military Base        |                 |
-| Arctic Research Base<sup>†</sup> |                               | Sulfur Quarry               |                 |
-| Satellite Dish                   |                               | Stone Quarry                |                 |
-| HQM Quarry<sup>†</sup>           |                               | P5 Gas Station              |                 |
-| R9 and AA10 Caves<sup>†</sup>    |                               | Work Carts<sup>†</sup>      |                 |
-| V7 Mining Outpost<sup>†</sup>    |                               | Junkyard<sup>†</sup>        |                 |
-|                                  |                               | Water Treatment<sup>†</sup> |                 |
-| PRZ<sup>†</sup>                  |                               | Dome<sup>†</sup>            |                 |
+| PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
+| |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
+| Large Oil Rig                         | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
+| Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
+| Military Tunnels                      | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Power Plant<sup>†</sup>               |                               | Harbors                     |                 |
+| Train Yard                            |                               | Giant Excavator<sup>†</sup> |                 |
+| Airfield                              |                               | Underwater Labs             |                 |
+| Arctic Research Base                  |                               | Desert Military Base        |                 |
+| Sewer Branch                          |                               | Sulfur Quarry               |                 |
+| Satellite Dish                        |                               | Stone Quarry                |                 |
+| HQM Quarry<sup>†</sup>                |                               |                             |                 |
+| F6 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
+| N5 Gas Station<sup>†</sup>            |                               | Junkyard<sup>†</sup>        |                 |
+|                                       |                               | Water Treatment<sup>†</sup> |                 |
+| PRZ<sup>†</sup>                       |                               | Dome<sup>†</sup>            |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
