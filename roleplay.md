@@ -95,9 +95,9 @@ order: 3
 | Train Yard                            |                               | Giant Excavator<sup>†</sup> |                 |
 | Airfield                              |                               | Underwater Labs             |                 |
 | Arctic Research Base                  |                               | Desert Military Base        |                 |
-| Sewer Branch                          |                               | Sulfur Quarry               |                 |
-| Satellite Dish                        |                               | Stone Quarry                |                 |
-| HQM Quarry<sup>†</sup>                |                               |                             |                 |
+| Sewer Branch                          |                               | Satellite Dish              |                 |
+|                                       |                               | Stone Quarry                |                 |
+| HQM Quarry<sup>†</sup>                |                               | Sulfur Quarry               |                 |
 | F6 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
 | N5 Gas Station<sup>†</sup>            |                               | Junkyard<sup>†</sup>        |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
