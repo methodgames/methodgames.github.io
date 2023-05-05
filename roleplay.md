@@ -40,7 +40,7 @@ order: 3
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-04_PRZ.png"/>
+  <img src="/assets/2023-05_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -90,16 +90,16 @@ order: 3
 | Large Oil Rig                         | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Military Tunnels                      | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Power Plant<sup>†</sup>               |                               | Harbors                     |                 |
-| Train Yard                            |                               | Giant Excavator<sup>†</sup> |                 |
-| Airfield                              |                               | Underwater Labs             |                 |
-| Arctic Research Base                  |                               | Desert Military Base        |                 |
-| Sewer Branch                          |                               | Satellite Dish              |                 |
-|                                       |                               | Stone Quarry                |                 |
-| HQM Quarry<sup>†</sup>                |                               | Sulfur Quarry               |                 |
-| F6 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
-| N5 Gas Station<sup>†</sup>            |                               | Junkyard<sup>†</sup>        |                 |
+| Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
+| Power Plant                           |                               | Giant Excavator<sup>†</sup> |                 |
+| Train Yard                            |                               | Underwater Labs             |                 |
+| Airfield                              |                               | Desert Military Base        |                 |
+| Arctic Research Base                  |                               | Satellite Dish              |                 |
+| Sewer Branch<sup>†</sup>              |                               | Stone Quarry                |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Sulfur Quarry               |                 |
+| L4 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
+| 			                            |                               | Junkyard<sup>†</sup>        |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
 | PRZ<sup>†</sup>                       |                               | Dome<sup>†</sup>            |                 |
 
