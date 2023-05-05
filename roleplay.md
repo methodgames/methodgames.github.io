@@ -97,7 +97,7 @@ order: 3
 | Airfield                              |                               | Desert Military Base        |                 |
 | Arctic Research Base                  |                               | Satellite Dish              |                 |
 | Sewer Branch<sup>†</sup>              |                               | Stone Quarry                |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | HQMN Quarry                 |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | HQM Quarry                  |                 |
 | L4 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
 | 			                            |                               | Junkyard<sup>†</sup>        |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
