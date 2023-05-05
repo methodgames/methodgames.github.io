@@ -93,15 +93,16 @@ order: 3
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
 | Power Plant                           |                               | Giant Excavator<sup>†</sup> |                 |
-| Train Yard                            |                               | Underwater Labs             |                 |
-| Airfield                              |                               | Desert Military Base        |                 |
-| Arctic Research Base                  |                               | Satellite Dish              |                 |
-| Sewer Branch<sup>†</sup>              |                               | Stone Quarry                |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | HQM Quarry                  |                 |
-| L4 Abandoned Supermarket<sup>†</sup>  |                               | Work Carts<sup>†</sup>      |                 |
-| 			                            |                               | Junkyard<sup>†</sup>        |                 |
+| Airfield                              |                               | Underwater Labs             |                 |
+| Arctic Research Base                  |                               | Desert Military Base        |                 |
+| Sewer Branch<sup>†</sup>              |                               | Satellite Dish              |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Stone Quarry                |                 |
+| L4 Abandoned Supermarket<sup>†</sup>  |                               | HQM Quarry                  |                 |
+|                                       |                               | Work Carts                  |                 |
+| 			                            |                               | Train Yard<sup>†</sup>      |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
-| PRZ<sup>†</sup>                       |                               | Dome<sup>†</sup>            |                 |
+|                                       |                               | Dome<sup>†</sup>            |                 |
+| PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
