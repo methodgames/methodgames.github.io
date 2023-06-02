@@ -40,7 +40,7 @@ order: 3
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-05_PRZ.png"/>
+  <img src="/assets/2023-06_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -64,7 +64,7 @@ order: 3
 - Non-decaying bases:
     - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecured areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
-    - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
+    - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. Locked boxes within building privilege should not be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief or the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
@@ -90,16 +90,16 @@ order: 3
 | Large Oil Rig                         | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Missile Silo<sup>†</sup>              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
-| Power Plant                           |                               | Giant Excavator<sup>†</sup> |                 |
-| Airfield                              |                               | Underwater Labs             |                 |
-| Arctic Research Base                  |                               | Desert Military Base        |                 |
-| Sewer Branch<sup>†</sup>              |                               | Satellite Dish              |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | Stone Quarry                |                 |
-| L4 Abandoned Supermarket<sup>†</sup>  |                               | HQM Quarry                  |                 |
-|                                       |                               | Work Carts                  |                 |
-| 			                            |                               | Train Yard<sup>†</sup>      |                 |
+| Arctic Research Base                  |                               | Giant Excavator<sup>†</sup> |                 |
+| Train Yard                            |                               | Underwater Labs             |                 |
+| Airfield                              |                               | Desert Military Base        |                 |
+| Sewer Branch                          |                               | Satellite Dish              |                 |
+| HQM Quarry<sup>†</sup>                |                               | Stone Quarry                |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Work Carts                  |                 |
+| T22 Abandoned Supermarket<sup>†</sup> |                               |                             |                 |
+| N22 Mining Outpost<sup>†</sup>        |                               | Power Plant                 |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 | PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
@@ -122,8 +122,8 @@ order: 3
             - If an airdrop recently falls near your base and you do not wish to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
             - Airdrops should not be used specifically to create extended PVP zones.
         - <sup>†</sup>Cargo ship:
-            - Cargo ship pvp ends when the sirens signal that the ship is leaving.
-            - If you do not wish to participate in cargo ship pvp, stay out of vision.
+            - Cargo ship PVP ends when the sirens signal that the ship is leaving.
+            - If you do not wish to participate in cargo ship PVP, stay out of vision.
             - The new life rule does not apply to cargo if you die within the PRZ.
         - <sup>†</sup>Locked crates:
             - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP. Locked crates should not be moved.
@@ -134,7 +134,7 @@ order: 3
 - If you have any concerns about the boundaries of a PVP zone, please reach out to an admin.
 - You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them. If you are killed after being invited to a PVP zone, this will not be considered baiting; you are reentering at your own discretion.
 - New Life Rule:
-    - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. There must be no doubt here from other players. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone in a PvE situation you are free to go back to your body.
+    - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. There must be no doubt here from other players. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone in a PVE situation you are free to go back to your body.
     - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
     - The new life rule applies to temporary PVP (except Attack Helicopter PVP) but does not apply to the PRZ
 - Other Monuments:
@@ -147,7 +147,7 @@ order: 3
 ## **Transportation Rules**
 - You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. You may not steal or kill horses owned by or led by another player. 
-- You should not shoot at people in vehicles within non-pvp zones. If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to add a lock.
+- You should not shoot at people in vehicles within non-PVP zones. If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to add a lock.
 - Please create a ticket If your mode of transportation is not recoverable.
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 
@@ -169,7 +169,7 @@ order: 3
     - Online Raiding*:
         - Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
         - Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.
-        - Counters may engage in PvP and may raid only using explosives obtained from countering.
+        - Counters may engage in PVP and may raid only using explosives obtained from countering.
         - A raid is over when the raiders have not used any explosives for 10 minutes.
             - Consent to an online raid may not be rescinded without the agreement of all parties.
             - *Raids require moderation and therefore may be delayed due to staff availability.
