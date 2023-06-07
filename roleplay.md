@@ -50,7 +50,7 @@ order: 3
 - You may ask a staff member to trade 4 wind turbines for a test generator.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
-- Traps should not hit anyone outside a base or compound. Trap bases are not allowed.
+- Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 - Player controlled drones may be flown at the owner's risk and others will not be held responsible for recovery.
@@ -146,7 +146,8 @@ order: 3
 
 ## **Transportation Rules**
 - You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
-- Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. You may not steal or kill horses owned by or led by another player. 
+- Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
+- You may not steal or kill horses owned by or led by another player. 
 - You should not shoot at people in vehicles within non-PVP zones. If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to add a lock.
 - Please create a ticket If your mode of transportation is not recoverable.
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
