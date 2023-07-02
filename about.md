@@ -15,7 +15,7 @@ This inclusive community was created to facilitate respectful and interactive ga
 
 Although respectful roleplay is the primary focus of the server, we have included designated PVP areas, as this is a part of Rust that we would like our players to enjoy. The intent of this design is to allow it to be used as an avenue for players to explore various aspects of gameplay in a safe environment, and to use that exposure to even continue onto other servers which are more focused on the specific aspects of gameplay they enjoy. Please remember, there are instances when people may not be seeking RP or PVP interactions, so please respect their decision. Most importantly, be respectful, be creative, and have fun!
 
-**Full Wipe:** Monthtly, first Friday of every month @ 7 PM eastern.
+**Full Wipe:** Monthtly, first Thursday of every month @ 7 PM eastern.
 
 **Purge:** Monthtly, Wednesday before wipe @ 7 PM eastern.
 
