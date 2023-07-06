@@ -20,7 +20,7 @@ categories: method update
         - Deployables cannot be placed within range of a monument.
     - Like other vehciles they use low grade fuel and have a light.
     - These boats have a radar system for detecting nearby submarines.
-    - Beware that tugboats can get stuck in low water an can't be pushed.
+    - Beware that tugboats can get stuck in low water and cannot be pushed.
     - They will decay in 6 hours and have 2000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy).
 
 - **Ferry Terminal Monument**
