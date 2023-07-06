@@ -21,7 +21,7 @@ categories: method update
     - Like other vehciles they use low grade fuel and have a light.
     - These boats have a radar system for detecting nearby submarines.
     - Beware that tugboats can get stuck in low water and cannot be pushed.
-    - They will decay in 6 hours and have 2000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy).
+    - They will decay in 6 hours and have 3000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy).
 
 - **Ferry Terminal Monument:**
     - Rust's newest monument is located by fresh spawn and currently has loot by no npcs.
