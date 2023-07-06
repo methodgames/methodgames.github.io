@@ -7,11 +7,11 @@ categories: method update
 
 <hr color="#22ffcd">
 
-## **Gameplay Changes:**
-
 <p align="center">
   <img src="/assets/media_posts/2023-07-07-july-wipe-updates/tugboat.png"/>
 </p>
+
+## **Gameplay Changes:**
 
 - **Tugboats!**
     - This new vehicle has two spawn points at each harbor.
