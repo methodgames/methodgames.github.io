@@ -7,6 +7,31 @@ categories: method update
 
 <hr color="#22ffcd">
 
+## **Gameplay Changes:**
+
+<p align="center">
+  <img src="/assets/media_posts/2023-07-07-july-wipe-updates/tugboat.png"/>
+</p>
+
+- **Tugboats!**
+    - This new vehicle has two spawn points at each harbor.
+    - They have an authorization feature which allows players to place certain deployables inside of the cabin.
+        - Electrical items cannot be placed inside (*shocking*).
+        - Deployables cannot be placed within range of a monument.
+    - Like other vehciles they use low grade fuel and have a light.
+    - These boats have a radar system for detecting nearby submarines.
+    - Beware that tugboats can get stuck in low water an can't be pushed.
+    - They will decay in 6 hours and have 2000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy).
+
+- **Ferry Terminal Monument**
+    - Rust's newest monument is located by fresh spawn and currently has loot by no npcs.
+    - This will eventually be used in conjunction with a barge to navigate between linked servers. 
+
+- We will be keeping the stacking implementation from the previous wipe. Just as a reminder: **Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 100,000.**
+    - Stacks work the same way once in a player's inventory or any other container.
+    - They can be split in half by middle clicking and dragging out of the container (onto the ground) or shift + middle click and drag for a third.
+    - Going forward, additioanl stacking by an admin (for stacks greater than 100,000) will only be done for tool cupboards located in lived-in bases.
+
 ## **Rule Changes:**
 
 - **[Changed] -** ``Transportation Rules`` **- The preexisiting transportation rules now apply to all vehicles other than tugboats.** 
@@ -21,12 +46,6 @@ categories: method update
         - Due to the size and decay nature of the tugboat, along with temporarily claim and building authorization, the items placed on a tugboat are **never considered secure**.
             - You can authorize on a tugboat by sitting in the driver's seat looking at the long-press menu.
 
-## **Gameplay Changes:**
-
-- We will be keeping the stacking implementation from the previous wipe. Just as a reminder: **Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 100,000.**
-    - Stacks work the same way once in a player's inventory or any other container.
-    - They can be split in half by middle clicking and dragging out of the container (onto the ground) or shift + middle click and drag for a third.
-    - Going forward, additioanl stacking by an admin (for stacks greater than 100,000) will only be done for tool cupboards located in lived-in bases.
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
 
