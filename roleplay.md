@@ -40,7 +40,7 @@ order: 3
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-06_PRZ.png"/>
+  <img src="/assets/2023-07_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -90,19 +90,20 @@ order: 3
 | Large Oil Rig                         | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Missile Silo<sup>†</sup>              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
 | Arctic Research Base                  |                               | Ferry Terminal              |                 |
 | Power Plant                           |                               | Satellite Dish              |                 |
-| Airfield                              |                               | Desert Military Base        |                 |
-| Sewer Branch                          |                               | Underwater Labs             |                 |
-| ~~Train Yard~~                        |                               | Giant Excavator<sup>†</sup> |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | Work Carts<sup>†</sup>      |                 |
-| HQM Quarry<sup>†</sup> |              |                               | Stone Quarry                |                 |
-| N22 Mining Outpost<sup>†</sup>        |                               |                             |                 |
-| T22 Abandoned Supermarket<sup>†</sup> |                               | Water Treatment<sup>†</sup> |                 |
-|                                       |                               | Dome<sup>†</sup>            |                 |
-| PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
+| ~~Train Yard~~                        |                               | Desert Military Base        |                 |
+| Airfield                              |                               | Underwater Labs             |                 |
+| ~~Sewer Branch~~                      |                               | Giant Excavator<sup>†</sup> |                 |
+| Stone Quarry<sup>†</sup>              |                               | Work Carts<sup>†</sup>      |                 |
+| G16 Mining Outpospt<sup>†</sup>       |                               | Sulfur Quarry               |                 |
+| L16 Mining Outpost<sup>†</sup>        |                               | HQM Quarry                  |                 |
+| H19 Cave<sup>†</sup>                  |                               |                             |                 |
+| O20 Cave<sup>†</sup>                  |                               | Dome<sup>†</sup>            |                 |
+|                                       |                               | Junkyard<sup>†</sup>        |                 |
+| PRZ<sup>†</sup>                       |                               | Water Treatment<sup>†</sup> |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.

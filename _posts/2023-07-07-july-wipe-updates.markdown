@@ -36,7 +36,7 @@ categories: method update
 ## **Rule Changes:**
 
 - **[Changed] -** ``Transportation Rules`` **- The preexisiting transportation rules now apply to all vehicles other than tugboats.** 
-    - With tugboats being a vehicle that has building privilage, cannot be stored, and is subject to decay, a separate set of rules was developed specifically for this vehicle.
+    - With the tugboat being a vehicle that has building privilage, cannot be stored, and is subject to decay, a separate set of rules was developed specifically for this vehicle.
 - **[Added] -** ``Transportation Rules`` **- Tugboats.** 
     - **Tugboats cannot be owned and doors should not be placed to claim them. If you find a locked tugboat, please reach out to an admin.**
         - With the limited number of tugboats available, this will help ensure these new vehicles are more widely available.
