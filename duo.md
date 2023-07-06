@@ -1,6 +1,6 @@
 ---
-title: "Vanilla Quad Rules"
-permalink: /quad/
+title: "Vanilla Duo Rules"
+permalink: /duo/
 order: 4
 #toc: true
 #toc_label: "My Table of Contents"
@@ -23,7 +23,7 @@ order: 4
 
 ## **Team Rules**
 
-- Max of 4 players:
+- Max of 2 players:
     - Per team and base.
     - Authed on TCs and codes.
     - Roaming and raiding.
