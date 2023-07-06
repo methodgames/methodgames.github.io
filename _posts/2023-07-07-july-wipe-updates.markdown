@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Wipe Updates - July 2023"
+date:   2023-07-06 04:00:00 -0400
+categories: method update
+---
+
+<hr color="#22ffcd">
+
+## **Rule Changes:**
+
+- **[Changed] -** ``Transportation Rules`` **- The preexisiting transportation rules now apply to all vehicles other than tugboats.** 
+    - With tugboats being a vehicle that has building privilage, cannot be stored, and is subject to decay, a separate set of rules was developed specifically for this vehicle.
+- **[Added] -** ``Transportation Rules`` **- Tugboats.** 
+    - **Tugboats cannot be owned and doors should not be placed to claim them. If you find a locked tugboat, please reach out to an admin.**
+        - With the limited number of tugboats available, this will help ensure these new vehicles are more widely available.
+    - **Tugboats can only be temporarily claimed while being actively used (with the engine running). You will be responsible for taking your fuel and items out of the boat before leaving, otherwise it can be looted by other players.**
+        - Active usage means a player is on the tugboat and the engine is running.
+        - The engine will stay running as long as a player remains on the tugboat. The engine can be run while stationary and will automatically be turned off after some time if no players are on board.
+    - **Loot and deployables placed on a tugboat are considered unsecure and items that may be lost will not be returned.**
+        - Due to the size and decay nature of the tugboat, along with temporarily claim and building authorization, the items placed on a tugboat are **never considered secure**.
+            - You can authorize on a tugboat by sitting in the driver's seat looking at the long-press menu.
+
+## **Gameplay Changes:**
+
+- We will be keeping the stacking implementation from the previous wipe. Just as a reminder: **Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 100,000.**
+    - Stacks work the same way once in a player's inventory or any other container.
+    - They can be split in half by middle clicking and dragging out of the container (onto the ground) or shift + middle click and drag for a third.
+    - Going forward, additioanl stacking by an admin (for stacks greater than 100,000) will only be done for tool cupboards located in lived-in bases.
+
+***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
+
+<hr color="#22ffcd">
+
+Method Games. A `respectful` and `welcoming` rust community.
+
+You can support the server [here](https://paypal.me/bluejayonmeth).

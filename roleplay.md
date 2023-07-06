@@ -92,15 +92,15 @@ order: 3
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo<sup>†</sup>              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
-| Arctic Research Base                  |                               | Giant Excavator<sup>†</sup> |                 |
-| Train Yard                            |                               | Underwater Labs             |                 |
+| Arctic Research Base                  |                               | Ferry Terminal              |                 |
+| Power Plant                           |                               | Satellite Dish              |                 |
 | Airfield                              |                               | Desert Military Base        |                 |
-| Sewer Branch                          |                               | Satellite Dish              |                 |
-| HQM Quarry<sup>†</sup>                |                               | Stone Quarry                |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | Work Carts                  |                 |
-| T22 Abandoned Supermarket<sup>†</sup> |                               |                             |                 |
-| N22 Mining Outpost<sup>†</sup>        |                               | Power Plant                 |                 |
-|                                       |                               | Water Treatment<sup>†</sup> |                 |
+| Sewer Branch                          |                               | Underwater Labs             |                 |
+| ~~Train Yard~~                        |                               | Giant Excavator<sup>†</sup> |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Work Carts<sup>†</sup>      |                 |
+| HQM Quarry<sup>†</sup> |              |                               | Stone Quarry                |                 |
+| N22 Mining Outpost<sup>†</sup>        |                               |                             |                 |
+| T22 Abandoned Supermarket<sup>†</sup> |                               | Water Treatment<sup>†</sup> |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 | PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
 
@@ -145,12 +145,22 @@ order: 3
 <hr color="#22ffcd">
 
 ## **Transportation Rules**
+
+**General:**
+- You should not shoot at people in vehicles within non-PVP zones.
+- If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
+- Please create a ticket If your mode of transportation is not recoverable.
+
+**Modular Cars, Minicopters, Scrap Transport Helicopters, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
 - You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
-- You should not shoot at people in vehicles within non-PVP zones. If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to add a lock.
-- Please create a ticket If your mode of transportation is not recoverable.
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
+
+**Tugboats:**
+- Tugboats cannot be owned and doors should not be placed to claim them. If you find a locked tugboat, please reach out to an admin.
+- Tugboats can only be temporarily claimed while being actively used (with the engine running). You will be responsible for taking your fuel and items out of the boat before leaving, otherwise it can be looted by other players.
+- Loot and deployables placed on a tugboat are considered unsecure and items that may be lost will not be returned.
 
 <hr color="#22ffcd">
 
@@ -204,7 +214,7 @@ order: 3
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
 
 ### Building and Admin Spawning
-- At any time you may reach out to an admin to either <ins>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
+- At any time you may reach out to an admin to ~~either <ins>trade your building resources for admin stacks or~~ <ins>trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance.
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 

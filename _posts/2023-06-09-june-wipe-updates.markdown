@@ -9,9 +9,9 @@ categories: method update
 
 ## **Rule Changes:**
 
-- **[Added]** - ``Raiding and Looting Rules`` **- Locked boxes within building privilege should not be destroyed.** 
+- **[Added] -** ``Raiding and Looting Rules`` **- Locked boxes within building privilege should not be destroyed.** 
     - If a locked box is within an unsecure area of your base and is destroyed, you will not get the items back. The purpose of this rule is to discourage stealing and to encourage players to secure their loot. Remember, twig is not considered a secure building material.
-- **[Added]** - ``Transportation Rules`` **- Do not leave your car on a powered car lift as this will not be considered secure.** 
+- **[Added] -** ``Transportation Rules`` **- Do not leave your car on a powered car lift as this will not be considered secure.** 
     - While players should not be damaging or removing locks on cars, you should also not be leaving your locked modular car on a powered car lift. Take measures to ensure that if left on a lift, another player would not be able to use and take the lock off (a reminder that generators can be turned on by any player). Logging off and leaving a car on a publicly accessible powered car lift is considered unsecure and your car and items left in the car will not be returned.
 
 ## **Gameplay Changes:**
