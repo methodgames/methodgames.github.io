@@ -108,6 +108,11 @@ order: 3
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
 - If you are killed or downed while the temporary PVP is active, your body can be looted by anyone, including yourself, after the temporary PVP is over. The looting of bodies after the PVP has ended should not be a PVP zone. If you do not want to participate in temp PVP, stay inside and out of vision.
+- New Life Rule:
+    - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone due to a PVE situation within a PVP zone you are free to go back to your body.
+    - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
+    - The new life rule applies to temporary PVP (except Attack Helicopter PVP).
+    - The new life rule does not apply to the PRZ.
     - Temporary PVP Zones:
         - <sup>†</sup>Attack helicopter:
             - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
@@ -134,10 +139,6 @@ order: 3
 - Please use reasonable discretion when determining the size of a PVP and temporary PVP zones.
 - If you have any concerns about the boundaries of a PVP zone, please reach out to an admin.
 - You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them. If you are killed after being invited to a PVP zone, this will not be considered baiting; you are entering at your own discretion.
-- New Life Rule:
-    - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. There must be no doubt here from other players. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone due to a PVE situation within a PVP zone you are free to go back to your body.
-    - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
-    - The new life rule applies to temporary PVP (except Attack Helicopter PVP) but does not apply to the PRZ
 - Other Monuments:
     - <sup>†</sup>Giant Excavator:
         - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecured deployables.
