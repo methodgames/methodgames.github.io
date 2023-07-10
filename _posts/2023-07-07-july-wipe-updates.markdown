@@ -14,24 +14,24 @@ categories: method update
 ## **Gameplay Changes:**
 
 - **Tugboats!**
-    - This new vehicle has two spawn points at each harbor.
+    - This new vehicle has two spawn points at each harbor and one at ferry terminal.
     - They have an authorization feature which allows players to place certain deployables inside of the cabin.
         - Electrical items cannot be placed inside (*shocking*).
         - Deployables cannot be placed within range of a monument.
     - Like other vehciles they use low grade fuel and have a light.
     - These boats have a radar system for detecting nearby submarines.
     - Beware that tugboats can get stuck in low water and cannot be pushed.
-    - They will decay in 6 hours and have 3000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy).
+    - They will decay in 36 hours and have 3000 health (8 C4 / 16 Rockets / 7 Torpedos to destroy). Whenever you interact with the engine, the decay timer will reset.
 
 - **Ferry Terminal Monument:**
-    - Rust's newest monument is located by fresh spawn and currently has loot by no npcs.
+    - Rust's newest monument is located by fresh spawn and currently has loot but no npcs.
     - This will eventually be used in conjunction with a barge to navigate between linked servers. 
 
 - **Stacking:**
     - We will be keeping the stacking implementation from the previous wipe. Just as a reminder: **Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 100,000.**
         - Stacks work the same way once in a player's inventory or any other container.
         - They can be split in half by middle clicking and dragging out of the container (onto the ground) or shift + middle click and drag for a third.
-        - Going forward, additioanl stacking by an admin (for stacks greater than 100,000) will only be done for tool cupboards located in lived-in bases.
+        - Going forward, additional stacking by an admin (for stacks greater than 100,000) will only be done for tool cupboards located in lived-in bases.
 
 ## **Rule Changes:**
 

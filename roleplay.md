@@ -81,7 +81,14 @@ order: 3
 
 ## **PVP / Monument Rules**
 - PVP has been designated to specific areas of the map. Please see the table below for information regarding which monuments are PVP vs non-PVP.
-- The PVP area at designated monuments is limited to terrain change or adjacent roads, whichever is closer. Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
+- The PVP area at designated monuments is limited to terrain change or adjacent roads, whichever is closer.
+    - For the point where the PVP zone changes from being limited by a road to being limited by terrain change, the PVP zone extends directly from the apex of the road to the terrain change (see example below).
+
+<p align="center">
+  <img src="/assets/pvp_example.png"/>
+</p>
+
+- Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
 - There is a max team size of 8.
 
