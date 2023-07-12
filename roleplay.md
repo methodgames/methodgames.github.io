@@ -62,7 +62,7 @@ order: 3
 - Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
 - Sleepers cannot be killed or looted for 20 minutes after a server restart only. Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. Please create a ticket as soon as possible to let us know. Saving the player’s items for some time and letting an admin know is appreciated.
 - Non-decaying bases:
-    - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecured areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
+    - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecure areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
     - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. Locked boxes within building privilege should not be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
@@ -148,7 +148,7 @@ order: 3
 - You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them. If you are killed after being invited to a PVP zone, this will not be considered baiting; you are entering at your own discretion.
 - Other Monuments:
     - <sup>†</sup>Giant Excavator:
-        - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecured deployables.
+        - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecure deployables.
         - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection). Excavator airdrops have been disabled.
 
 <hr color="#22ffcd">
@@ -156,20 +156,26 @@ order: 3
 ## **Transportation Rules**
 
 **General:**
+- You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - You should not shoot at people in vehicles within non-PVP zones.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket If your mode of transportation is not recoverable.
 
 **Modular Cars, Minicopters, Scrap Transport Helicopters, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
-- You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 
-**Tugboats:**
-- Tugboats cannot be owned and doors should not be placed to claim them. If you find a locked tugboat, please reach out to an admin.
-- Tugboats can only be temporarily claimed while being actively used (with the engine running). You will be responsible for taking your fuel and items out of the boat before leaving, otherwise it can be looted by other players.
-- Loot and deployables placed on a tugboat are considered unsecure and items that may be lost will not be returned.
+**Tugboats and Campers:**
+- Tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
+- Vehicles should not be moved into PVP zones by anyone other than the owners.
+- Items lost due to decay will not be returned.
+- Tugboats:
+    - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables.
+    - Tugboats are considered owned if all 3 doors are locked by the same player or team. 
+    - Commandeering in PVP Zone:
+        - While commandeering a tugboat in a PVP zone, the bottom floor door must be broken first and all respawn points on the tugboat must be cleared. You may then break into one or both of the doors on the helm (where the driving controls are) and clear authorization on the boat. The third door may be broken after driving the boat outside of PVP (the previous owners should not interfere with the removal of this door).
+        - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team. 
 
 <hr color="#22ffcd">
 
@@ -182,9 +188,10 @@ order: 3
     - Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
 - Raiding and Looting Rules:
     - Offline raiding (breaking building blocks) is not allowed. Offline and online looting is allowed.
-        - You may loot and break boxes and tool cupboards in unsecured areas of a base.
-        - Building ladders, flying, etc. can be used to gain access to unsecured areas of a base.
+        - You may loot and break boxes and tool cupboards in unsecure areas of a base.
+        - Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.
         - Twig is not considered secure and can be broken. Compounds are not considered secure.
+        - Tugboats in PRZ are classified as vehicles and therefore can be broken into while a player is offline.
     - PVP should not turn into a raid without first confirming online status.
     - Online Raiding*:
         - Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
@@ -198,6 +205,8 @@ order: 3
     - The work cart station in this zone is only considered PVP above ground.
 - Transportation:
     - Locked vehicles found in this zone may be damaged to destroy locks.
+    - Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used). 
+    - Vehicles should not be moved into the PRZ by anyone other than the owners.
 
 <hr color="#22ffcd">
 
