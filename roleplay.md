@@ -120,6 +120,8 @@ order: 3
     - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
     - The new life rule applies to temporary PVP (except Attack Helicopter PVP).
     - The new life rule does not apply to the PRZ.
+    - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
+    - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
     - Temporary PVP Zones:
         - <sup>†</sup>Attack helicopter:
             - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
@@ -169,7 +171,7 @@ order: 3
 **Tugboats and Campers:**
 - Tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
 - Vehicles should not be moved into PVP zones by anyone other than the owners.
-- **Please be mindful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper because you would be risking all of the items inside.**
+- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
 - Items lost due to decay will not be returned.
 - Tugboats:
     - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables.
@@ -178,6 +180,7 @@ order: 3
     - Commandeering in PVP Zone:
         - While commandeering a tugboat in a PVP zone, the bottom floor door must be broken first and all respawn points on the tugboat must be cleared. You may then break into one or both of the doors on the helm (where the driving controls are) and clear authorization on the boat. The third door may be broken after driving the boat outside of PVP (the previous owners should not interfere with the removal of this door).
         - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team.
+        - Players may use explsoives to raid the doors on the tugboat.
 
 <hr color="#22ffcd">
 
@@ -208,7 +211,7 @@ order: 3
 - Transportation:
     - Locked vehicles found in this zone may be damaged to destroy locks.
     - Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used).
-    - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
+    - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
     - Vehicles should not be moved into the PRZ by anyone other than the owners.
 
 <hr color="#22ffcd">
