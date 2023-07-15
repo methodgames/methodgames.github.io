@@ -169,13 +169,15 @@ order: 3
 **Tugboats and Campers:**
 - Tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
 - Vehicles should not be moved into PVP zones by anyone other than the owners.
+- **Please be mindful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper because you would be risking all of the items inside.**
 - Items lost due to decay will not be returned.
 - Tugboats:
     - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables.
-    - Tugboats are considered owned if all 3 doors are locked by the same player or team. 
+    - Tugboats are considered owned if all 3 doors are locked by the same player or team.
+    - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
     - Commandeering in PVP Zone:
         - While commandeering a tugboat in a PVP zone, the bottom floor door must be broken first and all respawn points on the tugboat must be cleared. You may then break into one or both of the doors on the helm (where the driving controls are) and clear authorization on the boat. The third door may be broken after driving the boat outside of PVP (the previous owners should not interfere with the removal of this door).
-        - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team. 
+        - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team.
 
 <hr color="#22ffcd">
 
@@ -205,7 +207,8 @@ order: 3
     - The work cart station in this zone is only considered PVP above ground.
 - Transportation:
     - Locked vehicles found in this zone may be damaged to destroy locks.
-    - Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used). 
+    - Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used).
+    - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
     - Vehicles should not be moved into the PRZ by anyone other than the owners.
 
 <hr color="#22ffcd">
