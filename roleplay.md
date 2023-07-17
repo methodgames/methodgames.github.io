@@ -118,33 +118,32 @@ order: 3
 - New Life Rule:
     - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone due to a PVE situation within a PVP zone you are free to go back to your body.
     - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
-    - The new life rule applies to temporary PVP (except Attack Helicopter PVP).
-    - The new life rule does not apply to the PRZ.
+    - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Attack Helicopter PVP) and all other PVP zones.**
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
-    - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
-    - Temporary PVP Zones:
-        - <sup>†</sup>Attack helicopter:
-            - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
-            - The temporary PVP zone ends when all of the crates have been looted.
-                - If the Attack Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
-                - Your base may be used as cover by people in the area who are currently in PVP after the Attack Helicopter has fallen.
-            - If Attack Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
-            - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Attack Helicopter down. (Same as the rule above regarding killed players.)
-            - Calling out when all crates have been looted is advised.
-            - The new life rule does not apply to Attack Helicopter PVP.
-        - <sup>†</sup>Airdrops:
-            - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
-            - If an airdrop recently falls near your base and you do not wish to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
-            - Airdrops should not be used specifically to create extended PVP zones.
-        - <sup>†</sup>Cargo ship:
-            - Cargo ship PVP ends when the sirens signal that the ship is leaving.
-            - If you do not wish to participate in cargo ship PVP, stay out of vision.
-            - The new life rule does not apply to cargo if you die within the PRZ.
-        - <sup>†</sup>Locked crates:
-            - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP. Locked crates should not be moved.
-            - Locked crates at monuments that are normally non-PVP are considered temporary PVP zones from the time they touch the ground until the time they are fully looted.
-        - <sup>†</sup>Work carts:
-            - For the work cart stations at PVP monuments and the PRZ, only the above-ground area is considered PVP.
+- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
+- Temporary PVP Zones:
+    - <sup>†</sup>Attack helicopter:
+        - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
+        - The temporary PVP zone ends when all of the crates have been looted.
+            - If the Attack Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
+            - Your base may be used as cover by people in the area who are currently in PVP after the Attack Helicopter has fallen.
+        - If Attack Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
+        - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Attack Helicopter down. (Same as the rule above regarding killed players.)
+        - Calling out when all crates have been looted is advised.
+        - The new life rule does not apply to Attack Helicopter PVP.
+    - <sup>†</sup>Airdrops:
+        - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
+        - If an airdrop recently falls near your base and you do not wish to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
+        - Airdrops should not be used specifically to create extended PVP zones.
+    - <sup>†</sup>Cargo ship:
+        - Cargo ship PVP ends when the sirens signal that the ship is leaving.
+        - If you do not wish to participate in cargo ship PVP, stay out of vision.
+        - The new life rule does not apply to cargo if you die within the PRZ.
+    - <sup>†</sup>Locked crates:
+        - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP. Locked crates should not be moved.
+        - Locked crates at monuments that are normally non-PVP are considered temporary PVP zones from the time they touch the ground until the time they are fully looted.
+    - <sup>†</sup>Work carts:
+        - For the work cart stations at PVP monuments and the PRZ, only the above-ground area is considered PVP.
 - Please use reasonable discretion when determining the size of a PVP and temporary PVP zones.
 - If you have any concerns about the boundaries of a PVP zone, please reach out to an admin.
 - You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them. If you are killed after being invited to a PVP zone, this will not be considered baiting; you are entering at your own discretion.
