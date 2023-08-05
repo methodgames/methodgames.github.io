@@ -227,7 +227,7 @@ order: 3
 - Please respect that, as a principal, we try to inform players, give them the chance to correct their actions and have a discussion with all parties involved before taking action. Give people the chance to learn and move forward without conflict.
     - Please note we will always prioritize issues pertaining to the behavior rules before attending to other matters. Be aware that not all information is made public, but rest assured we will be doing our due diligence to address concerns.
     - Please try to avoid spamming chat asking for admin assistance. We will get to you when we can. Feel free to call out again if it has been some time.
-- Punishment for issues that come up as a result of loopholes or lack of clarification in the rules will be addressed and decided by the admin team and adjusted accordingly.
+- Issues that come up as a result of loopholes or lack of clarification in the rules will be addressed and decided by the admin team and adjusted accordingly.
 - Interpretation and final verdict are at admin discretion. Everything is reviewed on a case-by-case basis and the rules stated here are to cover the basics.
 
 ### Conduct
