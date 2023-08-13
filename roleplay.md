@@ -90,7 +90,7 @@ order: 3
 
 - Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
-- There is a max team size of 8.
+- There is a max team size of 8 for PVP zones.
 
 | PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
 | |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
@@ -188,11 +188,12 @@ order: 3
     - Killing on sight (KOS) is allowed. 
     - Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
+    - There is a max team size of 8 for PVP and bases in this area. 
 - Building Rules:
     - Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
 - Raiding and Looting Rules:
     - Offline raiding (breaking building blocks) is not allowed. Offline and online looting is allowed.
-        - You may loot and break boxes and tool cupboards in unsecure areas of a base.
+        - You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.
         - Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.
         - Twig is not considered secure and can be broken. Compounds are not considered secure.
         - Tugboats in PRZ are classified as vehicles and therefore can be broken into while a player is offline.
