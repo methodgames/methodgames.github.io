@@ -94,20 +94,20 @@ order: 3
 
 | PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
 | |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
-| Large Oil Rig                         | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Large Oil Rig<sup>†</sup>             | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels                      |                               | Harbors                     |                 |
-| Arctic Research Base                  |                               | Ferry Terminal              |                 |
-| ~~Power Plant~~                       |                               | Satellite Dish              |                 |
+| Arctic Research Base<sup>†</sup>      |                               | Ferry Terminal              |                 |
+| Power Plant<sup>†</sup>               |                               | Satellite Dish              |                 |
 | ~~Train Yard~~                        |                               | Desert Military Base        |                 |
-| Water Treatment<sup>†</sup>           |                               | Giant Excavator<sup>†</sup> |                 |
+| Water Treatment                       |                               | Giant Excavator<sup>†</sup> |                 |
 | Sewer Branch                          |                               | Work Carts<sup>†</sup>      |                 |
-| Underwater Labs<sup>†</sup>           |                               | Stone Quarry                |                 |
-| C11 Cave<sup>†</sup>                  |                               | Sulfur Quarry               |                 |
-|                                       |                               | HQM Quarry                  |                 |
-|                                       |                               |                             |                 |
+| Underwater Labs                       |                               | Stone Quarry                |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | HQM Quarry                  |                 |
+| H15 Mining Outpost<sup>†</sup>        |                               |                             |                 |
+| I17 Cave<sup>†</sup>                  |                               |                             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 |                                       |                               | Junkyard<sup>†</sup>        |                 |
 | PRZ<sup>†</sup>                       |                               | Airfield<sup>†</sup>        |                 |

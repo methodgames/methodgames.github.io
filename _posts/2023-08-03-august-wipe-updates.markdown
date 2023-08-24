@@ -18,7 +18,7 @@ categories: method update
 - **Tugboats!**
 
     - In addition to the two spawn points at each harbor, **you can now purchace tugboats at each of the fishing villages.
-        - There are a total of 8 purchase points are available at large fishing village, and 5 purchase points at small fishing village.
+        - There are a total of 8 purchase points available at large fishing village, and 5 purchase points at small fishing village.
         - In order to build your tugboat you must have the following items (*subject to change*):
             - **5,000 Wood**
             - **2,000 Metal Fragments**
