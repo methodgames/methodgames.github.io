@@ -19,7 +19,17 @@ categories: method update
 
     - In addition to the two spawn points at each harbor, **you can now purchace tugboats at each of the fishing villages.
         - There are a total of 8 purchase points are available at large fishing village, and 5 purchase points at small fishing village.
+        - In order to build your tugboat you must have the following items (*subject to change*):
+            - 5,000 Wood
+            - 2,000 Metal Fragments
+            - 100 High Quality Metal
+            - 4 Ladders
+            - 4 Rope
+            - 2 Metal Pipes
+            - 9 Strengthened Glass Windows
+            - 500 Scrap
     - Once purchased and built, tugboats will be unmountable by other players for 5 minutes.
+        - Purchased tugboats will come with 100 fuel.
     - After mounting the drivers seat in the helm, please **remember to hold down e and authorize** on your brand new tugboat!
         - Without authorizing you will not be able to push your tugboat.
     - As a reminder, they will decay in 36 hours and have 3000 health. Whenever you interact with the engine, the decay timer will reset.
