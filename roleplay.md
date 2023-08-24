@@ -98,16 +98,16 @@ order: 3
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Military Tunnels                      |                               | Harbors                     |                 |
+| ~~Military Tunnels~~                  |                               | Harbors                     |                 |
 | Arctic Research Base<sup>†</sup>      |                               | Ferry Terminal              |                 |
-| Power Plant<sup>†</sup>               |                               | Satellite Dish              |                 |
-| ~~Train Yard~~                        |                               | Desert Military Base        |                 |
-| Water Treatment                       |                               | Giant Excavator<sup>†</sup> |                 |
-| Sewer Branch                          |                               | Work Carts<sup>†</sup>      |                 |
-| Underwater Labs                       |                               | Stone Quarry                |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | HQM Quarry                  |                 |
-| H15 Mining Outpost<sup>†</sup>        |                               |                             |                 |
-| I17 Cave<sup>†</sup>                  |                               |                             |                 |
+| Power Plant<sup>†</sup>               |                               | Water Treatment             |                 |
+| ~~Train Yard~~                        |                               | Satellite Dish              |                 |
+| Sewer Branch                          |                               | Desert Military Base        |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Giant Excavator<sup>†</sup> |                 |
+| H15 Mining Outpost<sup>†</sup>        |                               | Work Carts<sup>†</sup>      |                 |
+| I17 Cave<sup>†</sup>                  |                               | Stone Quarry                |                 |
+|                                       |                               | HQM Quarry                  |                 |
+|                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 |                                       |                               | Junkyard<sup>†</sup>        |                 |
 | PRZ<sup>†</sup>                       |                               | Airfield<sup>†</sup>        |                 |
