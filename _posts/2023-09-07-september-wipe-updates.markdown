@@ -52,7 +52,7 @@ categories: method update
 - **[Changed] -** ``Raiding and Looting Rules`` **- Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base.**
 - **[Changed] -** ``PVP / Monument Rules``
     - "Attack Helicopter" has been changed to "Patrol Helicopter" for all instances in the rules.
-
+- **[Changed] -** ``Building and Gameplay Rules`` **- Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.**
 <hr color="#22ffcd">
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**

@@ -51,6 +51,7 @@ order: 3
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells). Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <ins>around compounds</ins>. They should not be used to claim land. You must place compound walls down first.
 - Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
+- Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin. Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 - Player controlled drones may be flown at the owner's risk and others will not be held responsible for recovery.
@@ -240,7 +241,7 @@ order: 3
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
 
 ### Building and Admin Spawning
-- At any time you may reach out to an admin to ~~either <ins>trade your building resources for admin stacks or~~ <ins>trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
+- At any time you may reach out to an admin to either <ins>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance.
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 - Items spawned in for an admin sponsored event should not be taken. If admin spawned items are found, reach out via a ticket to ensure the return of these items. If spawned in items are taken from an admin, they will be recovered and despawned accordingly. 
