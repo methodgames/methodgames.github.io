@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wipe Updates - September 2023"
-date:   2023-09-06 04:00:00 -0400
+date:   2023-09-07 04:00:00 -0400
 categories: method update
 ---
 
@@ -42,6 +42,7 @@ categories: method update
 
 - **Hot Air Balloon Armor**
     - Your hot air balloons can now withstand even more punishment. With the new hot air balloon armor upgrades, you can protect your floating transport from enemy fire.
+    - To equip the armor, hold down e on the fuel storage and select Equip Armor
 
 ## **Rule Changes:**
 
