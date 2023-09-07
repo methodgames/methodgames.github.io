@@ -94,19 +94,19 @@ order: 3
 
 | PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
 | |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
-| Large Oil Rig<sup>†</sup>             | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Large Oil Rig                         | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| ~~Military Tunnels~~                  |                               | Harbors                     |                 |
-| Arctic Research Base<sup>†</sup>      |                               | Ferry Terminal              |                 |
+| Military Tunnels                      |                               | Harbors                     |                 |
+| Arctic Research Base                  |                               | Ferry Terminal              |                 |
 | Power Plant<sup>†</sup>               |                               | Water Treatment             |                 |
 | ~~Train Yard~~                        |                               | Satellite Dish              |                 |
 | Sewer Branch                          |                               | Desert Military Base        |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | Giant Excavator<sup>†</sup> |                 |
-| H15 Mining Outpost<sup>†</sup>        |                               | Work Carts<sup>†</sup>      |                 |
-| I17 Cave<sup>†</sup>                  |                               | Stone Quarry                |                 |
-|                                       |                               | HQM Quarry                  |                 |
+| HQM Quarry<sup>†</sup>                |                               | Giant Excavator<sup>†</sup> |                 |
+| S12 Abandoned Supermarket<sup>†</sup> |                               | Work Carts<sup>†</sup>      |                 |
+| V8 Mining Outpost<sup>†</sup>         |                               | Stone Quarry                |                 |
+|                                       |                               | Sulfur Quarry               |                 |
 |                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 |                                       |                               | Junkyard<sup>†</sup>        |                 |
