@@ -40,7 +40,7 @@ order: 3
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-08_PRZ.png"/>
+  <img src="/assets/2023-09_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -65,7 +65,7 @@ order: 3
     - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecure areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
     - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. Locked boxes within building privilege should not be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
-    - Twig and ladders should not be placed on another player’s base and boosting, flying, etc. should not be used to gain access to another player’s base. 
+    - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief or the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
 - Decaying bases:
@@ -75,7 +75,7 @@ order: 3
     - Decaying bases are not PVP zones.
 - Killed players:
     - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
-    - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Attack Helicopter down.
+    - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Patrol Helicopter down.
 
 <hr color="#22ffcd">
 
@@ -94,7 +94,7 @@ order: 3
 
 | PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
 | |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
-| Large Oil Rig<sup>†</sup>             | Attack Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
+| Large Oil Rig<sup>†</sup>             | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
@@ -118,19 +118,19 @@ order: 3
 - New Life Rule:
     - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone due to a PVE situation within a PVP zone you are free to go back to your body.
     - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
-    - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Attack Helicopter PVP) and all other PVP zones.**
+    - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Patrol Helicopter PVP) and all other PVP zones.**
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
 - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
 - Temporary PVP Zones:
-    - <sup>†</sup>Attack helicopter:
-        - The temporary PVP zone begins when the destroyed Attack Helicopter hits the ground. Do not use another player’s base for protection from the Attack Helicopter. Please be mindful about taking down Attack Helicopter in populated areas.
+    - <sup>†</sup>Patrol Helicopter:
+        - The temporary PVP zone begins when the destroyed Patrol Helicopter hits the ground. Do not use another player’s base for protection from the Patrol Helicopter. Please be mindful about taking down Patrol Helicopter in populated areas.
         - The temporary PVP zone ends when all of the crates have been looted.
-            - If the Attack Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
-            - Your base may be used as cover by people in the area who are currently in PVP after the Attack Helicopter has fallen.
-        - If Attack Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
-        - Players who have hit the Attack Helicopter and die to it are lootable until the Attack Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Attack Helicopter down. (Same as the rule above regarding killed players.)
+            - If the Patrol Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
+            - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
+        - If Patrol Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
+        - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Patrol Helicopter down. (Same as the rule above regarding killed players.)
         - Calling out when all crates have been looted is advised.
-        - The new life rule does not apply to Attack Helicopter PVP.
+        - The new life rule does not apply to Patrol Helicopter PVP.
     - <sup>†</sup>Airdrops:
         - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
         - If an airdrop recently falls near your base and you do not wish to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
@@ -162,10 +162,12 @@ order: 3
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket If your mode of transportation is not recoverable.
 
-**Modular Cars, Minicopters, Scrap Transport Helicopters, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
+**Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
+- Vehicle weapons should only be used to target other players within PVP zones.
+- You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**. This rule is not meant to encourage stealing, but rather to encourage securing your loot. Items may not be returned if misplaced or stolen. 
 
 **Tugboats and Campers:**
 - Tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
