@@ -103,15 +103,14 @@ order: 3
 | Arctic Research Base                  |                               | Ferry Terminal              |                 |
 | Power Plant<sup>†</sup>               |                               | Water Treatment             |                 |
 | ~~Train Yard~~                        |                               | Satellite Dish              |                 |
-| Sewer Branch                          |                               | Desert Military Base        |                 |
-| HQM Quarry<sup>†</sup>                |                               | Giant Excavator<sup>†</sup> |                 |
-| S12 Abandoned Supermarket<sup>†</sup> |                               | Work Carts<sup>†</sup>      |                 |
-| V8 Mining Outpost<sup>†</sup>         |                               | Stone Quarry                |                 |
-|                                       |                               | Sulfur Quarry               |                 |
+| Airfield                              |                               | Desert Military Base        |                 |
+| Sewer Branch                          |                               | Giant Excavator<sup>†</sup> |                 |
+| HQM Quarry<sup>†</sup>                |                               | Work Carts<sup>†</sup>      |                 |
+| S12 Abandoned Supermarket<sup>†</sup> |                               | Stone Quarry                |                 |
+| 8 Mining Outpost<sup>†</sup>          |                               | Sulfur Quarry               |                 |
 |                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
-|                                       |                               | Junkyard<sup>†</sup>        |                 |
-| PRZ<sup>†</sup>                       |                               | Airfield<sup>†</sup>        |                 |
+| PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
