@@ -160,7 +160,8 @@ order: 3
 - You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if completely unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
 - You should not shoot at people in vehicles within non-PVP zones.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
-- Please create a ticket If your mode of transportation is not recoverable.
+- Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
+
 
 **Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
