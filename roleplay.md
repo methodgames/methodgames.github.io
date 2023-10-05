@@ -37,10 +37,10 @@ order: 3
 - You will not be allowed to play if you have any accounts with a rust game ban in the last 180 days or >1 rust game ban.
 - Use of third-party applications (using the Rust+ protocol) on the server relating to PVP timers or locations are not allowed and will result in an automatic temporary ban for 15 minutes.
 
-**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
+**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the red outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-09_PRZ.png"/>
+  <img src="/assets/2023-10_PRZ.png"/>
 </p>
 
 <hr color="#22ffcd">
@@ -94,20 +94,20 @@ order: 3
 - There is a max team size of 8 for PVP zones.
 
 | PVP Monuments / Zones                 | Temporary PVP Zones           | Non-PVP Monuments           | Safe Zones      |
-| |:----------------------------------: | :----------------------------:| :--------------------------:|:---------------:|
+||:------------------------------------:|:-----------------------------:|:---------------------------:|:---------------:|
 | Large Oil Rig                         | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
 | Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Military Tunnels                      |                               | Harbors                     |                 |
 | Arctic Research Base                  |                               | Ferry Terminal              |                 |
-| Power Plant<sup>†</sup>               |                               | Water Treatment             |                 |
-| ~~Train Yard~~                        |                               | Satellite Dish              |                 |
+| Power Plant                           |                               | Water Treatment             |                 |
+| Train Yard                            |                               | Satellite Dish              |                 |
 | Airfield                              |                               | Desert Military Base        |                 |
 | Sewer Branch                          |                               | Giant Excavator<sup>†</sup> |                 |
-| HQM Quarry<sup>†</sup>                |                               | Work Carts<sup>†</sup>      |                 |
-| S12 Abandoned Supermarket<sup>†</sup> |                               | Stone Quarry                |                 |
-| 8 Mining Outpost<sup>†</sup>          |                               | Sulfur Quarry               |                 |
+| Sulfur Quarry<sup>†</sup>             |                               | Work Carts<sup>†</sup>      |                 |
+| G9 Gas Station<sup>†</sup>            |                               | Stone Quarry                |                 |
+|                                       |                               | HQM Quarry                  |                 |
 |                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 | PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
