@@ -203,6 +203,10 @@ order: 3
         - Players should not build bases with the intention of using them for PvE or PvP.
         - Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.
 
+<p align="center">
+  <img src="/assets/2023-10_MTC.png"/>
+</p>
+
 <hr color="#22ffcd">
 
 ## **PVP Raid Zone Rules**
