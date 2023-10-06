@@ -186,8 +186,27 @@ order: 3
 
 <hr color="#22ffcd">
 
+## **Method Town Center Rules**
+- The Method Town Center (**MTC**) will be a hub for fostering interactive gameplay, aiming to create a rich and interactive setting that accommodates a wide range of role-playing experiences.
+- To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within and within the MTC.
+    - Protection from PvP and temporary PvP:
+        - **No PvP Combat:**
+            - Players are not allowed to engage in combat with each other while inside the MTC.
+            - This rule promotes a cooperative and role-playing-focused environment where players can focus on collaborative gameplay rather than competitive combat.
+        - **Airdrop Restrictions:**
+            - Player-initiated airdrops are not allowed within the area.
+            - Airdrops that spawn naturally in this area are available on a first-come, first-serve basis, offering valuable resources without causing conflicts.
+        - **Restrictions on Patrol Helicopter:**
+            - Taking down the Patrol Helicopter is not allowed within the MTC.
+            - Players who have taken down Patrol Helicopter outside of this area should not target players within this area.
+    - Building Rules:
+        - Players should not build bases with the intention of using them for PvE or PvP.
+        - Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.
+
+<hr color="#22ffcd">
+
 ## **PVP Raid Zone Rules**
-- PRZ will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will  be explicitly stated below by category. Please be respectful.
+- The PVP Raid Zone Rules (**PRZ**) will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will be explicitly stated below by category. Please be respectful.
     - Killing on sight (KOS) is allowed. 
     - Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.

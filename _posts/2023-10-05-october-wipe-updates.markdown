@@ -15,45 +15,50 @@ categories: method update
 
 ## **Gameplay Changes:**
 
-- **Player Attack Helicopters!**
-    - A brand new helicopter has made its way onto the island!
-    - This new player attack helicopter can be purchased at the Air Wolf shop at Bandit Camp for 2250 scrap.
-    - These vehicles support up to 2 players, a pilot and a gunner. Both the pilot and the gunner can shoot the rockets and the gunner can shoot and aim the gun loaded into the vehicle. You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**.
-    - Like other vehicles, they use low grade fuel and have a light.
-    - They will decay in 8 hours outdoors, 48 hours indoors, and have 850 health.
+- **Brutalist Building Skin!**
+    - Embrace the raw and rugged aesthetic with the new Brutalist building skin for the stone building block. Your base will look tougher than ever before!
 
-- **Parachutes!**
-    - Safety first! Parachutes are now available for all island inhabitants. Leap off cliffs, escape ambushes, or simply enjoy the thrill of freefalling before deploying your parachute.
-    - Parachutes can be crafted using 2 tarp, 2 sewing kits, and 50 cloth. They will be placed into the new backpack slot.
-    - Press space after freefalling (over 15 meters above the ground) to deploy your parachute. You can also hold down space after jumping to deploy it as soon as possible.
-    - Parachutes need to be repacked after landing. Please do not shoot at people who have parachutes deployed as they can be damaged and will fall faster with decreased durability.
+- **Turret Interference!**
+    - Turrets within a 40m range are now limited to a maximum of 12 active turrets. 
+    - Any turrets activated after reaching the limit will enter a "disabled state." They emit a distinctive blue glow and will fail to acquire targets.
+    - Fear not! Disabled turrets can still be controlled via a computer station. Keep the defense game strong.
 
-- **Weapon Racks**
-    - Keep your arsenal organized and accessible with weapon racks. These deployable storage units allow you to display and store your firearms and melee weapons efficiently. No more fumbling through your inventory during those intense battles - now you can grab your weapon of choice with ease.
-    - You can now mount your weapons for quick access.
-    - Be careful with rack placement as they can be picked up by anyone, even without TC authorization. You are responsible for completely securing the items you place on your weapon racks. 
+- **SMGs Buffed!**
+    - SMG enthusiasts, rejoice! All SMGs have received improved aimcone, ensuring more accurate shots.
+    - The MP5 gets a special boost with increased damage and reduced bullet drop. Spray and pray no more, it's time to dominate!
 
-- **Homing Missile Launcher**
-    - Rust just got a lot more explosive! The introduction of homing missile launchers adds a deadly new element to combat. Lock onto your target and watch as the missile seeks it out with \*cough\* pinpoint \*cough\* accuracy. While defending your base during purge or launching an assault on the attack helicopter, these new homing missiles can give you an upper hand.
-    - The homing missile launcher can be crafted at a tier 2 workbench using 15 high quality metal, 4 metal pipes, 1 tech trash, and 1 CCTV camera.
-    - You must lock onto a helicopter (NPC or player owned within PVP) before you can fire.
-    - Flares have been given a new life and can now be used as flare ammo in the player attack helicopter as an alternate heat signature to project your vehicle. They can also be thrown from minicopters, scrap helicopters, etc. for the same purpose.
-    - Currently, the homing missile launcher cannot be used to target hot air balloons.
+- **Prepare for Thunder!**
+    - The weather takes a turn for the dramatic! Be prepared for more frequent bad weather conditions such as rain, storms, and fog. Survive the elements, or use them to your advantage.
 
-- **Hot Air Balloon Armor**
-    - Your hot air balloons can now withstand even more punishment. With the new hot air balloon armor upgrades, you can protect your floating transport from enemy fire.
-    - To equip the armor, hold down e on the fuel storage and select Equip Armor
+- **Quality of Life (QoL):**
+    - There have been several QoL updates that will help you to keep thriving in the Rusty wilderness!
+    - Homing Launcher now comes with a scope, helping you hit your mark with precision.
+    - Tool Cupboard (TC) Layout streamlined: Everything is now on one page, plus an additional tool slot for your convenience.
+    - Vehicle Dismount Settings are now configurable, allowing you to choose the time it takes to dismount from your trusty vehicles.
+    - Take control of your surroundings with the ability to toggle vending machine visibility on the map.
+    - Tug Boat Player Spawn is now restricted from getting too close to water monuments, ensuring a fairer start.
+    - Water catchers now fill faster during rainy conditions. Harvest the rain like a pro!
+    - Small Battery receives a power boost with increased capacity and power output. Keep those lights on!
+    - Enjoy clearer underwater vistas with increased underwater visibility.
+    - Workbench Radius gets a boost, providing a more comfortable crafting experience for all survivors.
 
 ## **Rule Changes:**
 
-- **[Added] -** ``Transportation Rules`` **- Vehicle weapons should only be used to target other players within PVP zones.**
-    - Added to address the addition of the player attack helicopter and with the oversight of submarines having ammunition.
-- **[Added] -** ``Transportation Rules`` **- You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**. This rule is not meant to encourage stealing, but rather to encourage securing your loot. Items may not be returned if misplaced or stolen.**
-- **[Changed] -** ``Raiding and Looting Rules`` **- Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base.**
-- **[Changed] -** ``PVP / Monument Rules``
-    - "Attack Helicopter" has been changed to "Patrol Helicopter" for all instances in the rules.
-- **[Changed] -** ``Building and Gameplay Rules`` **- Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.**
-<hr color="#22ffcd">
+- **[Added] -** ``Method Town Center Rules`` **- The Method Town Center (**MTC**) will be a hub for fostering interactive gameplay, aiming to create a rich and interactive setting that accommodates a wide range of role-playing experiences.**
+    - To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within and within the MTC.
+        - Protection from PvP and temporary PvP:
+            - **No PvP Combat:**
+                - Players are not allowed to engage in combat with each other while inside the MTC.
+                - This rule promotes a cooperative and role-playing-focused environment where players can focus on collaborative gameplay rather than competitive combat.
+            - **Airdrop Restrictions:**
+                - Player-initiated airdrops are not allowed within the area.
+                - Airdrops that spawn naturally in this area are available on a first-come, first-serve basis, offering valuable resources without causing conflicts.
+            - **Restrictions on Patrol Helicopter:**
+                - Taking down the Patrol Helicopter is not allowed within the MTC.
+                - Players who have taken down Patrol Helicopter outside of this area should not target players within this area.
+        - Building Rules:
+            - Players should not build bases with the intention of using them for PvE or PvP.
+            - Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
 
