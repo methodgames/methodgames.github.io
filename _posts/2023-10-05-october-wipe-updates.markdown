@@ -8,7 +8,7 @@ categories: method update
 <hr color="#22ffcd">
 
 <p align="center">
-  <img src="/assets/media_posts/2023-09-07-september-wipe-updates/attack_helicopter.png"/>
+  <img src="/assets/media_posts/2023-10-05-october-wipe-updates/cabins.png"/>
 </p>
 
 *Last Updated: 10/5/23*
@@ -45,11 +45,11 @@ categories: method update
 ## **Rule Changes:**
 
 - **[Added] -** ``Method Town Center Rules`` **- The Method Town Center (**MTC**) will be a hub for fostering interactive gameplay, aiming to create a rich and interactive setting that accommodates a wide range of role-playing experiences.**
-    - To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within and within the MTC.
+    - To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within the MTC.
         - Protection from PvP and temporary PvP:
             - **No PvP Combat:**
                 - Players are not allowed to engage in combat with each other while inside the MTC.
-                - This rule promotes a cooperative and role-playing-focused environment where players can focus on collaborative gameplay rather than competitive combat.
+                - This rule promotes a cooperative and roleplay focused environment where players can focus on collaborative gameplay rather than competitive combat.
             - **Airdrop Restrictions:**
                 - Player-initiated airdrops are not allowed within the area.
                 - Airdrops that spawn naturally in this area are available on a first-come, first-serve basis, offering valuable resources without causing conflicts.
