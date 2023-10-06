@@ -162,7 +162,6 @@ order: 3
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
 
-
 **Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Baloons, Rowboats, Rhibs, Snowmobiles, Trains:**
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
@@ -201,7 +200,7 @@ order: 3
             - Players who have taken down Patrol Helicopter outside of this area should not target players within this area.
     - Building Rules:
         - Players should not build bases with the intention of using them for PvE or PvP.
-        - Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.
+        - ~~Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.~~
 
 <p align="center">
   <img src="/assets/2023-10_MTC.png"/>

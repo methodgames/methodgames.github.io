@@ -58,7 +58,7 @@ categories: method update
                 - Players who have taken down Patrol Helicopter outside of this area should not target players within this area.
         - Building Rules:
             - Players should not build bases with the intention of using them for PvE or PvP.
-            - Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.
+            - ~~Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.~~
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
 
