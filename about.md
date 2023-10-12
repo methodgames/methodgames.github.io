@@ -21,7 +21,7 @@ Although respectful roleplay is the primary focus of the server, we have include
 
 <hr color="#22ffcd">
 
-## **Vanilla Quad:**
+## **Vanilla Duo:**
 
 This server was created to focus on PVP gameplay while maintaining a respectful environment.
 
