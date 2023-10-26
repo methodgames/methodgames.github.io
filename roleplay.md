@@ -6,6 +6,9 @@ order: 3
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
 ---
+<a name="About">
+</a>
+
 <hr color="#22ffcd">
 
 ## **About**
@@ -20,7 +23,16 @@ Thank you for being respectful, creative, and simply amazing.
 
 <hr color="#22ffcd">
 
-## **Behavior Rules**
+<p align="center">
+<a href="#Behavior">Behavior</a> <strong>|</strong> <a href="#General">General</a> <strong>|</strong> <a href="#Building and Gameplay">Building and Gameplay</a> <strong>|</strong> <a href="#Raiding and Looting">Raiding and Looting</a> <strong>|</strong> <a href="#PVP / Monument ">PVP / Monument</a> <strong>|</strong> <a href="#Transportation">Transportation</a> <strong>|</strong> <a href="#Method Town Center">Method Town Center</a> <strong>|</strong> <a href="#PVP Raid Zone">PVP Raid Zone</a> <strong>|</strong> <a href="#Purge">Purge</a> <strong>|</strong> <a href="#Admin">Admin</a> <strong>|</strong> <a href="#Other">Other</a>
+</p>
+
+<a name="Behavior">
+</a>
+
+<hr color="#22ffcd">
+
+## **Behavior Rules** 
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
@@ -33,6 +45,9 @@ Thank you for being respectful, creative, and simply amazing.
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
+
+<a name="General">
+</a>
 
 <hr color="#22ffcd">
 
@@ -55,6 +70,9 @@ Thank you for being respectful, creative, and simply amazing.
   <img src="/assets/2023-10_PRZ.png"/>
 </p>
 
+<a name="Building and Gameplay">
+</a>
+
 <hr color="#22ffcd">
 
 ## **Building and Gameplay Rules**
@@ -67,6 +85,9 @@ Thank you for being respectful, creative, and simply amazing.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin. Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 - Player controlled drones may be flown at the owner's risk and others will not be held responsible for recovery.
+
+<a name="Raiding and Looting">
+</a>
 
 <hr color="#22ffcd">
 
@@ -89,6 +110,9 @@ Thank you for being respectful, creative, and simply amazing.
 - Killed players:
     - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
     - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Patrol Helicopter down.
+
+<a name="PVP / Monument">
+</a>
 
 <hr color="#22ffcd">
 
@@ -164,6 +188,9 @@ Thank you for being respectful, creative, and simply amazing.
         - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecure deployables.
         - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection). Excavator airdrops have been disabled.
 
+<a name="Transportation">
+</a>
+
 <hr color="#22ffcd">
 
 ## **Transportation Rules**
@@ -195,6 +222,9 @@ Thank you for being respectful, creative, and simply amazing.
         - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team.
         - Players may use explsoives to raid the doors on the tugboat.
 
+<a name="Method Town Center">
+</a>
+
 <hr color="#22ffcd">
 
 ## **Method Town Center Rules**
@@ -217,6 +247,9 @@ Thank you for being respectful, creative, and simply amazing.
 <p align="center">
   <img src="/assets/2023-10_MTC.png"/>
 </p>
+
+<a name="PVP Raid Zone">
+</a>
 
 <hr color="#22ffcd">
 
@@ -251,11 +284,17 @@ Thank you for being respectful, creative, and simply amazing.
     - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
     - Vehicles should not be moved into the PRZ by anyone other than the owners.
 
+<a name="Purge">
+</a>
+
 <hr color="#22ffcd">
 
 ## **Purge Rules**
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
 - There is a max roam / raiding size of 4 members per team at once (Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team at the same raid target at the same time. Teammates waiting to be swapped in must not leave base / respawn point until the teammate being swapped out has returned or died).
+
+<a name="Admin">
+</a>
 
 <hr color="#22ffcd">
 
@@ -287,6 +326,9 @@ Thank you for being respectful, creative, and simply amazing.
 <hr color="#dab3ff">
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
+
+<a name="Other">
+</a>
 
 <hr color="#dab3ff">
 
