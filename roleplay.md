@@ -14,7 +14,9 @@ This inclusive community was created with the vision of facilitating respectful 
 
 We are incredibly proud of the wonderful community we have built together. It is a refelection of the kindness and respect you all display in your interactions. It fosters a sense of belonging and friendship among our members and paves the way for creativity to flourish. The support and camaraderie that each one of you brings to this space has truly made it a special place for everyone. The bonds we've formed, the stories we've created, and the adventures we've shared are a testament to the incredible heart of our community.
 
-Thank you for being respectful, creative, and simply amazing. [Join Here!](steam://connect/135.148.136.142:28015)
+Thank you for being respectful, creative, and simply amazing. 
+
+[Connect Now](steam://connect/135.148.136.142:28015) or [Join Our Discord](https://discord.gg/methodgames)
 
 <hr color="#22ffcd">
 
