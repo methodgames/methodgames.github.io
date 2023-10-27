@@ -15,7 +15,7 @@ order: 3
 
 This inclusive community was created with the vision of facilitating respectful and interactive gameplay. Although respectful roleplay is the primary focus of the server, we have included designated PVP areas, as this is a part of Rust that we would like our players to enjoy. The intent of this design is to allow it to be used as an avenue for players to explore various aspects of gameplay in a safe environment and to use that exposure to exercise their choice of exploring others servers that are more focused on the specific aspects of gameplay they enjoy. 
 
-We are incredibly proud of the wonderful community we have built together. It is a refelection of the kindness and respect you all display in your interactions. It fosters a sense of belonging and friendship among our members and paves the way for creativity to flourish. The support and camaraderie that each one of you brings to this space has truly made it a special place for everyone. The bonds we've formed, the stories we've created, and the adventures we've shared are a testament to the incredible heart of our community.
+We are incredibly proud of the wonderful community we have built together. It is a reflection of the kindness and respect you all display in your interactions. It fosters a sense of belonging and friendship among our members and paves the way for creativity to flourish. The support and camaraderie that each one of you brings to this space has truly made it a special place for everyone. The bonds we've formed, the stories we've created, and the adventures we've shared are a testament to the incredible heart of our community.
 
 Thank you for being respectful, creative, and simply amazing. 
 
