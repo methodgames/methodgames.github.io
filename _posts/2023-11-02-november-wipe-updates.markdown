@@ -16,9 +16,9 @@ categories: method update
 ## **Gameplay Changes:**
 
 - **Frontier Building Skin and Base Decor!**
-    - Embrace the raw and rugged aesthetic with the new Brutalist building skin for the stone building block. Your base will look tougher than ever before!
-    - Items added include storage barrels, wanted posters, hunting trophies, rocking chairs, and many other exciting deployables.
-
+    - Get ready to revamp your base with the all-new Frontier Base Decor DLC that's part of the latest Rust update. This DLC introduces a captivating old-timey theme that will transport you to a bygone era, infusing your base with a unique and charming ambiance.
+    - This DLC introduces a treasure trove of delightful items to enhance your base's aesthetics (including the long awaited rocking chair)!
+    - From rustic barrel storage that exudes an air of authenticity to nostalgic wanted posters that whisper tales of the Wild West, and from impressive hunting trophies that celebrate your prowess to fresh and stylish planters that breathe life into your surroundings, you'll have everything you need to craft a base that's truly your own.
 
 - **Rail Network Links!**
     - A Seamless Journey Awaits! The above and below ground rail networks are now linked.
