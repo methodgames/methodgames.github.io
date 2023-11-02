@@ -98,11 +98,11 @@ Thank you for being respectful, creative, and simply amazing.
 - Non-decaying bases:
     - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecure areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
-    - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. Locked boxes within building privilege should not be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
+    - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. **Locked boxes within building privilege should not be destroyed.** If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief the base (ex. authorizing TC and building to close it off or taking items).
-        - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
-- Decaying bases:
+        - If you find a non-decaying base left open or a base that looks like it has been raided, please do not loot it. **Please reach out to an admin to help secure it.** Any items that were lost between the time a base was left open and the time an admin closed or secure it will not be returned. We advise locks be placed on deployables since **locked boxes within building privilege should not be destroyed.** Players that continue to loot non-decaying bases instead of reporting to an admin will be disciplined accordingly. 
+  - Decaying bases:
     - Decaying bases cannot be raided (ex. breaking tool cupboards or building blocks) or griefed (ex. closing off by authorizing on TC and building walls). If something is not lootable due to building privilege, repair the building block it is on until the block the TC is on decays.
     - Decaying bases can be looted and locked boxes can be broken. Twig and ladders can be placed on decaying bases. 
     - If the base owner returns to their decaying base, looters may be asked to leave to secure the base.

@@ -15,7 +15,7 @@ categories: method update
 
 ## **Gameplay Changes:**
 
-- **Frontier Building Skin and Base Decor!**
+- **Frontier Base Decor!**
     - Get ready to revamp your base with the all-new Frontier Base Decor DLC that's part of the latest Rust update. This DLC introduces a captivating old-timey theme that will transport you to a bygone era, infusing your base with a unique and charming ambiance.
     - This DLC introduces a treasure trove of delightful items to enhance your base's aesthetics (including the long awaited rocking chair)!
     - From rustic barrel storage that exudes an air of authenticity to nostalgic wanted posters that whisper tales of the Wild West, and from impressive hunting trophies that celebrate your prowess to fresh and stylish planters that breathe life into your surroundings, you'll have everything you need to craft a base that's truly your own.
@@ -49,8 +49,12 @@ categories: method update
 
 ## **Rule Changes:**
 
+- **[Changed] -** ``Raiding and Looting Rules``- If you find a non-decaying base left open or a base that looks like it has been raided, please do not loot it. **Please reach out to an admin to help secure it.** Any items that were lost between the time a base was left open and the time an admin closed or secure it will not be returned. We advise locks be placed on deployables since **locked boxes within building privilege should not be destroyed.** Players that continue to loot non-decaying bases instead of reporting to an admin will be disciplined accordingly. 
+    - This change is intended to effectively discourage and put an end to the practice of looting non-decaying bases. Our goal is to promote a stronger sense of community and encourage players to take responsibility for securing and double-checking their bases before logging off. At the same time, it serves as a deterrent, aiming to discourage and take appropriate actions against those who engage in looting.
+    - We are advocating the principle of treating others as you would like to be treated.
 - **[Added] -** ``PVP Raid Zone Rules`` **- If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.**
     - This will be to establish a clear boundary for PVP interactions at the train tunnel entrance within the PRZ.
+
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
 
