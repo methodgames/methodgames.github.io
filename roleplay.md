@@ -67,7 +67,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the red outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-10_PRZ.png"/>
+  <img src="/assets/2023-11_PRZ.png"/>
 </p>
 
 <a name="Building and Gameplay">
@@ -100,7 +100,7 @@ Thank you for being respectful, creative, and simply amazing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
     - Unsecure deployables (ex. large furnaces) may be looted and boxes outside of building privilege may be destroyed. Locked boxes within building privilege should not be destroyed. If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
-    - If you gain access to an unlocked tool cupboard (TC), you may not grief or the base (ex. authorizing TC and building to close it off or taking items).
+    - If you gain access to an unlocked tool cupboard (TC), you may not grief the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please reach out to an admin to help secure it.
 - Decaying bases:
     - Decaying bases cannot be raided (ex. breaking tool cupboards or building blocks) or griefed (ex. closing off by authorizing on TC and building walls). If something is not lootable due to building privilege, repair the building block it is on until the block the TC is on decays.
@@ -134,16 +134,16 @@ Thank you for being respectful, creative, and simply amazing.
 | Large Oil Rig                         | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Missile Silo                          | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Military Tunnels                      |                               | Harbors                     |                 |
+| Missile Silo<sup>†</sup>              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
 | Arctic Research Base                  |                               | Ferry Terminal              |                 |
 | Power Plant                           |                               | Water Treatment             |                 |
 | Train Yard                            |                               | Satellite Dish              |                 |
 | Airfield                              |                               | Desert Military Base        |                 |
 | Sewer Branch                          |                               | Giant Excavator<sup>†</sup> |                 |
-| Sulfur Quarry<sup>†</sup>             |                               | Work Carts<sup>†</sup>      |                 |
-| G9 Gas Station<sup>†</sup>            |                               | Stone Quarry                |                 |
-|                                       |                               | HQM Quarry                  |                 |
+| HQM Quarry<sup>†</sup>                |                               | Work Carts<sup>†</sup>      |                 |
+| G21 Gas Station<sup>†</sup>           |                               | Stone Quarry                |                 |
+|                                       |                               | Sulfur Quarry               |                 |
 |                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
 | PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
@@ -245,7 +245,7 @@ Thank you for being respectful, creative, and simply amazing.
         - ~~Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.~~
 
 <p align="center">
-  <img src="/assets/2023-10_MTC.png"/>
+  <img src="/assets/2023-11_MTC.png"/>
 </p>
 
 <a name="PVP Raid Zone">
@@ -278,6 +278,8 @@ Thank you for being respectful, creative, and simply amazing.
 - PVP Rules:
     - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area. The new life rule does not apply to the PRZ or monuments that extend into the PRZ.
     - The work cart station in this zone is only considered PVP above ground.
+    - If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.
+
 - Transportation:
     - Locked vehicles found in this zone may be damaged to destroy locks.
     - Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used).

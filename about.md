@@ -35,3 +35,5 @@ This server was created to focus on PVP gameplay while maintaining a respectful 
 
 [direct-connect]: steam://connect/135.148.136.142:28015
 [discord]: https://discord.gg/methodgames
+
+<hr color="#dab3ff">
