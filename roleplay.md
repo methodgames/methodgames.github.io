@@ -35,8 +35,8 @@ Thank you for being respectful, creative, and simply amazing.
 ## **Behavior Rules** 
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
-- Harassment, doxxing, abuse, slander, hate speech, or discriminatory speech will not be tolerated.
-- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, etc. that are disrespectful or that are about these are prohibited. Use of these terms may result in an automatic ban from the server.
+- Harassment, doxxing, abuse, slander, hate speech, slurs, and discriminatory speech will not be tolerated.
+- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. Use of these terms may result in an automatic ban from the server.
 - Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed (including bullying, stream sniping, and insiding).
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - Please be mindful that everyone is allowed to focus on aspects of gameplay they enjoy. Your ideas or interests may not coincide, but please be respectful.
@@ -44,7 +44,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Know your audience. RP, chat, actions, etc. should not make others uncomfortable. If someone is saying or doing something that makes you uncomfortable, please ask them to stop or ask them to avoid that type of interaction with you and let an admin know.
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
 - Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
-- Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban as determined by the staff team.
+- Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Please trust that the staff team is a resource and a mediator with the community's best intentions in mind whenever behavioral issues arise. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban from the server and/or discord as determined by the staff team.
 
 <a name="General">
 </a>
