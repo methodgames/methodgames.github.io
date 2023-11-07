@@ -65,7 +65,7 @@ Thank you for being respectful, creative, and simply amazing.
 - You will not be allowed to play if you have any accounts with a rust game ban in the last 180 days or >1 rust game ban.
 - Use of third-party applications (using the Rust+ protocol) on the server relating to PVP timers or locations are not allowed and will result in an automatic temporary ban for 15 minutes.
 
-**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the red outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
+**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
   <img src="/assets/2023-11_PRZ.png"/>
