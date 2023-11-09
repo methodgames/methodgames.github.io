@@ -164,7 +164,7 @@ Thank you for being respectful, creative, and simply amazing.
         - The temporary PVP zone ends when all of the crates have been looted.
             - If the Patrol Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
             - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
-        - If Patrol Helicopter damages another player's base or if you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
+        - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base. If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
         - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Patrol Helicopter down. (Same as the rule above regarding killed players.)
         - Calling out when all crates have been looted is advised.
         - The new life rule does not apply to Patrol Helicopter PVP.
