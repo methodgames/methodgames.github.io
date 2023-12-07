@@ -69,7 +69,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-11_PRZ.png"/>
+  <img src="/assets/2023-12_PRZ.png"/>
 </p>
 
 <a name="Building and Gameplay">
@@ -100,6 +100,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Non-decaying bases:
     - **Twig blocks should not be destroyed.** Twig is not considered a secure building material and loot stored behind twig or **in unsecure areas of a base** will not be returned. You are responsible for securing your loot before logging off. This rule is not meant to encourage stealing.
     - Compounds are considered secure. Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. If you are caught looting a non-decaying base, you may be asked to leave or killed.
+    - The legacy shelters will be considered building blocks, not deployables, and therefore should not be broken. They should be allowed to fully decay before the contents can be looted.
     - Unsecure deployables may be looted.
         - Unsecure deployables refer to items within building privilage that are either unlocked or cannot be locked and that are that are accessible without boosting, placing twig, flying, etc.
         - Boxes outside of building privilege are not considered secure and may be destroyed
@@ -149,7 +150,7 @@ Thank you for being respectful, creative, and simply amazing.
 | Airfield                              |                               | Desert Military Base        |                 |
 | Sewer Branch                          |                               | Giant Excavator<sup>†</sup> |                 |
 | HQM Quarry<sup>†</sup>                |                               | Work Carts<sup>†</sup>      |                 |
-| G21 Gas Station<sup>†</sup>           |                               | Stone Quarry                |                 |
+| AC8 Gas Station<sup>†</sup>           |                               | Stone Quarry                |                 |
 |                                       |                               | Sulfur Quarry               |                 |
 |                                       |                               | Underwater Labs             |                 |
 |                                       |                               | Dome<sup>†</sup>            |                 |
@@ -249,10 +250,10 @@ Thank you for being respectful, creative, and simply amazing.
             - Players who have taken down Patrol Helicopter outside of this area should not target players within this area.
     - Building Rules:
         - Players should not build bases with the intention of using them for PvE or PvP.
-        - ~~Due to the limited size of this area, buildings will be restricted to a maximum of 4 square foundations and 6 triangle foundations.~~
+        - Due to the limited size of this area, compounds and external TCs are not permitted.
 
 <p align="center">
-  <img src="/assets/2023-11_MTC.png"/>
+  <img src="/assets/2023-12_MTC.png"/>
 </p>
 
 <a name="PVP Raid Zone">
