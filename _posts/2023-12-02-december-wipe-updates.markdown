@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wipe Updates - December 2023"
-date:   2023-12-02 01:00:00 -0400
+date:   2023-12-07 01:00:00 -0400
 categories: method update
 ---
 
@@ -11,7 +11,7 @@ categories: method update
   <img src="/assets/media_posts/2023-12-07-december-wipe-updates/christmas.png"/>
 </p>
 
-*Last Updated: 12/3/23*
+*Last Updated: 12/7/23*
 
 ## **Gameplay Changes:**
 
