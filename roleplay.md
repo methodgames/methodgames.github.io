@@ -133,7 +133,13 @@ Thank you for being respectful, creative, and simply amazing.
   <img src="/assets/pvp_example.png"/>
 </p>
 
-- Oil rig PVP zones are a 5x5 grid around each rig that extend to the coordinate grid.
+- Oil rig PVP zones are a 5x5 grid around each rig (with the rig in the center of the 5x5 grid) that extend to the coordinate grid.
+
+<p style="text-align: center;">
+  <img src="/assets/large_oil_pvp.png" style="max-width: 45%; display: inline-block; vertical-align: middle;" />
+  <img src="/assets/small_oil_pvp.png" style="max-width: 45%; display: inline-block; vertical-align: middle;" />
+</p>
+
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
 - There is a max team size of 8 for PVP zones.
 
@@ -157,7 +163,7 @@ Thank you for being respectful, creative, and simply amazing.
 | PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
-- If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area.
+- If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties (on a per team member basis) leave the designated area.
 - If you are killed or downed while the temporary PVP is active, your body can be looted by anyone, including yourself, after the temporary PVP is over. The looting of bodies after the PVP has ended should not be a PVP zone. If you do not want to participate in temp PVP, stay inside and out of vision.
 - New Life Rule:
     - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it. If you die alone due to a PVE situation within a PVP zone you are free to go back to your body.
