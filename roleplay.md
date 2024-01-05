@@ -271,26 +271,26 @@ Thank you for being respectful, creative, and simply amazing.
 ## **PVP Raid Zone Rules**
 - The PVP Raid Zone Rules (**PRZ**) will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will be explicitly stated below by category. Please be respectful.
     - Killing on sight (KOS) is allowed. 
-    - ~Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but ~building with the intention of blocking building privilege is not allowed.
+    - ~~Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but ~~building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
     - There is a max team size of 8 for PVP and bases in this area. 
 - Building Rules:
-    - Walling off monuments is not allowed. Test generators are allowed. ~Trap bases are allowed.~ External TCs should only be used for securing building privilege around compounds.
+    - Walling off monuments is not allowed. Test generators are allowed. ~~Trap bases are allowed.~~ External TCs should only be used for securing building privilege around compounds.
     - Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
 - Raiding and Looting Rules:
-    - Offline raiding (breaking building blocks) is not allowed. ~Offline and online looting is allowed.~
-        - ~You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.~
-        - ~Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.~
-        - ~Twig is not considered secure and can be broken. Compounds are not considered secure.~
+    - Offline raiding (breaking building blocks) is not allowed. ~~Offline and online looting is allowed.~~
+        - ~~You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.~~
+        - ~~Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.~~
+        - ~~Twig is not considered secure and can be broken. Compounds are not considered secure.~~
         - Tugboats in PRZ are classified as vehicles and therefore can be broken into while a player is offline.
-    - ~PVP should not turn into a raid without first confirming online status.~
-    - ~Online Raiding*:~
-        - ~Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.~
-        - ~Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.~
-        - ~Counters may engage in PVP and may raid only using explosives obtained from countering.~
-        - ~A raid is over when the raiders have not used any explosives for 10 minutes.~
-            - ~Consent to an online raid may not be rescinded without the agreement of all parties.~
-            - ~*Raids require moderation and therefore may be delayed due to staff availability.~
+    - ~~PVP should not turn into a raid without first confirming online status.~~
+    - ~~Online Raiding*:~~
+        - ~~Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.~~
+        - ~~Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.~~
+        - ~~Counters may engage in PVP and may raid only using explosives obtained from countering.~~
+        - ~~A raid is over when the raiders have not used any explosives for 10 minutes.~~
+            - ~~Consent to an online raid may not be rescinded without the agreement of all parties.~~
+            - ~~*Raids require moderation and therefore may be delayed due to staff availability.~~
 - PVP Rules:
     - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area. The new life rule does not apply to the PRZ or monuments that extend into the PRZ.
     - The work cart station in this zone is only considered PVP above ground.
