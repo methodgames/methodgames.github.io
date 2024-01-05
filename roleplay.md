@@ -69,7 +69,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2023-12_PRZ.png"/>
+  <img src="/assets/2024-01_PRZ.png"/>
 </p>
 
 <a name="Building and Gameplay">
@@ -148,19 +148,20 @@ Thank you for being respectful, creative, and simply amazing.
 | Large Oil Rig                         | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Missile Silo<sup>†</sup>              | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Military Tunnels<sup>†</sup>          |                               | Harbors                     |                 |
-| Arctic Research Base                  |                               | Ferry Terminal              |                 |
-| Power Plant                           |                               | Water Treatment             |                 |
-| Train Yard                            |                               | Satellite Dish              |                 |
-| Airfield                              |                               | Desert Military Base        |                 |
-| Sewer Branch                          |                               | Giant Excavator<sup>†</sup> |                 |
-| HQM Quarry<sup>†</sup>                |                               | Work Carts<sup>†</sup>      |                 |
-| AC8 Gas Station<sup>†</sup>           |                               | Stone Quarry                |                 |
+| Arctic Research Base                  | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Power Plant                           |                               | Harbors                     |                 |
+| Airfield                              |                               | Ferry Terminal              |                 |
+| Sewer Branch<sup>†</sup>              |                               | Underwater Labs             |                 |
+| Junkyard<sup>†</sup>                  |                               | Satellite Dish              |                 |
+| Stone Quarry<sup>†</sup>              |                               | Desert Military Base        |                 |
+| F8 Abandoned Supermarket<sup>†</sup>  |                               | Giant Excavator<sup>†</sup> |                 |
+|                                       |                               | Work Carts<sup>†</sup>      |                 |
+|                                       |                               | HQM Quarry                  |                 |
 |                                       |                               | Sulfur Quarry               |                 |
-|                                       |                               | Underwater Labs             |                 |
-|                                       |                               | Dome<sup>†</sup>            |                 |
-| PRZ<sup>†</sup>                       |                               | Junkyard<sup>†</sup>        |                 |
+|                                       |                               | Missile Silo                |                 |
+|                                       |                               | Military Tunnels            |                 |
+|                                       |                               | Water Treatment             |                 |
+| PRZ<sup>†</sup>                       |                               | Dome<sup>†</sup>            |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties (on a per team member basis) leave the designated area.
@@ -259,7 +260,7 @@ Thank you for being respectful, creative, and simply amazing.
         - Due to the limited size of this area, compounds and external TCs are not permitted.
 
 <p align="center">
-  <img src="/assets/2023-12_MTC.png"/>
+  <img src="/assets/2024-01_MTC.png"/>
 </p>
 
 <a name="PVP Raid Zone">
@@ -270,25 +271,26 @@ Thank you for being respectful, creative, and simply amazing.
 ## **PVP Raid Zone Rules**
 - The PVP Raid Zone Rules (**PRZ**) will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will be explicitly stated below by category. Please be respectful.
     - Killing on sight (KOS) is allowed. 
-    - Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but building with the intention of blocking building privilege is not allowed.
+    - ~Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but ~building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
     - There is a max team size of 8 for PVP and bases in this area. 
 - Building Rules:
-    - Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed. External TCs should only be used for securing building privilege around compounds.
+    - Walling off monuments is not allowed. Test generators are allowed. ~Trap bases are allowed.~ External TCs should only be used for securing building privilege around compounds.
+    - Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
 - Raiding and Looting Rules:
-    - Offline raiding (breaking building blocks) is not allowed. Offline and online looting is allowed.
-        - You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.
-        - Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.
-        - Twig is not considered secure and can be broken. Compounds are not considered secure.
+    - Offline raiding (breaking building blocks) is not allowed. ~Offline and online looting is allowed.~
+        - ~You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.~
+        - ~Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.~
+        - ~Twig is not considered secure and can be broken. Compounds are not considered secure.~
         - Tugboats in PRZ are classified as vehicles and therefore can be broken into while a player is offline.
-    - PVP should not turn into a raid without first confirming online status.
-    - Online Raiding*:
-        - Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
-        - Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.
-        - Counters may engage in PVP and may raid only using explosives obtained from countering.
-        - A raid is over when the raiders have not used any explosives for 10 minutes.
-            - Consent to an online raid may not be rescinded without the agreement of all parties.
-            - *Raids require moderation and therefore may be delayed due to staff availability.
+    - ~PVP should not turn into a raid without first confirming online status.~
+    - ~Online Raiding*:~
+        - ~Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.~
+        - ~Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.~
+        - ~Counters may engage in PVP and may raid only using explosives obtained from countering.~
+        - ~A raid is over when the raiders have not used any explosives for 10 minutes.~
+            - ~Consent to an online raid may not be rescinded without the agreement of all parties.~
+            - ~*Raids require moderation and therefore may be delayed due to staff availability.~
 - PVP Rules:
     - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area. The new life rule does not apply to the PRZ or monuments that extend into the PRZ.
     - The work cart station in this zone is only considered PVP above ground.
@@ -306,7 +308,10 @@ Thank you for being respectful, creative, and simply amazing.
 <hr color="#22ffcd">
 
 ## **Purge Rules**
+- **These are all under developemnt and are not finalized.**
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
+- No working with other groups.
+- Neutrality is allowed but alliances are not.
 - There is a max roam / raiding size of 4 members per team at once (Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team at the same raid target at the same time. Teammates waiting to be swapped in must not leave base / respawn point until the teammate being swapped out has returned or died).
 
 <a name="Admin">
