@@ -271,7 +271,7 @@ Thank you for being respectful, creative, and simply amazing.
 ## **PVP Raid Zone Rules**
 - The PVP Raid Zone Rules (**PRZ**) will be essentially vanilla, but many server rules will still apply. To avoid conflict, some rules will be explicitly stated below by category. Please be respectful.
     - Killing on sight (KOS) is allowed. 
-    - ~~Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but ~~building with the intention of blocking building privilege is not allowed.
+    - ~~Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but~~ building with the intention of blocking building privilege is not allowed.
     - Items lost in this area are not recoverable.
     - There is a max team size of 8 for PVP and bases in this area. 
 - Building Rules:
