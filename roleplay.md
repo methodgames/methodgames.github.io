@@ -180,7 +180,7 @@ Thank you for being respectful, creative, and simply amazing.
             - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
         - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base. If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
         - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Patrol Helicopter down. (Same as the rule above regarding killed players.)
-        - Calling out when all crates have been looted is advised.
+        - Calling out when all crates have been looted is advised. Do not call out in chat before all of the crates have been looted or it will be considered baiting PvP.
         - The new life rule does not apply to Patrol Helicopter PVP.
     - <sup>†</sup>Airdrops:
         - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
