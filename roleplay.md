@@ -357,6 +357,6 @@ Thank you for being respectful, creative, and simply amazing.
 
 You can support the server here: [Donate](https://paypal.me/bluejayonmeth)
 
-You can submit a ban appeal here: [Ban Appeal](bit.ly/methodbanappeal)
+You can submit a ban appeal here: [Ban Appeal](https://bit.ly/methodbanappeal)
 
 [Connect Now](steam://connect/135.148.136.142:28015) or [Join Our Discord](https://discord.gg/methodgames)
