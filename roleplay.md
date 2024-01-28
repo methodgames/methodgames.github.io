@@ -308,7 +308,7 @@ Thank you for being respectful, creative, and simply amazing.
 <hr color="#22ffcd">
 
 ## **Purge Rules**
-- **These are all under developemnt and are not finalized.**
+- **All of these of these rules are currently under development and are not finalized.**
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
 - No working with other groups.
 - Neutrality is allowed but alliances are not.
