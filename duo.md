@@ -32,7 +32,9 @@ order: 4
     - Clear TC auth.
     - Remove, replace, and change codes.
     - Remove all bags.
-    - The player that is being swapped should not return to the team.
+    - The player that is being swapped should not return to the team for the remainder of the wipe.
+        - A player that returns to a team will be temporarily banned for 48 hours. 
+        - The player who reinvites an old teammate will be temporarily banned for 1 week.
     - To avoid complications, you may create a ticket through discord to notify us of swapped players.
 
 <hr color="#22ffcd">
@@ -42,6 +44,14 @@ order: 4
 - No working with other groups.
 - Neutrality is allowed but alliances are not.
 - You may give away your base but you are responsible for clearing auth on TC and completely removing all locks. If you are recieving a base, be sure to clear authorization and remove any existing locks.
+
+<hr color="#22ffcd">
+
+## **Admin Rules**
+### General
+
+- Issues that come up as a result of loopholes or lack of clarification in the rules will be addressed and decided by the admin team and adjusted accordingly.
+- Interpretation and final verdict are at admin discretion. Everything is reviewed on a case-by-case basis and the rules stated here are to cover the basics.
 
 <hr color="#dab3ff">
 
