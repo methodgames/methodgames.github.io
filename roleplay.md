@@ -36,7 +36,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, slurs, and discriminatory speech will not be tolerated.
-- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. Use of these terms may result in an automatic ban from the server.
+- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. These are all actively monitiored and use of these terms may result in an automatic ban from the server.
 - Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed (including bullying, stream sniping, and insiding).
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - Please be mindful that everyone is allowed to focus on aspects of gameplay they enjoy. Your ideas or interests may not coincide, but please be respectful.
@@ -308,11 +308,32 @@ Thank you for being respectful, creative, and simply amazing.
 <hr color="#22ffcd">
 
 ## **Purge Rules**
-- **All of these of these rules are currently under development and are not finalized.**
+### General
+- The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the the same community that you will be interacting with in the future.
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
-- No working with other groups.
-- Neutrality is allowed but alliances are not.
-- There is a max roam / raiding size of 4 members per team at once (Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team at the same raid target at the same time. Teammates waiting to be swapped in must not leave base / respawn point until the teammate being swapped out has returned or died).
+    - Vanilla gameplay does not mean our server values do not hold true. Be respectful to each other. Excessive toxicity may result in various consequences such as a mute or ban.
+
+### Gameplay
+- There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4 member limit does not apply to players defending their base.
+    - Team UI changes will be monitored closely and deliberate attemps to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
+- Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time. 
+    - Teammates waiting to be **swapped IN** must not go to or respawn at the site of an active raid until the teammate being **swapped OUT** has repsawned outside of the active raid.
+    - For respawn points at site of active raid, if the teammate being **swapped IN** has already respawned at the active raid before the teammate being **swapped OUT** has left the raid, they should not leave the respawn point.
+        - *Note: This includes respawn points within a raid base.*
+        - Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.
+        - Members of the defending team may use explosives on a raid base as long as they are doing so from within the base they are defending.
+            - If members of the defending team are outside of the base / compound they are defending, only 4 players may roam / raid together (ex. use explosives on the raid base). The same roaming / raiding team size limitations apply in this case.
+- PVP and raiding:
+    - No working with other groups during PVP / raiding.
+        - This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.
+    - Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).
+- Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.
+
+### Behavior
+- If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
+    - Excessive banter concerning the discussion of rules in global chat, rather than creating a ticket, may result in a temporary mute with guidance to address disputes through the ticket system."
+- Admins cannot be everywhere at once so please let all of us know if anything is happening by using the [⁠📩│tickets](https://discord.com/channels/809936105101066352/809944459793530880/810937523517128715) system on the discord.
+    - While not a requirement, we encourage players provide us with as much infromation as possible. Providing combatlogs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively. 
 
 <a name="Admin">
 </a>
