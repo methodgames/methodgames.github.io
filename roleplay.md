@@ -331,7 +331,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 ### Behavior
 - If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
-    - Excessive banter concerning the discussion of rules in global chat, rather than creating a ticket, may result in a temporary mute with guidance to address disputes through the ticket system."
+    - Excessive banter concerning the discussion of rules in global chat, rather than creating a ticket, may result in a temporary mute with guidance to address disputes through the ticket system.
 - Admins cannot be everywhere at once so please let all of us know if anything is happening by using the [⁠📩│tickets](https://discord.com/channels/809936105101066352/809944459793530880/810937523517128715) system on the discord.
     - While not a requirement, we encourage players provide us with as much infromation as possible. Providing combatlogs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively. 
 
