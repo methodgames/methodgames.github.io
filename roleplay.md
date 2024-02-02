@@ -105,7 +105,9 @@ Thank you for being respectful, creative, and simply amazing.
         - Unsecure deployables refer to items within building privilage that are either unlocked or cannot be locked and that are that are accessible without boosting, placing twig, flying, etc.
         - Boxes outside of building privilege are not considered secure and may be destroyed
     - **Locked boxes within building privilege should not be destroyed.**
-    - If you are caught looting a deployable you may be warned and then killed by the owner. If you are asked to leave you must do so.
+    - If you are caught looting a deployable you may be warned and then killed by the owner.
+    - If you are asked to leave someone's building you must do so. If a player refuses to leave after first attempting to seek a peaceful resolution, please open a ticket explaining the situation before taking defensive action (including killing the tresspassers).
+        - Please do not retain items from killed trespassers. Notify an admin to help facilitate return.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please do not loot it. **Please reach out to an admin to help secure it.** Any items that were lost between the time a base was left open and the time an admin closed or secure it will not be returned. We advise locks be placed on deployables since **locked boxes within building privilege should not be destroyed.** Players that continue to loot non-decaying bases instead of reporting to an admin will be disciplined accordingly. 
@@ -117,7 +119,9 @@ Thank you for being respectful, creative, and simply amazing.
     - Decaying bases are not PVP zones.
 - Killed players:
     - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
-    - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are trying to take the Patrol Helicopter down.
+    - Backpacks should not be looted or picked up outside of a PVP zone.
+    - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves (if not taken down); you cannot kill other players who are actively trying to take the Patrol Helicopter down.
+
 
 <a name="PVP / Monument">
 </a>
@@ -179,7 +183,7 @@ Thank you for being respectful, creative, and simply amazing.
             - If the Patrol Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
             - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
         - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base. If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
-        - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves or all of the boxes have been looted; you cannot kill other players who are actively trying to take the Patrol Helicopter down. (Same as the rule above regarding killed players.)
+        - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves (if not taken down); you cannot kill other players who are actively trying to take the Patrol Helicopter down.
         - Calling out when all crates have been looted is advised. Do not call out in chat before all of the crates have been looted or it will be considered baiting PvP.
         - The new life rule does not apply to Patrol Helicopter PVP.
     - <sup>†</sup>Airdrops:
@@ -357,8 +361,9 @@ Thank you for being respectful, creative, and simply amazing.
 
 ### Building and Admin Spawning
 - At any time you may reach out to an admin to either <ins>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</ins>
-- If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance.
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
+- If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance. These items will be removed before the purge event.
+- Items spawned by admins are to be utilized strictly for the purposes for which they were originally intended. Any use of these items beyond the scope or reason for which they were spawned will lead to immediate removal (despawning) of the items. Furthermore, the player in possession of these items may lose the ability to receive such admin-spawned items in future instances. This rule is enforced to maintain fair gameplay and uphold the integrity of the community.
 - Items spawned in for an admin sponsored event should not be taken. If admin spawned items are found, reach out via a ticket to ensure the return of these items. If spawned in items are taken from an admin, they will be recovered and despawned accordingly. 
 
 ### Teleporting
