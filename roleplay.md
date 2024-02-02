@@ -69,7 +69,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to PRZ rules. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-01_PRZ.png"/>
+  <img src="/assets/2024-02_PRZ.png"/>
 </p>
 
 <a name="Building and Gameplay">
@@ -148,19 +148,19 @@ Thank you for being respectful, creative, and simply amazing.
 | Large Oil Rig                         | Patrol Helicopter<sup>†</sup> | Gas Station                 | Outpost         |
 | Small Oil Rig                         | Air Drops<sup>†</sup>         | Supermarket                 | Bandit Camp     |
 | Launch Site<sup>†</sup>               | Locked Crates<sup>†</sup>     | Lighthouse                  | Fishing Village |
-| Arctic Research Base                  | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
-| Power Plant                           |                               | Harbors                     |                 |
-| Airfield                              |                               | Ferry Terminal              |                 |
-| Sewer Branch<sup>†</sup>              |                               | Underwater Labs             |                 |
-| Junkyard<sup>†</sup>                  |                               | Satellite Dish              |                 |
-| Stone Quarry<sup>†</sup>              |                               | Desert Military Base        |                 |
-| F8 Abandoned Supermarket<sup>†</sup>  |                               | Giant Excavator<sup>†</sup> |                 |
-|                                       |                               | Work Carts<sup>†</sup>      |                 |
-|                                       |                               | HQM Quarry                  |                 |
-|                                       |                               | Sulfur Quarry               |                 |
+| Military Tunnels                      | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
+| Arctic Research Base<sup>†</sup>      |                               | Harbors                     |                 |
+| Power Plant<sup>†</sup>               |                               | Ferry Terminal              |                 |
+| Airfield                              |                               | Underwater Labs             |                 |
+| Sewer Branch<sup>†</sup>              |                               | Satellite Dish              |                 |
+| HQM Quarry<sup>†</sup>                |                               | Desert Military Base        |                 |
+| W5 Gas Station<sup>†</sup>            |                               | Stone Quarry                |                 |
+| V11 Abandoned Supermarket<sup>†</sup> |                               | Sulfur Quarry               |                 |
 |                                       |                               | Missile Silo                |                 |
-|                                       |                               | Military Tunnels            |                 |
-|                                       |                               | Water Treatment             |                 |
+|                                       |                               | Giant Excavator<sup>†</sup> |                 |
+|                                       |                               | Work Carts<sup>†</sup>      |                 |
+|                                       |                               | Junkyard<sup>†</sup>        |                 |
+|                                       |                               | Water Treatment<sup>†</sup> |                 |
 | PRZ<sup>†</sup>                       |                               | Dome<sup>†</sup>            |                 |
 
 - Players in PVP zones may not attack players outside of it and vice versa.
@@ -260,7 +260,7 @@ Thank you for being respectful, creative, and simply amazing.
         - Due to the limited size of this area, compounds and external TCs are not permitted.
 
 <p align="center">
-  <img src="/assets/2024-01_MTC.png"/>
+  <img src="/assets/2024-02_MTC.png"/>
 </p>
 
 <a name="PVP Raid Zone">
