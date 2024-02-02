@@ -151,12 +151,12 @@ Thank you for being respectful, creative, and simply amazing.
 | Military Tunnels                      | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Arctic Research Base<sup>†</sup>      |                               | Harbors                     |                 |
 | Power Plant<sup>†</sup>               |                               | Ferry Terminal              |                 |
-| Airfield                              |                               | Underwater Labs             |                 |
-| Sewer Branch<sup>†</sup>              |                               | Satellite Dish              |                 |
-| HQM Quarry<sup>†</sup>                |                               | Desert Military Base        |                 |
-| W5 Gas Station<sup>†</sup>            |                               | Stone Quarry                |                 |
-| V11 Abandoned Supermarket<sup>†</sup> |                               | Sulfur Quarry               |                 |
-|                                       |                               | Missile Silo                |                 |
+| Train Yard                            |                               | Underwater Labs             |                 |
+| Airfield                              |                               | Satellite Dish              |                 |
+| Sewer Branch<sup>†</sup>              |                               | Desert Military Base        |                 |
+| HQM Quarry<sup>†</sup>                |                               | Stone Quarry                |                 |
+| W5 Gas Station<sup>†</sup>            |                               | Sulfur Quarry               |                 |
+| V11 Abandoned Supermarket<sup>†</sup> |                               | Missile Silo                |                 |
 |                                       |                               | Giant Excavator<sup>†</sup> |                 |
 |                                       |                               | Work Carts<sup>†</sup>      |                 |
 |                                       |                               | Junkyard<sup>†</sup>        |                 |
