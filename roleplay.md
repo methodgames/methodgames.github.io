@@ -155,13 +155,13 @@ Thank you for being respectful, creative, and simply amazing.
 | Military Tunnels                      | Cargo Ship<sup>†</sup>        | Mining Outpost              | Barn / Ranch    |
 | Arctic Research Base<sup>†</sup>      |                               | Harbors                     |                 |
 | Power Plant<sup>†</sup>               |                               | Ferry Terminal              |                 |
-| Train Yard                            |                               | Underwater Labs             |                 |
-| Airfield                              |                               | Satellite Dish              |                 |
-| Sewer Branch<sup>†</sup>              |                               | Desert Military Base        |                 |
-| HQM Quarry<sup>†</sup>                |                               | Stone Quarry                |                 |
-| W5 Gas Station<sup>†</sup>            |                               | Sulfur Quarry               |                 |
-| V11 Abandoned Supermarket<sup>†</sup> |                               | Missile Silo                |                 |
-|                                       |                               | Giant Excavator<sup>†</sup> |                 |
+| Train Yard                            |                               | Satellite Dish              |                 |
+| Airfield                              |                               | Desert Military Base        |                 |
+| Sewer Branch<sup>†</sup>              |                               | Stone Quarry                |                 |
+| Underwater Labs                       |                               | Sulfur Quarry               |                 |
+| HQM Quarry<sup>†</sup>                |                               | Missile Silo                |                 |
+| W5 Gas Station<sup>†</sup>            |                               |                             |                 |
+| V11 Abandoned Supermarket<sup>†</sup> |                               | Giant Excavator<sup>†</sup> |                 |
 |                                       |                               | Work Carts<sup>†</sup>      |                 |
 |                                       |                               | Junkyard<sup>†</sup>        |                 |
 |                                       |                               | Water Treatment<sup>†</sup> |                 |
