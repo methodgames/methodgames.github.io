@@ -120,7 +120,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Killed players:
     - Players killed outside of a PVP zone are not lootable but are responsible for getting back to their own body.
     - Backpacks should not be looted or picked up outside of a PVP zone.
-    - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves (if not taken down); you cannot kill other players who are actively trying to take the Patrol Helicopter down.
+    - Players who have hit the Patrol Helicopter and die to it are not lootable until the Patrol Helicopter is taken down; you cannot kill other players who are actively trying to take the Patrol Helicopter down.
 
 
 <a name="PVP / Monument">
@@ -183,7 +183,7 @@ Thank you for being respectful, creative, and simply amazing.
             - If the Patrol Helicopter is destroyed, falls near you, and you do not wish to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted.
             - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
         - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base. If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
-        - Players who have hit the Patrol Helicopter and die to it are lootable until the Patrol Helicopter leaves (if not taken down); you cannot kill other players who are actively trying to take the Patrol Helicopter down.
+        - Players who have hit the Patrol Helicopter and die to it are not lootable until the Patrol Helicopter is taken down; you cannot kill other players who are actively trying to take the Patrol Helicopter down.
         - Calling out when all crates have been looted is advised. Do not call out in chat before all of the crates have been looted or it will be considered baiting PvP.
         - The new life rule does not apply to Patrol Helicopter PVP.
     - <sup>†</sup>Airdrops:
