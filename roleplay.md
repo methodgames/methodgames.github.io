@@ -36,7 +36,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 - Be respectful to other players. No racism, homophobia, sexism, ageism, or excessive toxicity.
 - Harassment, doxxing, abuse, slander, hate speech, slurs, and discriminatory speech will not be tolerated.
-- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, notes, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. These are all actively monitiored and use of these terms may result in an automatic ban from the server.
+- Racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, comments, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. These are all actively monitiored and use of these terms may result in an automatic ban from the server.
 - Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed (including bullying, stream sniping, and insiding).
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - Please be mindful that everyone is allowed to focus on aspects of gameplay they enjoy. Your ideas or interests may not coincide, but please be respectful.
