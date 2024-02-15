@@ -20,7 +20,7 @@ categories: method update
 
 ## **Rule Changes:**
 
-- **[Changed] -** ``PVP Raid Zone Rules``- **- These rules have all been updated and will be further updated throughout the wipe.**
+- **[Changed] -** ``PVP Raid Zone Rules`` **- These rules have all been updated and will be further updated throughout the wipe.**
 - **[Changed] -** ``Purge Rules`` **- These rules have all been updated and will be further updated throughout the wipe..**
 
 ***The rules are subject to change throughout the wipe if specific aspects need to be clarified or adapted. Not all aspects of gameplay can be detailed in the rules; please use your best judgment and follow the behavior rules.**
