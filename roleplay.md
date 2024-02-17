@@ -149,7 +149,7 @@ Thank you for being respectful, creative, and simply amazing.
     - Unsecure deployables refer to items within building privilage that are either unlocked or cannot be locked and that are that are accessible without boosting, placing twig, flying, etc.
     - Unsecure deployables may be looted.
         - If you are caught looting an unsecure deployable within building privillage, you may be asked to leave or killed.
-        - If you find a base that has had a clear attempt to secure looot but certain areas remain vulnerable (ex. box placed in front of window bars), you may reach out to an admin to help secure it.
+        - If you find a base that has had a clear attempt to secure loot but certain areas remain vulnerable (ex. box placed in front of window bars), you may reach out to an admin to help secure it.
     - Boxes outside of building privilege are not considered secure and may be destroyed.
 
 - **Conduct:**
