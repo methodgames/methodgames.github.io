@@ -326,7 +326,9 @@ Thank you for being respectful, creative, and simply amazing.
 
 <a name="LockedCrates"></a>
 - <strong> <sup>†</sup>Locked Crates: <a href="#PVP-Monuments"><sup> [^]</sup></a>
-    - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP. Locked crates should not be moved.
+    - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP.
+    - Locked crates should not be moved.
+    - The Chinook helicopter should be allowed to drop off its crate at a monument, and players should refrain from destroying it.
     - <p style="margin-bottom: 5px;">Locked crates at monuments that are normally non-PVP are considered temporary PVP zones from the time they touch the ground until the time they are fully looted.</p>
 
 #### Other Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
