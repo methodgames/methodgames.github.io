@@ -40,9 +40,9 @@ Thank you for being respectful, creative, and simply amazing.
 - Harassment, doxxing, abuse, slander, hate speech, slurs, and discriminatory speech will not be tolerated.
 
 #### Content:
-- Slurs, racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, team chat, comments, jokes, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. This applies to both private and public content and interactions. These are all actively monitiored and use of these terms may result in an automatic ban from the server.
+- Slurs, racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, team chat, comments, jokes, signs, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. This applies to both private and public content and interactions. These are all actively monitored and use of these terms, irrespective of duration of existence, may result in an automatic ban from the server.
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
-- Signs, fireworks, graffiti, etc. must follow Twitch TOS (private and public) and must not be discriminatory or inappropriate. 
+- Signs, fireworks, graffiti, etc. (both private and public and regardless of duration) must not be discriminatory or inappropriate and must follow Twitch TOS. 
 - No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 
 #### Etiquette:
