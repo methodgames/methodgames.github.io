@@ -311,7 +311,7 @@ Thank you for being respectful, creative, and simply amazing.
         - **Players should refrain from manipulating loot by leaving items, swapping items, or adding items to crates, as this behavior will be considered baiting.**
         - **Players should not avoid looting with the intention of baiting or prolonging PVP encounters.**
         - **Unfair or exploitative behavior may result in disciplinary measures.**
-        - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior Questionable actions that are reported will be subject to judgment by admins. 
+        - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior and questionable actions that are reported will be subject to judgment by admins. 
 
 <a name="AirDrops"></a>
 - <strong> <sup>†</sup>Airdrops: <a href="#PVP-Monuments"><sup> [^]</sup></a>
