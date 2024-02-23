@@ -108,7 +108,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 
 #### Traps and Deployables:
-- Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
+- Traps should not hit anyone outside a base or compound (this includes peacekeepers as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
 - Player controlled drones may be flown at the owner's risk and others will not be held responsible for recovery.
 - If server performance or gameplay issues arise due to deployables (ex. picture frames, wind turbines , lights, planter boxes, sprinklers, etc.) you may be asked to adjust or remove them.
 
@@ -146,14 +146,14 @@ Thank you for being respectful, creative, and simply amazing.
     - If you are caught looting a secure deployable you may be warned and then killed by the owner.
 
 - **<u>Unsecure Loot:</u>**
-    - Unsecure deployables refer to items within building privilage that are either unlocked or cannot be locked and that are that are accessible without boosting, placing twig, flying, etc.
+    - Unsecure deployables refer to items within building privilege that are either unlocked or cannot be locked and that are that are accessible without boosting, placing twig, flying, etc.
     - Unsecure deployables may be looted.
-        - If you are caught looting an unsecure deployable within building privillage, you may be asked to leave or killed.
+        - If you are caught looting an unsecure deployable within building privilege, you may be asked to leave or killed.
         - If you find a base that has had a clear attempt to secure loot but certain areas remain vulnerable (ex. box placed in front of window bars), you may reach out to an admin to help secure it.
     - Boxes outside of building privilege are not considered secure and may be destroyed.
 
 - **Conduct:**
-    - If you are asked to leave someone's building you must do so. If a player refuses to leave after first attempting to seek a peaceful resolution, please open a ticket explaining the situation before taking defensive action (including killing the tresspassers).
+    - If you are asked to leave someone's building you must do so. If a player refuses to leave after first attempting to seek a peaceful resolution, please open a ticket explaining the situation before taking defensive action (including killing the trespassers).
         - Please refrain from keeping items from killed trespassers. Notify an admin to help coordinate and facilitate return.
     - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
     - If you gain access to an unlocked tool cupboard (TC), you may not grief the base (ex. authorizing TC and building to close it off or taking items).
@@ -169,7 +169,7 @@ Thank you for being respectful, creative, and simply amazing.
 - **Looting:**
     - Decaying bases **cannot be raided** (ex. breaking tool cupboards, building blocks, doors, etc.) **or griefed** (ex. closing off by authorizing on TC and building walls).
     - Decaying bases can be looted and locked boxes can be broken. Twig and ladders can be placed on decaying bases. 
-    - If there a deployable that you cannot pick or or is not lootable due to building privilege, you may repair the building block it is on until the building block the TC is on decays.
+    - If there a deployable that you cannot pick up or that is not lootable due to building privilege, you may repair the building block it is on until the building block the TC is on decays.
     - If the base owner returns to their decaying base, looters may be asked to leave to secure the base.
     - Decaying bases are not PVP zones.
 
@@ -193,6 +193,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Please see the table below for information regarding which monuments are PVP and which monuments are not.
 - Specifics about certain monuments and temporary PVP zones are also outlined below.
 - There is a max team size of 8 for PVP zones.
+- Rocket PVP is only permitted if you are certain that your rockets you will not damage or hit another player's base. Remote PVP is not allowed.
 - If you have died in PVP or for an RP reason, do not assume a teleport back from admins.
 - You are not allowed to use RP or transportation to bait people into a PVP zone in order to kill them.
     - If you are killed after being invited to a PVP zone, this will not be considered baiting; you are entering at your own discretion.
@@ -210,8 +211,8 @@ Thank you for being respectful, creative, and simply amazing.
 - **New Life Rule:**
     - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it.
     - If you die alone due to a PVE scenario within a PVP zone, you are allowed to return to your body to retrieve your belongings.
-    - If you die to PVE in a PVP zone following a PVP engagement, the New Life Rule remains in effect for 10 minutes after the conclusion of PVP (as indicated by your combatlog).
-    - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10 minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10 minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
+    - If you die to PVE in a PVP zone following a PVP engagement, the New Life Rule remains in effect for 10 minutes after the conclusion of PVP (as indicated by your combat log).
+    - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10-minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10-minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
     - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Patrol Helicopter PVP) and all other PVP zones.**
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
 
@@ -275,7 +276,7 @@ Thank you for being respectful, creative, and simply amazing.
 
     - <strong> <a href="#CargoShip">Cargo Ship:</a> <a href="#PVP-Monuments"><sup> [^]</sup></a>
         - The PVP zone around Cargo Ship extends to the maximum sniping distance from the cargo ship itself.
-            - While kills within this range are accetable, please try to exercise reasonable discretion when targeting players on the shore or in the water for other purposes.
+            - While kills within this range are acceptable, please try to exercise reasonable discretion when targeting players on the shore or in the water for other purposes.
             - Players not interested in PVP should remain vigilant of their surroundings when the cargo ship is present.
 
 #### Temporary PVP Zones: <a href="#PVP-Monuments"><sup>[^]</sup></a>
@@ -287,9 +288,9 @@ Thank you for being respectful, creative, and simply amazing.
 - <strong> <sup>†</sup>Patrol Helicopter: <a href="#PVP-Monuments"><sup> [^]</sup></a>
     - **Information:**
         - The Patrol Helicopter event is a global even that occurs every 2-4 hours.
-        - To avoid being targeted by the Patrol Helicopter, players must be wearing two or less items of clothing (including backpack slot) and have no ranged weapons in their hotbar.
-        - After the Patrol Helicopter has been destroyed, a debris field indicator will appear on the map. Please note that this indicator solely marks the crash site location. Its disappearance from the map does not signify the end of temporary PvP, nor is it associated with the crates being looted.
-        - The four crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, each crate will become lootable, with slight differences in the times each one is acessible.
+        - To avoid being targeted by the Patrol Helicopter, players must be wearing two or less items of clothing (including backpack slot) and have no ranged weapons in their hot bar.
+        - After the Patrol Helicopter has been destroyed, a debris field indicator will appear on the map. Please note that this indicator solely marks the crash site location. Its disappearance from the map does not signify the end of temporary PVP, nor is it associated with the crates being looted.
+        - The four crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, each crate will become lootable, with slight differences in the times each one is accessible.
     - **Gameplay:**
         - Automated server announcements will indicate the start and end of temporary PVP.
         - The temporary PVP zone begins when the destroyed Patrol Helicopter hits the ground. 
@@ -301,13 +302,13 @@ Thank you for being respectful, creative, and simply amazing.
             - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base.
             - If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
         - Players who have hit the Patrol Helicopter and die to it are not lootable until the Patrol Helicopter is taken down; you cannot kill other players who are actively trying to take the Patrol Helicopter down.
-        - Please make use of the time between the Patrol Helicopter spawening (as indicated by both audio and visuaul cues) and its takedown to find a safe location if you prefer to avoid PVP encounters.
+        - Please make use of the time between the Patrol Helicopter spawning (as indicated by both audio and visual cues) and its takedown to find a safe location if you prefer to avoid PVP encounters.
     - **Patrol Helicopter PVP:**
         - Your base may be used as cover by people in the area who are currently in PVP after the Patrol Helicopter has fallen.
         - <p style="margin-bottom: 5px;">The new life rule does not apply to Patrol Helicopter PVP.</p>
     - **Behavior:**
         - **Players are expected to prioritize obtaining loot from the crates as the primary objective, with PVP encounters naturally emerging as a product of the event.**
-        - **Players should refrain from manipulating loot by leaving items, swapping items, or adding items to crates, as this behvaior will be considered baiting.**
+        - **Players should refrain from manipulating loot by leaving items, swapping items, or adding items to crates, as this behavior will be considered baiting.**
         - **Players should not avoid looting with the intention of baiting or prolonging PVP encounters.**
         - **Unfair or exploitative behavior may result in disciplinary measures.**
         - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior Questionable actions that are reported will be subject to judgment by admins. 
@@ -315,7 +316,7 @@ Thank you for being respectful, creative, and simply amazing.
 <a name="AirDrops"></a>
 - <strong> <sup>†</sup>Airdrops: <a href="#PVP-Monuments"><sup> [^]</sup></a>
     - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
-    - If an airdrop recently falls near your base and you do not want to participate in PVP, stay inside and out of vision. If an irdrop falls on top of a base, anyone going for the airdrop can climb or ladder p to it once it has stopped moving.
+    - If an airdrop recently falls near your base and you do not want to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
     - <p style="margin-bottom: 5px;">Airdrops should not be used specifically to create or extended PVP zones.</p>
 
 <a name="CargoShip"></a>
@@ -357,7 +358,7 @@ Thank you for being respectful, creative, and simply amazing.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
 
-#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Baloons, Rowboats, RHIBs, Snowmobiles, Trains:
+#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, Rowboats, RHIBs, Snowmobiles, Trains:
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
@@ -376,7 +377,7 @@ Thank you for being respectful, creative, and simply amazing.
     - Commandeering in PVP Zone:
         - While commandeering a tugboat in a PVP zone, the bottom floor door must be broken first and all respawn points on the tugboat must be cleared. You may then break into one or both of the doors on the helm (where the driving controls are) and clear authorization on the boat. The third door may be broken after driving the boat outside of PVP (the previous owners should not interfere with the removal of this door).
         - A tugboat is not considered secure while being commandeered if all 3 locks do not belong to the same player or team.
-        - Players may use explsoives to raid the doors on the tugboat.
+        - Players may use explosives to raid the doors on the tugboat.
 
 
 <a name="Method-Town-Center" style="display: block; margin-top: 16px;"></a>
@@ -465,13 +466,13 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 ## Purge Rules
 
-The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the the same community that you will be interacting with in the future.
+The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
 #### Gameplay:
 - The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
     - Vanilla gameplay does not mean our server values do not hold true. **<u>Be respectful to each other.</u>** Excessive toxicity may result in various consequences such as a mute or ban.
-- There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4 member limit does not apply to players defending their base.
-    - Team UI changes will be monitored closely and deliberate attemps to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
+- There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.
+    - Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
 - No working with other groups during PVP / raiding.
     - This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.
 - Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).
@@ -479,7 +480,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 
 #### Teams:
 - Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time. 
-    - Teammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has repsawned outside of the active raid.
+    - Teammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.
     - For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.
         - *Note: This includes respawn points within a raid base.*
         - Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.
@@ -490,7 +491,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
     - Excessive banter concerning the discussion of rules in global chat, rather than creating a ticket, may result in a temporary mute with guidance to address disputes through the ticket system.
 - Admins cannot be everywhere at once so please let all of us know if anything is happening by using the [⁠📩│tickets](https://discord.com/channels/809936105101066352/809944459793530880/810937523517128715) system on the discord.
-    - While not a requirement, we encourage players provide us with as much infromation as possible. Providing combatlogs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively. 
+    - While not a requirement, we encourage players provide us with as much information as possible. Providing combat logs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively. 
 
 
 <a name="Admin" style="display: block; margin-top: 16px;"></a>
@@ -514,7 +515,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
 
 #### Building and Admin Spawning:
-- At any time you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u>
+- At any time, you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u>
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance. These items will be removed before the purge event.
 - Items spawned by admins are to be utilized strictly for the purposes for which they were originally intended. Any use of these items beyond the scope or reason for which they were spawned will lead to immediate removal (despawning) of the items. Furthermore, the player in possession of these items may lose the ability to receive such admin-spawned items in future instances. This rule is enforced to maintain fair gameplay and uphold the integrity of the community.
