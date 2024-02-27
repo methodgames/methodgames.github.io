@@ -296,6 +296,7 @@ Thank you for being respectful, creative, and simply amazing.
         - The temporary PVP zone begins when the destroyed Patrol Helicopter hits the ground. 
             - If the Patrol Helicopter is destroyed, falls near you, and you do not want to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted. **Players who go outside during temporary PVP are doing so at their own risk and players engaging in PVP are not responsible for items lost as a result of this.**
         - The temporary PVP zone ends when all of the crates have been looted.
+        - If the crates land inside of a compound or on top of a base, anyone engaging in temporary PVP may climb, fly, ladder, etc., to gain access to the area where the crates are located. During this time, while temporary PVP is active, you may engage in PVP, loot dead bodies, and collect loot from the event crates only (not player-owned deployables). Once temporary PVP ends, you should leave the area that you had gained access to; you should not ladder into compounds or onto bases to collect loot from dead bodies after temporary PVP ends.
     - **Patrol Helicopter Takedown:**
         - Do not use another player’s base for protection from the Patrol Helicopter. 
         - Please try to be mindful about taking down Patrol Helicopter in populated areas. 
