@@ -372,7 +372,7 @@ Thank you for being respectful, creative, and simply amazing.
 - **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
 - Items lost due to decay will not be returned.
 - Tugboats:
-    - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables.
+    - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables. Locked boxes on the deck of a tugboat are considered secure.
     - Tugboats are considered owned if all 3 doors are locked by the same player or team.
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
     - Commandeering in PVP Zone:
