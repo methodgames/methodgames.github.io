@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP Raid Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-02_PRZ.png"/>
+  <img src="/assets/2024-03_PRZ.png"/>
 </p>
 
 
@@ -221,25 +221,25 @@ Thank you for being respectful, creative, and simply amazing.
 #### Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
 <p style="margin-bottom: 15px;"></p> 
 
-| PVP Monuments / Zones                      | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones      |
-|:------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:---------------:|
-| <a href="#OilRigs">Large Oil Rig           | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost         |
-| <a href="#OilRigs">Small Oil Rig           | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp     |
-| Launch Site<sup> (PRZ)</sup>               | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village |
-| Military Tunnels                           | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch    |
-| Arctic Research Base<sup> (PRZ)</sup>      |                                                               | Harbors                                                      |                 |
-| Power Plant<sup> (PRZ)</sup>               |                                                               | Ferry Terminal                                               |                 |
-| Train Yard                                 |                                                               | Satellite Dish                                               |                 |
-| Airfield                                   |                                                               | Desert Military Base                                         |                 |
-| Sewer Branch<sup> (PRZ)</sup>              |                                                               | Stone Quarry                                                 |                 |
-| Underwater Labs<sup> (PRZ)</sup>           |                                                               | Sulfur Quarry                                                |                 |
-| HQM Quarry<sup> (PRZ)</sup>                |                                                               | Missile Silo                                                 |                 |
-| W5 Gas Station<sup> (PRZ)</sup>            |                                                               |                                                              |                 |
-| V11 Abandoned Supermarket<sup> (PRZ)</sup> |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                 |
-|                                            |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                 |
-|                                            |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                 |
-|                                            |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                 |
-| <a href="#PVP Raid Zone">PRZ<sup>†</sup>   |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                 |
+| PVP Monuments / Zones                      | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
+|:------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
+| <a href="#OilRigs">Large Oil Rig           | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
+| <a href="#OilRigs">Small Oil Rig           | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
+| Missile Silo                               | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
+| Launch Site<sup> (PRZ)</sup>               | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
+| Military Tunnels<sup> (PRZ)</sup>          |                                                               | Harbors                                                      | <a href="#Method-Town-Center">Method Town Center |
+| Arctic Research Base                       |                                                               | Satellite Dish                                               |                                                  |
+| Power Plant<sup> (PRZ)</sup>               |                                                               | Desert Military Base                                         |                                                  |
+| Train Yard                                 |                                                               | Ferry Terminal                                               |                                                  |
+| Airfield                                   |                                                               | HQM Quarry                                                   |                                                  |
+| Sewer Branch                               |                                                               |                                                              |                                                  |
+| Underwater Labs<sup>                       |                                                               |                                                              |                                                  |
+| Stone Quarry<sup> (PRZ)</sup>              |                                                               |                                                              |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>             |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
+| T13 Abandoned Supermarket<sup> (PRZ)</sup> |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
+| X12 Mining Outpost                         |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
+|                                            |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
+| <a href="#PVP Raid Zone">PRZ<sup>†</sup>   |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
 
 <a name="Boundaries"></a>
 <p style="margin-bottom: -30px;">&nbsp;</p>
@@ -410,7 +410,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-02_MTC.png"/>
+<img src="/assets/2024-03_MTC.png"/>
 </p>
 
 
@@ -423,33 +423,23 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 
 The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our take of vanilla-style gameplay, but many server rules and values will still apply. To avoid conflict, some specific <u>gameplay related</u> rules will be explicitly stated below by category. **Please remember to always be respectful of each other.**
 
+**Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
+
 #### General:
-- Killing on sight (KOS) is allowed. 
-- <s>Griefing (placing and breaking traps, authorizing on a TC to deny access) is allowed, but</s> building with the intention of blocking building privilege is not allowed.
+- Killing on sight (KOS) is allowed.
 - Items lost in this area are not recoverable.
 - There is a max team size of 8 for PVP and bases in this area.
 
 #### Building Rules:
-- Walling off monuments is not allowed. Test generators are allowed. <s>Trap bases are allowed.</s> External TCs should only be used for securing building privilege around compounds.
-- Traps should not hit anyone outside a base or compound (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
+- <s>Walling off monuments is not allowed.</s> Test generators are allowed. <s>Trap bases are allowed.</s>
+- Traps should not hit anyone outside of the PRZ (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm.
 
 #### Raiding and Looting Rules:
-- Offline raiding (breaking building blocks) is not allowed. <s>Offline and online looting is allowed.</s>
-    - <s>You may loot and break boxes and tool cupboards in unsecure areas of a base. Unlootable deployables should not be destroyed.</s>
-    - <s>Building ladders, flying, etc. can be used to gain access to unsecure areas of a base.</s>
-    - <s>Twig is not considered secure and can be broken. Compounds are not considered secure.</s>
-    - Tugboats in PRZ are classified as vehicles and therefore can be broken into while a player is offline.
-- <s>PVP should not turn into a raid without first confirming online status.</s>
-- <s>Online Raiding*:</s>
-    - <s>Your base can be online raided if ½ of your team (rounded up) is online with at least one active person in the base when a raid begins: ⌈0.5 * team size⌉. Raiders must check with an admin via discord ticket to confirm online status. Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.</s>
-    - <s>Raiders should receive a response within 12 hours of a raid request. The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.</s>
-    - <s>Counters may engage in PVP and may raid only using explosives obtained from countering.</s>
-    - <s>A raid is over when the raiders have not used any explosives for 10 minutes.</s>
-        - <s>Consent to an online raid may not be rescinded without the agreement of all parties.</s>
-        - <p style="margin-bottom: -15px;"> <s><b>Raids require moderation and therefore may be delayed due to staff availability.</b></s>
+- Offline raiding (breaking building blocks) is allowed. Offline and online looting is allowed.
+    - Tugboats in PRZ are classified as vehicles and can be broken into.
 
 #### PVP Rules:
-- Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties leave the designated area. The new life rule does not apply to the PRZ or monuments that extend into the PRZ.
+- Players should be able to enter this area without being attacked immediately . Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in the PRZ, the fight should stop as soon as any players leaves the PVP zone. The new life rule does not apply to the PRZ or portions of monuments that extend into the PRZ.
 - The work cart station in this zone is only considered PVP above ground.
 - If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.
 
