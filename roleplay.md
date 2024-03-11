@@ -431,7 +431,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 - There is a max team size of 8 for PVP and bases in this area.
 
 #### Building Rules:
-- <s>Walling off monuments is not allowed.</s> Test generators are allowed. <s>Trap bases are allowed.</s>
+- Walling off monuments is not allowed. Test generators are allowed. Trap bases are allowed.
 - Traps should not hit anyone outside of the PRZ (this includes peacekeeps as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm.
 
 #### Raiding and Looting Rules:
