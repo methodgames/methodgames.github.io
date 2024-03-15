@@ -125,7 +125,7 @@ Thank you for being respectful, creative, and simply amazing.
 ## Raiding and Looting Rules
 
 #### General:
-- Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
+- Offline raiding is not allowed outside of the PRZ. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
 - Sleepers cannot be killed or looted for 20 minutes after a server restart, server crash, or mass disconnects only.
     - Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. 
     - If your game crashes, please create a ticket as soon as possible to let us know. 
