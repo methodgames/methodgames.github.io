@@ -460,7 +460,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
 #### Gameplay:
-- The purge is vanilla gameplay and begins the Wednesday before wipe at 7 PM Eastern.
+- The purge is vanilla gameplay and begins the Tuesday before wipe at 7 PM Eastern.
     - Vanilla gameplay does not mean our server values do not hold true. **<u>Be respectful to each other.</u>** Excessive toxicity may result in various consequences such as a mute or ban.
 - There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.
     - Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
