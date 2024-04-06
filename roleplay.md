@@ -342,7 +342,7 @@ Thank you for being respectful, creative, and simply amazing.
     - <p style="margin-bottom: 5px">For the work cart stations at PVP monuments and the PRZ, only the above-ground area is considered PVP.</p>
 <a name="Excavator"></a>
 - <strong> <sup>†</sup>Giant Excavator: <a href="#PVP-Monuments"><sup> [^]</sup><a>
-    - Resource deposits are considered owned by the group running the excavator and follow the same rules as unsecure deployables.
+    - Resource deposits are considered owned by the group running the excavator and should not be looted by others unless excavator is completely unattended.
     - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection).
     - Excavator airdrops have been disabled.
 
