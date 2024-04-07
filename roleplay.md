@@ -460,7 +460,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 - Raiders are required confirm online status by checking with an admin via a discord ticket.
     - Please provide in-game name or steam ID, location of target base, screenshot of raid target.
     - Raiders should receive a response within 12 hours of a raid request.
-    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin.
+    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid will begin in 10 minutes. The exact time the raid will begin will be communicated to both teams.
     - Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
 
 - Counters may engage in PVP and may raid only using explosives obtained from countering.
