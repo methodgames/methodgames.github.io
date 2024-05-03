@@ -427,6 +427,15 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
 
+#### May 2024 Faction Wars:
+- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/19/2024 @ 10 PM Eastern.
+- Keep an eye on the Discord for more details!
+- Proposed Timeline (will be updated accordingly):
+    - 5/3: Faction Leader campaigning. Idenitfy Faction War participants.
+    - 5/4: Faction Leader votes. Assign faction leader to a PRZ zone.
+    - 5/6-5/10: Factions build town halls in each respective PRZ zone.
+- Listen, this is all in my head so bear with me.
+
 #### General:
 - Killing on sight (KOS) is allowed. 
 - Building with the intention of blocking building privilage is not allowed.
@@ -469,10 +478,6 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
     - Consent to an online raid may not be rescinded without the agreement of all parties.
     - Raids require moderation and therefore may be delayed due to staff availability.
 
-#### May 2024 Faction Wars:
-- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/19/2024 @ 10 PM Eastern.
-- Keep an eye on the Discord for more details!
-
 #### PVP Rules:
 - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in the PRZ, the fight should stop as soon as any player leaves the PVP zone. The new life rule does not apply to the PRZ or portions of monuments that extend into the PRZ.
 - The work cart station in this zone is only considered PVP above ground.
@@ -493,6 +498,10 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 ## Purge Rules
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
+
+#### May 2024 Faction Wars:
+- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/19/2024 @ 10 PM Eastern.
+- Keep an eye on the Discord for more details!
 
 #### Gameplay:
 - The purge is vanilla gameplay and begins the Tuesday before wipe at 7 PM Eastern.
