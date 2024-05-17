@@ -428,13 +428,22 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
 
 #### May 2024 Faction Wars:
-- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/19/2024 @ 10 PM Eastern.
+- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/18/2024 @ 5 PM Eastern..
 - Keep an eye on the Discord for more details!
-- Proposed Timeline (will be updated accordingly):
-    - 5/3: Faction Leader campaigning. Idenitfy Faction War participants.
-    - 5/4: Faction Leader votes. Assign faction leader to a PRZ zone.
-    - 5/6-5/10: Factions build town halls in each respective PRZ zone.
-- Listen, this is all in my head so bear with me.
+- Current Timeline:
+    - **5/2-5/3:** Faction Leader campaigns.
+    - **5/4:** Faction Leader voting @ 5 PM EST. Assign each faction leader to a PRZ zone. Identify Faction War participants.
+    - **5/6-5/10:** All Factions Meet. **Build Faction Town Halls **in PVE, Build **Faction War Operations Base** in each respective PRZ zone, Faction War Prep.
+    - **5/6:** Meet with your Factions via discord and plan and start building your PVE town hall. 
+    - **5/7:** Use this as a rest day. Take some time to interact with each other.  In your town halls, meet and delegate tasks (who will be involved with building, who will farm, what BPs do you need, what kind of faction are you involved in, etc.)
+    - **5/8-5/10:** Work on gather resources and start building your **Faction War Operating Base**
+    - **5/13:** Faction Hall Tours / Open House
+    - **5/14:** Final PVP Base Guidelines Released
+    - **5/18: @ 12 PM Eastern - __Faction Wars__**
+    - *Event objective:* Take over and hold the other faction's bases. 1000 Points will be awarded to a faction depending on how many of the faction war operating bases they hold at the end of the event. Points will also be awarded for PVP:
+        - Killing Player In Another Clan: +10 points
+        - Killed By Player In Another Clan: -4 points
+        - Killing Unarmed Player: -1 points
 
 #### General:
 - Killing on sight (KOS) is allowed. 
@@ -501,7 +510,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
 #### May 2024 Faction Wars:
-- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/19/2024 @ 10 PM Eastern.
+- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/18/2024 @ 5 PM Eastern.
 - Keep an eye on the Discord for more details!
 
 #### Gameplay:
