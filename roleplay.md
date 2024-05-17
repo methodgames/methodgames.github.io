@@ -439,7 +439,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
     - **5/8-5/10:** Work on gather resources and start building your **Faction War Operating Base**
     - **5/13:** Faction Hall Tours / Open House
     - **5/14:** Final PVP Base Guidelines Released
-    - **5/18: @ 12 PM Eastern - __Faction Wars__**
+    - **5/18: @ 12 PM Eastern - <u>Faction Wars</u>**
     - *Event objective:* Take over and hold the other faction's bases. 1000 Points will be awarded to a faction depending on how many of the faction war operating bases they hold at the end of the event. Points will also be awarded for PVP:
         - Killing Player In Another Clan: +10 points
         - Killed By Player In Another Clan: -4 points
