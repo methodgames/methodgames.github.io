@@ -480,6 +480,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 #### PVP Rules:
 - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in the PRZ, the fight should stop as soon as any player leaves the PVP zone. The new life rule does not apply to the PRZ or portions of monuments that extend into the PRZ.
+- Rocket PVP is only permitted if you are certain that your rockets you will not damage or hit another player’s base. Remote PVP is not allowed.
 - The work cart station in this zone is only considered PVP above ground.
 - If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.
 
