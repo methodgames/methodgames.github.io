@@ -80,7 +80,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 #### Account & Ban Policies:
 - You will not be allowed to play if you have any accounts with a rust game ban in the last 180 days or >1 rust game ban.
-- A ban labeled with the reason "Ban Appeal Via Discord" may be enforced to facilitate a discussion on an ongoing issue. This measure is in place to prevent further damage and to ensure that players thoroughly review the rules. Generally, bans with this designation are promptly lifted following a conversation and acknowledgment of the rules, providing a quick and efficient resolution.
+- A ban with a reason that includes "Ban Appeal Via Discord" may be been administered to facilitate a discussion regarding an ongoing issue. This measure is in place to prevent further damage and to ensure that players thoroughly review the rules. Generally, bans with this designation are promptly lifted following a conversation and acknowledgment of the rules, providing a quick and efficient resolution.
 - Use of third-party applications (using the Rust+ protocol) on the server relating to PVP timers or locations are not allowed and will result in an automatic temporary ban for 15 minutes.
 
 
