@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP Raid Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-05_PRZ.png"/>
+  <img src="/assets/2024-06_PRZ.png"/>
 </p>
 
 
@@ -125,7 +125,7 @@ Thank you for being respectful, creative, and simply amazing.
 ## Raiding and Looting Rules
 
 #### General:
-- Offline raiding is not allowed. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
+- Offline raiding is not allowed outside of the PRZ. Online raiding is not allowed unless agreed upon by both parties for an RP or event purpose.
 - Sleepers cannot be killed or looted for 20 minutes after a server restart, server crash, or mass disconnects only.
     - Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. 
     - If your game crashes, please create a ticket as soon as possible to let us know. 
@@ -225,21 +225,20 @@ Thank you for being respectful, creative, and simply amazing.
 |:------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
 | <a href="#OilRigs">Large Oil Rig           | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
 | <a href="#OilRigs">Small Oil Rig           | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
-| Missile Silo<sup> (PRZ)</sup>              | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
+| Missile Silo                               | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>               | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels<sup> (PRZ)</sup>          |                                                               | Harbors                                                      | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels                           |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                       |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant<sup> (PRZ)</sup>               |                                                               | Ferry Terminal                                               |                                                  |
-| Train Yard                                 |                                                               | Sulfur Quarry                                                |                                                  |
-| Airfield                                   |                                                               |                                                              |                                                  |
-| Sewer Branch                               |                                                               |                                                              |                                                  |
-| Underwater Labs<sup> (PRZ)</sup>           |                                                               |                                                              |                                                  |
-| Abandoned Military Base                    |                                                               |                                                              |                                                  |
-| HQM Quarry<sup> (PRZ)</sup>                |                                                               |                                                              |                                                  |
-| Stone Quarry<sup> (PRZ)</sup>              |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
-| M20 Abandoned Supermarket<sup> (PRZ)</sup> |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
-| R22 Mining Outpost                         |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |    
-| W23 Gas Station                            |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
+| Train Yard                                 |                                                               | HQM Quarry                                                   |                                                  |
+| Airfield                                   |                                                               | Abandoned Military Base                                      |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>             |                                                               | Sewer Branch                                                 |                                                  |
+| Stone Quarry                               |                                                               |                                                              |                                                  |
+| G9 Supermarket <sup> (PRZ)</sup>           |                                                               | Harbors<a href="#CargoShip">                                 |                                                  |
+| N9 Gas Station<sup> (PRZ)</sup>            |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
+|                                            |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
+|                                            |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
+|                                            |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
 | <a href="#PVP Raid Zone">PRZ<sup>†</sup>   |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
 
 <a name="Boundaries"></a>
@@ -412,7 +411,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-05_MTC.png"/>
+<img src="/assets/2024-06_MTC.png"/>
 </p>
 
 
@@ -426,24 +425,6 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our take of vanilla-style gameplay, but many server rules and values will still apply. To avoid conflict, some specific <u>gameplay related</u> rules will be explicitly stated below by category. **Please remember to always be respectful of each other.**
 
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
-
-#### May 2024 Faction Wars:
-- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/18/2024 @ 5 PM Eastern..
-- Keep an eye on the Discord for more details!
-- Current Timeline:
-    - **5/2-5/3:** Faction Leader campaigns.
-    - **5/4:** Faction Leader voting @ 5 PM EST. Assign each faction leader to a PRZ zone. Identify Faction War participants.
-    - **5/6-5/10:** All Factions Meet. **Build Faction Town Halls **in PVE, Build **Faction War Operations Base** in each respective PRZ zone, Faction War Prep.
-    - **5/6:** Meet with your Factions via discord and plan and start building your PVE town hall. 
-    - **5/7:** Use this as a rest day. Take some time to interact with each other.  In your town halls, meet and delegate tasks (who will be involved with building, who will farm, what BPs do you need, what kind of faction are you involved in, etc.)
-    - **5/8-5/10:** Work on gather resources and start building your **Faction War Operating Base**
-    - **5/13:** Faction Hall Tours / Open House
-    - **5/14:** Final PVP Base Guidelines Released
-    - **5/18: @ 12 PM Eastern - <u>Faction Wars</u>**
-    - *Event objective:* Take over and hold the other faction's bases. 1000 Points will be awarded to a faction depending on how many of the faction war operating bases they hold at the end of the event. Points will also be awarded for PVP:
-        - Killing Player In Another Clan: +10 points
-        - Killed By Player In Another Clan: -4 points
-        - Killing Unarmed Player: -1 points
 
 #### General:
 - Killing on sight (KOS) is allowed. 
@@ -472,14 +453,14 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
             - You may loot and break boxes and tool cupboards in the unsecure areas of the base. You may boost, build, or fly to gain access to the unsecure areas of the base.
     - Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
 
-#### Online Raiding: **Online raids will not be approved this wipe until after the faction wars are over and the following rules will only apply after 5/20/2024.**
+#### Online Raiding:
 - PVP should not turn into a raid without first confirming online status.
 - By building within the PRZ, you agree to the possibility of your base being raided provided certain conditions are met.
 - Your base can be online raided if ½ of your team (rounded up) is online (⌈0.5 * team size⌉).
 - Raiders are required confirm online status by checking with an admin via a discord ticket.
     - Please provide in-game name or steam ID, location of target base, screenshot of raid target.
     - Raiders should receive a response within 12 hours of a raid request.
-    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin in approximately 10 minutes. The exact time the raid will begin will be communicated to both teams and will be designated according to admin discretion.
+    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin in approximately 10 minutes. The exact time the raid will begin will be communicated to both teams and will be designated according to admin discretion. During this time, defenders may take items and head to the base they will be defending, but cannot despawn or take items out of it.
     - Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
 
 - Counters may engage in PVP and may raid only using explosives obtained from countering.
@@ -508,10 +489,6 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 ## Purge Rules
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
-
-#### May 2024 Faction Wars:
-- The Faction Wars will be a mid-wipe purge **only** for the PRZ that will take place between 5/18/2024 @ 12 PM Eastern until 5/18/2024 @ 5 PM Eastern.
-- Keep an eye on the Discord for more details!
 
 #### Gameplay:
 - The purge is a two day event. The first day will be a PVP only event that begins on the Tuesday before wipe at 7 PM eastern. The second day of purge will be vanilla gameplay and will begin the Wednesday before wipe at 7 PM Eastern.
