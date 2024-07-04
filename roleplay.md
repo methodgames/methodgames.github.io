@@ -66,7 +66,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 #### Combat and Interactions:
 - No killing on sight (KOS), random death match (RDM), or griefing (ex. placing traps, authorizing on a TC to deny access, building with the intention of building blocking, etc.)
-- No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP as a cover or excuse for killing people.
+- No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP as a cover or excuse for killing people. Prisoner hoods and handcuffs should only be used with the player's consent.
 
 #### Conflict Resolution:
 - <u>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.<u>
@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP Raid Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-06_PRZ.png"/>
+  <img src="/assets/2024-07_PRZ.png"/>
 </p>
 
 
@@ -227,15 +227,15 @@ Thank you for being respectful, creative, and simply amazing.
 | <a href="#OilRigs">Small Oil Rig           | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
 | Missile Silo                               | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>               | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels                           |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels<sup> (PRZ)</sup>          |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                       |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant<sup> (PRZ)</sup>               |                                                               | Ferry Terminal                                               |                                                  |
-| Train Yard                                 |                                                               | HQM Quarry                                                   |                                                  |
+| Train Yard                                 |                                                               | Sulfur Quarry                                                |                                                  |
 | Airfield                                   |                                                               | Abandoned Military Base                                      |                                                  |
-| Sulfur Quarry<sup> (PRZ)</sup>             |                                                               | Sewer Branch                                                 |                                                  |
-| Stone Quarry<sup> (PRZ)</sup>              |                                                               |                                                              |                                                  |
-| G9 Supermarket <sup> (PRZ)</sup>           |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
-| N9 Gas Station<sup> (PRZ)</sup>            |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
+| HQM Quarry<sup> (PRZ)</sup>                |                                                               | Sewer Branch                                                 |                                                  |
+| U19 Mining Oupost<sup> (PRZ)</sup>         |                                                               | Stone Quarry                                                 |                                                  |
+|                                            |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+|                                            |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                            |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                            |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 |                                            |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
@@ -360,7 +360,7 @@ Thank you for being respectful, creative, and simply amazing.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
 
-#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, Rowboats, RHIBs, Snowmobiles, Trains:
+#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, Rowboats, RHIBs, Snowmobiles, Trains, Motorcycles, Bikes:
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
@@ -411,7 +411,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-06_MTC.png"/>
+<img src="/assets/2024-07_MTC.png"/>
 </p>
 
 
