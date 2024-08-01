@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP Raid Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-07_PRZ.png"/>
+  <img src="/assets/2024-08_PRZ.png"/>
 </p>
 
 
@@ -229,12 +229,12 @@ Thank you for being respectful, creative, and simply amazing.
 | Launch Site<sup> (PRZ)</sup>               | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
 | Military Tunnels<sup> (PRZ)</sup>          |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                       |                                                               | Satellite Dish                                               |                                                  |
-| Power Plant<sup> (PRZ)</sup>               |                                                               | Ferry Terminal                                               |                                                  |
+| Power Plant                                |                                                               | Ferry Terminal                                               |                                                  |
 | Train Yard                                 |                                                               | Sulfur Quarry                                                |                                                  |
 | Airfield                                   |                                                               | Abandoned Military Base                                      |                                                  |
-| HQM Quarry<sup> (PRZ)</sup>                |                                                               | Sewer Branch                                                 |                                                  |
-| U19 Mining Oupost<sup> (PRZ)</sup>         |                                                               | Stone Quarry                                                 |                                                  |
-|                                            |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+| Stone Quarry<sup> (PRZ)</sup>              |                                                               | Sewer Branch                                                 |                                                  |
+| H24 Abandoned Supermarket<sup> (PRZ)</sup> |                                                               | HQM Quarry                                                   |                                                  |
+| J18 Gas Station                            |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                            |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                            |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                            |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
@@ -411,7 +411,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-07_MTC.png"/>
+<img src="/assets/2024-08_MTC.png"/>
 </p>
 
 
