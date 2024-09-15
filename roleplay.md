@@ -86,7 +86,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 <hr color="#22ffcd">
 
-**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP Raid Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
+**This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
   <img src="/assets/2024-09_PRZ.png"/>
@@ -240,7 +240,7 @@ Thank you for being respectful, creative, and simply amazing.
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 |                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
-| <a href="#PVP Raid Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
+| <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
 
 <a name="Boundaries"></a>
 <p style="margin-bottom: -30px;">&nbsp;</p>
