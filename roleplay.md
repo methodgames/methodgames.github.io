@@ -289,7 +289,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 - <strong> <sup>†</sup>Patrol Helicopter: <a href="#PVP-Monuments"><sup> [^]</sup></a>
     - **Information:**
-        - The Patrol Helicopter event is a global even that occurs every 2-4 hours.
+        - The Patrol Helicopter event is a global event that occurs every 2-4 hours.
         - To avoid being targeted by the Patrol Helicopter, players must be wearing two or less items of clothing (including backpack slot) and have no ranged weapons in their hot bar.
         - After the Patrol Helicopter has been destroyed, a debris field indicator will appear on the map. Please note that this indicator solely marks the crash site location. Its disappearance from the map does not signify the end of temporary PVP, nor is it associated with the crates being looted.
         - The four crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, each crate will become lootable, with slight differences in the times each one is accessible.
