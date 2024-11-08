@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-10_PRZ.png"/>
+  <img src="/assets/2024-11_PRZ.png"/>
 </p>
 
 
@@ -103,7 +103,7 @@ Thank you for being respectful, creative, and simply amazing.
 #### Construction and Land Use:
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells).
 - Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
-- External TCs should only be used for securing building privilege <u>around compounds<u>. They should not be used to claim land. You must place compound walls down first before placing TCs.
+- External TCs should only be used for securing building privilege <u>around compounds<u>. Building prvillage can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin. 
 - Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 
@@ -226,18 +226,18 @@ Thank you for being respectful, creative, and simply amazing.
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
 | <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
 | <a href="#OilRigs">Small Oil Rig<sup> (PRZ)</sup> | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
-| Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
+| Missile Silo                                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels                                  |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant                                       |                                                               | Ferry Terminal                                               |                                                  |
-| Train Yard                                        |                                                               | Sulfur Quarry                                                |                                                  |
+| Train Yard                                        |                                                               | Stone Quarry                                                 |                                                  |
 | Airfield                                          |                                                               | Abandoned Military Base                                      |                                                  |
 | Done<sup> (PRZ)</sup>                             |                                                               | Sewer Branch                                                 |                                                  |
 | HQM Quarry<sup> (PRZ)</sup>                       |                                                               | Radtown                                                      |                                                  |
-| Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Underwater Labs                                              |                                                  |
-| N4 Abandoned Supermarket<sup> (PRZ)</sup>         |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
-| F10 Abandoned Supermarket<sup> (PRZ)</sup>        |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Underwater Labs                                              |                                                  |
+| U5 Mining Outpost<sup> (PRZ)</sup>                |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+|                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 |                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
 | <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
@@ -412,7 +412,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-10_MTC.png"/>
+<img src="/assets/2024-11_MTC.png"/>
 </p>
 
 
@@ -486,8 +486,9 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 <hr color="#22ffcd">
 
-
 ## Purge Rules
+
+**A decision for holding the purge event for November 2024 is pending due to possible server hardware changes.**
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
