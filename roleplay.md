@@ -19,7 +19,7 @@ We are incredibly proud of the wonderful community we have built together. It is
 
 Thank you for being respectful, creative, and simply amazing. 
 
-[Connect Now](steam://connect/135.148.136.142:28015) or [Join Our Discord](https://discord.gg/methodgames)
+[Connect Now](steam://connect/167.114.172.57:28016) or [Join Our Discord](https://discord.gg/methodgames)
 
 <hr color="#22ffcd">
 
@@ -563,4 +563,4 @@ You can support the server here: [Donate](https://paypal.me/bluejayonmeth)
 
 You can submit a ban appeal here: [Ban Appeal](https://bit.ly/methodbanappeal)
 
-[Connect Now](steam://connect/135.148.136.142:28015) or [Join Our Discord](https://discord.gg/methodgames)
+[Connect Now](steam://connect/167.114.172.57:28016) or [Join Our Discord](https://discord.gg/methodgames)
