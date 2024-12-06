@@ -51,7 +51,7 @@ Thank you for being respectful, creative, and simply amazing.
 - Know your audience. RP, chat, actions, etc. should not make others uncomfortable. If someone is saying or doing something that makes you uncomfortable, please ask them to stop or ask them to avoid that type of interaction with you and let an admin know.
 
 #### Conduct:
-- <u><b>Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed.<b><u> This includes bullying, stream sniping, and insiding.
+- <u><b>Actions taken to expressly deny other players the ability to enjoy the community or gameplay are not allowed.</b></u> This includes bullying, stream sniping, and insiding.
 - Any player caught harassing or bullying another player on the server or outside of the server, but in relation to their presence on the server will be removed or dealt with accordingly.
 - Excessive toxicity towards players and/or staff will not be tolerated and will result in a mute, kick, or ban determined by staff without warning. Discord tickets should be used to communicate behavioral issues. Keep us informed. Behavioral issues will be discussed with all parties involved. Behavior that continues to drive people (players or staff) from the community will result in a mute, kick, or ban from the server and/or discord as determined by the staff team.
 - Please trust that the staff team serves as a valuable resource and mediator with the community's best interests in mind whenever behavioral issues arise. Kindly refrain from directing frustrations at staff members who are genuinely striving to encourage compromise and provide assistance.
@@ -69,7 +69,7 @@ Thank you for being respectful, creative, and simply amazing.
 - No roleplaying (RP) as a killer, thief, bounty hunter, etc. and no using RP as a cover or excuse for killing people. Prisoner hoods and handcuffs should only be used with the player's consent.
 
 #### Conflict Resolution:
-- <u>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.<u>
+- <u>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</u>
 - If you are asked to leave someone’s property, please respect their request without hard feelings. Someone may ask you to leave if they are not currently looking to RP.
     
 #### Communication and Assistance:
@@ -103,7 +103,7 @@ Thank you for being respectful, creative, and simply amazing.
 #### Construction and Land Use:
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells).
 - Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
-- External TCs should only be used for securing building privilege <u>around compounds<u>. Building prvillage can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
+- External TCs should only be used for securing building privilege <u>around compounds</u>. Building prvillage can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin. 
 - Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 
@@ -261,7 +261,7 @@ Thank you for being respectful, creative, and simply amazing.
     <p style="margin-bottom: 5px;"></p><strong></strong>
 
     <a name="OilRigs"></a>
-    - <strong>Oil Rigs: <a href="#PVP-Monuments"><sup>[^]</sup></a>
+    - <strong>Oil Rigs: <a href="#PVP-Monuments"><sup>[^]</sup></a></strong>
         - PVP zones are a 5x5 grid around each rig (with the rig in the center of the 5x5 grid) that extend to the labeled coordinate grid.
         - Oil rigs will always be in the 3rd grid outside of the labeled coordinate grid.
 
@@ -270,12 +270,12 @@ Thank you for being respectful, creative, and simply amazing.
     <img src="/assets/small_oil_pvp.png" style="max-width: 45%; display: inline-block; vertical-align: middle;" />
     </p>
 
-    - <strong> <a href="#PatrolHelicopter">Patrol Helicopter:</a> <a href="#PVP-Monuments"><sup> [^]</sup></a>
+    - <strong> <a href="#PatrolHelicopter">Patrol Helicopter:</a> <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
         - The Patrol Helicopter may be taken from anywhere on the map other than the MTC.
         - As this event draws players from all over the map, it's not feasible to set a specific limit on the PVP zone. While those uninterested in PVP should remain indoors and out of sight, participants are urged to exercise reasonable discretion in distinguishing between those actively countering and those not.
             - **Players who go outside during temporary PVP are doing so at their own risk and players engaging in PVP are not responsible for items lost as a result of this.**
 
-    - <strong> <a href="#CargoShip">Cargo Ship:</a> <a href="#PVP-Monuments"><sup> [^]</sup></a>
+    - <strong> <a href="#CargoShip">Cargo Ship:</a> <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
         - The PVP zone around Cargo Ship extends to the maximum sniping distance from the Cargo Ship itself.
             - While kills within this range are acceptable, please try to exercise reasonable discretion when targeting players on the shore or in the water for other purposes.
             - Players not interested in PVP should remain vigilant of their surroundings when the Cargo Ship is present.
@@ -287,7 +287,7 @@ Thank you for being respectful, creative, and simply amazing.
 <a name="PatrolHelicopter"></a>
 <p style="margin-bottom: 20px;"></p>
 
-- <strong> <sup>†</sup>Patrol Helicopter: <a href="#PVP-Monuments"><sup> [^]</sup></a>
+- <strong> <sup>†</sup>Patrol Helicopter: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - **Information:**
         - The Patrol Helicopter event is a global event that occurs every 2-4 hours.
         - To avoid being targeted by the Patrol Helicopter, players must be wearing two or less items of clothing (including backpack slot) and have no ranged weapons in their hot bar.
@@ -314,22 +314,22 @@ Thank you for being respectful, creative, and simply amazing.
         - **Players should refrain from manipulating loot by leaving items, swapping items, or adding items to crates, as this behavior will be considered baiting.**
         - **Players should not avoid looting with the intention of baiting or prolonging PVP encounters.**
         - **Unfair or exploitative behavior may result in disciplinary measures.**
-        - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior and questionable actions that are reported will be subject to judgment by admins. 
+        - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior and questionable actions that are reported will be subject to judgment by admins.**
 
 <a name="AirDrops"></a>
-- <strong> <sup>†</sup>Airdrops: <a href="#PVP-Monuments"><sup> [^]</sup></a>
+- <strong> <sup>†</sup>Airdrops: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - Airdrops are considered temporary PVP zones from the time they touch the ground until the time they are fully looted. If an airdrop has a parachute, it has not touched the ground. Since there is enough time before an airdrop touches the ground, check your surroundings, if an airdrop falls near you or you plan to loot one, be ready to engage in PVP.
     - If an airdrop recently falls near your base and you do not want to participate in PVP, stay inside and out of vision. If an airdrop falls on top of a base, anyone going for the airdrop can climb or ladder up to it once it has stopped moving.
     - <p style="margin-bottom: 5px;">Airdrops should not be used specifically to create or extended PVP zones.</p>
 
 <a name="CargoShip"></a>
-- <strong> <sup>†</sup>Cargo Ship: <a href="#PVP-Monuments"><sup> [^]</sup></a>
+- <strong> <sup>†</sup>Cargo Ship: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - Cargo Ship PVP ends when the sirens signal that the ship is leaving.
     - If you do not want to participate in Cargo Ship PVP, stay out of vision.
     - <p style="margin-bottom: 5px;">The new life rule does not apply to Cargo Ship if you die within the PRZ.</p>
 
 <a name="LockedCrates"></a>
-- <strong> <sup>†</sup>Locked Crates: <a href="#PVP-Monuments"><sup> [^]</sup></a>
+- <strong> <sup>†</sup>Locked Crates: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - Locked crates can be dropped by Chinook at monuments which are normally PVP and monuments that are not normally PVP.
     - Locked crates should not be moved.
     - The Chinook helicopter should be allowed to drop off its crate at a monument, and players should refrain from destroying it.
@@ -339,10 +339,10 @@ Thank you for being respectful, creative, and simply amazing.
 <p style="margin-bottom: 15px;"></p> 
 
 <a name="WorkCarts"></a>
-- <strong> <sup>†</sup>Work Carts: <a href="#PVP-Monuments"><sup> [^]</sup></a>
+- <strong> <sup>†</sup>Work Carts: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - <p style="margin-bottom: 5px">For the work cart stations at PVP monuments and the PRZ, only the above-ground area is considered PVP.</p>
 <a name="Excavator"></a>
-- <strong> <sup>†</sup>Giant Excavator: <a href="#PVP-Monuments"><sup> [^]</sup><a>
+- <strong> <sup>†</sup>Giant Excavator: <a href="#PVP-Monuments"><sup> [^]</sup><a></strong>
     - Resource deposits are considered owned by the group running the excavator and should not be looted by others unless excavator is completely unattended.
     - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection).
     - Excavator airdrops have been disabled.
@@ -488,7 +488,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 ## Purge Rules
 
-**A decision for holding the purge event for November 2024 is pending due to possible server hardware changes.**
+**There will be NO PURGE EVENT for the December 2024 wipe! Please disregard all Purge rules below!**
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
