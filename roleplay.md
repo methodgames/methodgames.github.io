@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-11_PRZ.png"/>
+  <img src="/assets/2024-12_PRZ.png"/>
 </p>
 
 
@@ -226,17 +226,19 @@ Thank you for being respectful, creative, and simply amazing.
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
 | <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
 | <a href="#OilRigs">Small Oil Rig<sup> (PRZ)</sup> | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
-| Missile Silo                                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
+| Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels                                  |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant                                       |                                                               | Ferry Terminal                                               |                                                  |
-| Train Yard                                        |                                                               | Stone Quarry                                                 |                                                  |
-| Airfield                                          |                                                               | Abandoned Military Base                                      |                                                  |
-| Done<sup> (PRZ)</sup>                             |                                                               | Sewer Branch                                                 |                                                  |
-| HQM Quarry<sup> (PRZ)</sup>                       |                                                               | Radtown                                                      |                                                  |
-| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Underwater Labs                                              |                                                  |
-| U5 Mining Outpost<sup> (PRZ)</sup>                |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+| Train Yard                                        |                                                               | HQM Quarry                                                   |                                                  |
+| Airfield                                          |                                                               | Sulfur Quarry                                                |                                                  |
+| Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Abandoned Military Base                                      |                                                  |
+|                                                   |                                                               | Sewer Branch                                                 |                                                  |
+|                                                   |                                                               | Radtown                                                      |                                                  |
+|                                                   |                                                               | Underwater Labs                                              |                                                  |
+|                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+|                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 |                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
@@ -412,7 +414,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-11_MTC.png"/>
+<img src="/assets/2024-12_MTC.png"/>
 </p>
 
 
