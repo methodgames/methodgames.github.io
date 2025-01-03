@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2024-12_PRZ.png"/>
+  <img src="/assets/2025-01_PRZ.png"/>
 </p>
 
 
@@ -224,18 +224,18 @@ Thank you for being respectful, creative, and simply amazing.
 
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
-| <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
-| <a href="#OilRigs">Small Oil Rig<sup> (PRZ)</sup> | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
+| <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
+| <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
 | Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
 | Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Satellite Dish                                               |                                                  |
-| Power Plant                                       |                                                               | Ferry Terminal                                               |                                                  |
+| Power Plant<sup> (PRZ)</sup>                      |                                                               | Ferry Terminal                                               |                                                  |
 | Train Yard                                        |                                                               | HQM Quarry                                                   |                                                  |
 | Airfield                                          |                                                               | Sulfur Quarry                                                |                                                  |
-| Underwater Labs<sup> (PRZ)</sup>                  |                                                               | Abandoned Military Base                                      |                                                  |
-| Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Sewer Branch                                                 |                                                  |
-|                                                   |                                                               | Radtown                                                      |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Abandoned Military Base                                      |                                                  |
+| V6 Gas Station                                    |                                                               | Sewer Branch                                                 |                                                  |
+| U11 Gas Station                                   |                                                               | Radtown                                                      |                                                  |
 |                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
@@ -413,7 +413,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2024-12_MTC.png"/>
+<img src="/assets/2025-01_MTC.png"/>
 </p>
 
 
