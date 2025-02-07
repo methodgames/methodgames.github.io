@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2025-01_PRZ.png"/>
+  <img src="/assets/2025-02_PRZ.png"/>
 </p>
 
 
@@ -228,14 +228,13 @@ Thank you for being respectful, creative, and simply amazing.
 | <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
 | Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels                                  |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant<sup> (PRZ)</sup>                      |                                                               | Ferry Terminal                                               |                                                  |
-| Train Yard                                        |                                                               | HQM Quarry                                                   |                                                  |
+| Train Yard                                        |                                                               | Stone Quarry                                                 |                                                  |
 | Airfield                                          |                                                               | Sulfur Quarry                                                |                                                  |
-| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Abandoned Military Base                                      |                                                  |
-| V6 Gas Station<sup> (PRZ)</sup>                   |                                                               | Sewer Branch                                                 |                                                  |
-| U11 Gas Station<sup> (PRZ)</sup>                  |                                                               | Radtown                                                      |                                                  |
+| HQM Quarry<sup> (PRZ)</sup>                       |                                                               | Abandoned Military Base                                      |                                                  |
+|                                                   |                                                               | Radtown                                                      |                                                  |
 |                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
@@ -393,7 +392,9 @@ Thank you for being respectful, creative, and simply amazing.
 
 The Method Town Center (**MTC**) will be a hub for fostering interactive gameplay, aiming to create a rich and interactive setting that accommodates a wide range of role-playing experiences. To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within the MTC.
 
-#### Protection from PVP and Temporary PVP:
+<b>This wipe, we will not have an MTC.</b>
+
+<!-- #### Protection from PVP and Temporary PVP:
 
 - **No PVP Combat:**
     - Players are not allowed to engage in combat with each other while inside the MTC.
@@ -414,7 +415,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 
 <p align="center">
 <img src="/assets/2025-01_MTC.png"/>
-</p>
+</p> -->
 
 
 <a name="PVP-Raid-Zone" style="display: block; margin-top: 16px;"></a>
@@ -426,6 +427,8 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 
 The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our take of vanilla-style gameplay, but many server rules and values will still apply. To avoid conflict, some specific <u>gameplay related</u> rules will be explicitly stated below by category. **Please remember to always be respectful of each other.**
 
+<b>For the duration of this wipe in relation to the Kingdom Wars event, the PRZ will not have updated rules. Online and offline raiding is allowed wherever possible. Please see the Discord for more information.</b>
+
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
 
 #### General:
@@ -433,46 +436,23 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 - Building with the intention of blocking building privilage is not allowed.
 - Authorizing on a TC to deny access without breaking secure building blocks is allowed.
 - Items lost in this area are not recoverable.
-- There is a max team size of 8 for PVP and bases in this area.
+- There is no max team size for PVP and bases in this area.
 
 #### Building Rules:
 - Walling off monuments is not allowed.
-- Test generators are allowed.
 - Trap bases are allowed as long as the trapping mechanism resets after successful trap. External TCs should only be used for securing building privilage around compounds.
 
 #### Raiding and Looting Rules:
-- Traps that hit players outside of secure areas of a base or compound can be broken.
-- Offline raiding of secure areas of a base or compound (breaking building blocks) is not allowed. Offline and online looting is allowed.
-    - **What is considered secure and should not be raided:**
-        - Closed compounds are considered secure and should not be raided. 
-        - Areas of a base that are unreachable without breaking building blocks or deployables are considered secure and should not be raided.
-            - Unlootable deployables (deployables that do not have looting mechanisms or that would not be lootable if broken) should not be destroyed as this would be considered greifing. 
-    - **What is considered as an unsecure area of a base and can be raided:**
-        - Twig is not considered secure and can be broken into.
-        - Areas of a compound that are left open or are open as a result of PVP. You should not gain access to a **secure compound** by any means of boosting, placing twig, flying, etc.
-            - However, if you've already entered an unsecured compound that then becomes secure, you're allowed to use building, flying, etc. to exit.
-        - Areas of a base that are not within a compound that are either left open or are open as a result of PVP.
-            - You may loot and break boxes and tool cupboards in the unsecure areas of the base. You may boost, build, or fly to gain access to the unsecure areas of the base.
-    - Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
+- Offline raiding of a base or compound (breaking building blocks) is allowed. Offline and online looting is allowed.
+- Kingdom War bases will be in a protected zones that will prevent raiding until the event.
+- Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
 
 #### Online Raiding:
-- PVP should not turn into a raid without first confirming online status.
-- By building within the PRZ, you agree to the possibility of your base being raided provided certain conditions are met.
-- Your base can be online raided if ½ of your team (rounded up) is online (⌈0.5 * team size⌉).
-- Raiders are required confirm online status by checking with an admin via a discord ticket.
-    - Please provide in-game name or steam ID, location of target base, screenshot of raid target.
-    - Raiders should receive a response within 12 hours of a raid request.
-    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin in approximately 10 minutes. The exact time the raid will begin will be communicated to both teams and will be designated according to admin discretion. During this time, defenders may take items and head to the base they will be defending, but cannot despawn or take items out of it.
-    - Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
-
-- Counters may engage in PVP and may raid only using explosives obtained from countering.
-- A raid is over either when the raiders have not broken any building blocks or used any explosives for 15 minutes, or if the raid reaches a maximum duration of 2 hours, whichever comes first.
-    - Consent to an online raid may not be rescinded without the agreement of all parties.
-    - Raids require moderation and therefore may be delayed due to staff availability.
+- This wipe, online raiding is completely allowed in the PRZ.
+- By building within the PRZ, you agree to the possibility of your base being raided regardless of any condition.
 
 #### PVP Rules:
 - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in the PRZ, the fight should stop as soon as any player leaves the PVP zone. The new life rule does not apply to the PRZ or portions of monuments that extend into the PRZ.
-- Rocket PVP is only permitted if you are certain that your rockets you will not damage or hit another player’s base. Remote PVP is not allowed.
 - The work cart station in this zone is only considered PVP above ground.
 - If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.
 
@@ -488,8 +468,6 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 <hr color="#22ffcd">
 
 ## Purge Rules
-
-**There will be NO PURGE EVENT for the December 2024 wipe! Please disregard all Purge rules below!**
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
