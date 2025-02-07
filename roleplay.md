@@ -114,7 +114,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 #### Miscellaneous Information:
 - Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.
-- You may ask a staff member to trade 4 wind turbines for a test generator.
+<del>- You may ask a staff member to trade 4 wind turbines for a test generator.</del>
 
 
 <a name="Raiding-and-Looting" style="display: block; margin-top: 15px;"></a>
@@ -518,7 +518,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
 
 #### Building and Admin Spawning:
-- At any time, you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u>
+<del>- At any time, you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u></del>
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance. These items will be removed before the purge event.
 - Items spawned by admins are to be utilized strictly for the purposes for which they were originally intended. Any use of these items beyond the scope or reason for which they were spawned will lead to immediate removal (despawning) of the items. Furthermore, the player in possession of these items may lose the ability to receive such admin-spawned items in future instances. This rule is enforced to maintain fair gameplay and uphold the integrity of the community.
