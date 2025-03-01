@@ -474,8 +474,8 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 #### Gameplay:
 - The purge is a one day even that will be vanilla gameplay and will begin the Wednesday before wipe at 7 PM Eastern.
     - Vanilla gameplay does not mean our server values do not hold true. **<u>Be respectful to each other.</u>** Excessive toxicity may result in various consequences such as a mute or ban.
-- There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.
-    - Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
+- <del>There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.</del>
+    - <del>Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.</del>
 - No working with other groups during PVP / raiding.
     - This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.
 - Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).
