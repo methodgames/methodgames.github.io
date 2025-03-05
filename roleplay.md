@@ -476,19 +476,19 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
     - Vanilla gameplay does not mean our server values do not hold true. **<u>Be respectful to each other.</u>** Excessive toxicity may result in various consequences such as a mute or ban.
 - <del>There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.</del>
     - <del>Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.</del>
-- No working with other groups during PVP / raiding.
-    - This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.
-- Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).
-- Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.
+- <del>No working with other groups during PVP / raiding.</del>
+    - <del>This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.</del>
+- <del>Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).</del>
+- <del>Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.</del>
 
 #### Teams:
-- Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time. 
-    - Teammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.
-    - For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.
-        - *Note: This includes respawn points within a raid base.*
-        - Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.
-        - Members of the defending team may use explosives on a raid base as long as they are doing so from within the base they are defending.
-            - <p style="margin-bottom: -24px;">If members of the defending team are outside of the base / compound they are defending, only 4 players may roam / raid together (ex. use explosives on the raid base). The same roaming / raiding team size limitations apply in this case.</p>
+- <del>Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time.</del>
+    - <del>eammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.</del>
+    - <del>For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.</del>
+        - <del>*Note: This includes respawn points within a raid base.*</del>
+        - <del>Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.</del>
+        - <del>Members of the defending team may use explosives on a raid base as long as they are doing so from within the base they are defending.</del>
+            - <p style="margin-bottom: -24px;"><del>If members of the defending team are outside of the base / compound they are defending, only 4 players may roam / raid together (ex. use explosives on the raid base). The same roaming / raiding team size limitations apply in this case.</del></p>
 
 #### Conduct:
 - If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
