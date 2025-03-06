@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2025-02_PRZ.png"/>
+  <img src="/assets/2025-03_PRZ.png"/>
 </p>
 
 
@@ -114,7 +114,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 #### Miscellaneous Information:
 - Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.
-<del>- You may ask a staff member to trade 4 wind turbines for a test generator.</del>
+- You may ask a staff member to trade 4 wind turbines for a test generator.
 
 
 <a name="Raiding-and-Looting" style="display: block; margin-top: 15px;"></a>
@@ -226,15 +226,15 @@ Thank you for being respectful, creative, and simply amazing.
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
 | <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
 | <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
-| Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
+| Missile Silo                                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels                                  |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Underwater Labs                                              | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Satellite Dish                                               |                                                  |
 | Power Plant<sup> (PRZ)</sup>                      |                                                               | Ferry Terminal                                               |                                                  |
 | Train Yard                                        |                                                               | Stone Quarry                                                 |                                                  |
 | Airfield                                          |                                                               | Sulfur Quarry                                                |                                                  |
 | HQM Quarry<sup> (PRZ)</sup>                       |                                                               | Abandoned Military Base                                      |                                                  |
-|                                                   |                                                               | Radtown                                                      |                                                  |
+| X16 Mining Outpost <sup> (PRZ)</sup>              |                                                               | Radtown                                                      |                                                  |
 |                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
@@ -392,9 +392,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 The Method Town Center (**MTC**) will be a hub for fostering interactive gameplay, aiming to create a rich and interactive setting that accommodates a wide range of role-playing experiences. To ensure a positive and immersive atmosphere, it's crucial to establish clear rules and guidelines regarding player interactions within the MTC.
 
-<b>This wipe, we will not have an MTC.</b>
-
-<!-- #### Protection from PVP and Temporary PVP:
+#### Protection from PVP and Temporary PVP:
 
 - **No PVP Combat:**
     - Players are not allowed to engage in combat with each other while inside the MTC.
@@ -414,8 +412,8 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2025-01_MTC.png"/>
-</p> -->
+<img src="/assets/2025-03_MTC.png"/>
+</p>
 
 
 <a name="PVP-Raid-Zone" style="display: block; margin-top: 16px;"></a>
@@ -427,8 +425,6 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 
 The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our take of vanilla-style gameplay, but many server rules and values will still apply. To avoid conflict, some specific <u>gameplay related</u> rules will be explicitly stated below by category. **Please remember to always be respectful of each other.**
 
-<b>For the duration of this wipe in relation to the Kingdom Wars event, the PRZ will not have updated rules. Online and offline raiding is allowed wherever possible. Please see the Discord for more information.</b>
-
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
 
 #### General:
@@ -436,23 +432,46 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 - Building with the intention of blocking building privilage is not allowed.
 - Authorizing on a TC to deny access without breaking secure building blocks is allowed.
 - Items lost in this area are not recoverable.
-- There is no max team size for PVP and bases in this area.
+- There is a max team size of 8 for PVP and bases in this area.
 
 #### Building Rules:
 - Walling off monuments is not allowed.
+- Test generators are allowed.
 - Trap bases are allowed as long as the trapping mechanism resets after successful trap. External TCs should only be used for securing building privilage around compounds.
 
 #### Raiding and Looting Rules:
-- Offline raiding of a base or compound (breaking building blocks) is allowed. Offline and online looting is allowed.
-- Kingdom War bases will be in a protected zones that will prevent raiding until the event.
-- Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
+- Traps that hit players outside of secure areas of a base or compound can be broken.
+- Offline raiding of secure areas of a base or compound (breaking building blocks) is not allowed. Offline and online looting is allowed.
+    - **What is considered secure and should not be raided:**
+        - Closed compounds are considered secure and should not be raided. 
+        - Areas of a base that are unreachable without breaking building blocks or deployables are considered secure and should not be raided.
+            - Unlootable deployables (deployables that do not have looting mechanisms or that would not be lootable if broken) should not be destroyed as this would be considered greifing. 
+    - **What is considered as an unsecure area of a base and can be raided:**
+        - Twig is not considered secure and can be broken into.
+        - Areas of a compound that are left open or are open as a result of PVP. You should not gain access to a **secure compound** by any means of boosting, placing twig, flying, etc.
+            - However, if you've already entered an unsecured compound that then becomes secure, you're allowed to use building, flying, etc. to exit.
+        - Areas of a base that are not within a compound that are either left open or are open as a result of PVP.
+            - You may loot and break boxes and tool cupboards in the unsecure areas of the base. You may boost, build, or fly to gain access to the unsecure areas of the base.
+    - Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
 
 #### Online Raiding:
-- This wipe, online raiding is completely allowed in the PRZ.
-- By building within the PRZ, you agree to the possibility of your base being raided regardless of any condition.
+- PVP should not turn into a raid without first confirming online status.
+- By building within the PRZ, you agree to the possibility of your base being raided provided certain conditions are met.
+- Your base can be online raided if ½ of your team (rounded up) is online (⌈0.5 * team size⌉).
+- Raiders are required confirm online status by checking with an admin via a discord ticket.
+    - Please provide in-game name or steam ID, location of target base, screenshot of raid target.
+    - Raiders should receive a response within 12 hours of a raid request.
+    - The raid target should be confirmed before online status is checked. Once online status is confirmed and both the raiders and defenders have been notified that a raid is imminent, the raid should begin in approximately 10 minutes. The exact time the raid will begin will be communicated to both teams and will be designated according to admin discretion. During this time, defenders may take items and head to the base they will be defending, but cannot despawn or take items out of it.
+    - Raiders and defenders will have a 24-hour cooldown before being eligible to participate in another raid.
+
+- Counters may engage in PVP and may raid only using explosives obtained from countering.
+- A raid is over either when the raiders have not broken any building blocks or used any explosives for 15 minutes, or if the raid reaches a maximum duration of 2 hours, whichever comes first.
+    - Consent to an online raid may not be rescinded without the agreement of all parties.
+    - Raids require moderation and therefore may be delayed due to staff availability.
 
 #### PVP Rules:
 - Players should be able to enter this area without being attacked immediately. Players in this zone may not attack players outside of it and vice versa. If a fight breaks out in the PRZ, the fight should stop as soon as any player leaves the PVP zone. The new life rule does not apply to the PRZ or portions of monuments that extend into the PRZ.
+- Rocket PVP is only permitted if you are certain that your rockets you will not damage or hit another player’s base. Remote PVP is not allowed.
 - The work cart station in this zone is only considered PVP above ground.
 - If the train tunnel entrance is located in the PRZ, PVP is only permitted when a player is outside the tunnel entrance and not underneath the tunnel entrance.
 
@@ -474,21 +493,21 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 #### Gameplay:
 - The purge is a one day even that will be vanilla gameplay and will begin the Wednesday before wipe at 7 PM Eastern.
     - Vanilla gameplay does not mean our server values do not hold true. **<u>Be respectful to each other.</u>** Excessive toxicity may result in various consequences such as a mute or ban.
-- <del>There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.</del>
-    - <del>Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.</del>
-- <del>No working with other groups during PVP / raiding.</del>
-    - <del>This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.</del>
-- <del>Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).</del>
-- <del>Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.</del>
+- There is a max roam / raiding size of 4 members per team (**as indicated by team UI**) at once. This 4-member limit does not apply to players defending their base.
+    - Team UI changes will be monitored closely and deliberate attempts to circumvent this may result in exclusion from further participation in the ongoing or future purge events.
+- No working with other groups during PVP / raiding.
+    - This includes but is not limited to: providing information to another team, providing weapons and/or explosives to another team, and assisting another team with PVP.
+- Neutrality is allowed but alliances are not (at no point should neutrality be an alliance to achieve a common goal).
+- Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.
 
 #### Teams:
-- <del>Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time.</del>
-    - <del>eammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.</del>
-    - <del>For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.</del>
-        - <del>*Note: This includes respawn points within a raid base.*</del>
-        - <del>Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.</del>
-        - <del>Members of the defending team may use explosives on a raid base as long as they are doing so from within the base they are defending.</del>
-            - <p style="margin-bottom: -24px;"><del>If members of the defending team are outside of the base / compound they are defending, only 4 players may roam / raid together (ex. use explosives on the raid base). The same roaming / raiding team size limitations apply in this case.</del></p>
+- Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time. 
+    - Teammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.
+    - For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.
+        - *Note: This includes respawn points within a raid base.*
+        - Raid bases are intended for use during active raids and therefore follow the same roaming / raiding team size limitations.
+        - Members of the defending team may use explosives on a raid base as long as they are doing so from within the base they are defending.
+            - <p style="margin-bottom: -24px;">If members of the defending team are outside of the base / compound they are defending, only 4 players may roam / raid together (ex. use explosives on the raid base). The same roaming / raiding team size limitations apply in this case.</p>
 
 #### Conduct:
 - If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
@@ -518,7 +537,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
 
 #### Building and Admin Spawning:
-<del>- At any time, you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u></del>
+- At any time, you may reach out to an admin to either <u>trade your building resources for admin stacks or trade 4 of your wind turbines (not just the materials) for a test generator.</u>
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance. These items will be removed before the purge event.
 - Items spawned by admins are to be utilized strictly for the purposes for which they were originally intended. Any use of these items beyond the scope or reason for which they were spawned will lead to immediate removal (despawning) of the items. Furthermore, the player in possession of these items may lose the ability to receive such admin-spawned items in future instances. This rule is enforced to maintain fair gameplay and uphold the integrity of the community.
