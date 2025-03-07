@@ -115,6 +115,11 @@ Thank you for being respectful, creative, and simply amazing.
 #### Miscellaneous Information:
 - Tool cupboards will stack building materials (wood, stone, metal fragments, and high quality metal) up to stacks of 50,000.
 - You may ask a staff member to trade 4 wind turbines for a test generator.
+- You can swap wind turbines that are in your inventory for test generators by using any of the following chat commands:
+    - /swap – Swap 4 wind turbines for 1 test generator.
+    - /swap x – Swap x sets of 4 turbines for test generators (e.g., /swap 2 swaps 8 turbines for 2 generators).
+    - /swap all – Swap all possible sets of 4 turbines for generators, leaving any extras.
+    - /pickup – Look at a wind turbine, use /pickup, and if you're authorized on the TC, it will be removed and placed in your inventory. If your inventory is full the item will drop in front of you, so be mindful!
 
 
 <a name="Raiding-and-Looting" style="display: block; margin-top: 15px;"></a>
