@@ -240,13 +240,12 @@ Thank you for being respectful, creative, and simply amazing.
 | Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Radtown                                                      |                                                  |
 | H9 Mining Outpost<sup> (PRZ)</sup>                |                                                               | Sewer Branch                                                 |                                                  |
 | H4 Abandoned Supermarket<sup> (PRZ)</sup>         |                                                               | HQM Quarry                                                   |                                                  |
-|                                                   |                                                               | Sulfur Quarry                                                |                                                  |
+| Airfield                                          |                                                               | Sulfur Quarry                                                |                                                  |
 |                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
-|                                                   |                                                               | <a href="#WorkCarts">Airfield<sup>†</sup></a>                |                                                  |
-|                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |    
+|                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
 | <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |    
 
 <a name="Boundaries"></a>
