@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2025-11_PRZ.png"/>
+  <img src="/assets/2025-12_PRZ.png"/>
 </p>
 
 
@@ -229,20 +229,19 @@ Thank you for being respectful, creative, and simply amazing.
 
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
-| <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
-| <a href="#OilRigs">Small Oil Rig<sup> (PRZ)</sup> | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
+| <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
+| <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
 | Missile Silo<sup> (PRZ)</sup>                     | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
 | Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Satellite Dish                                               | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Ferry Terminal                                               |                                                  |
-| Power Plant                                       |                                                               | Abandoned Military Base                                      |                                                  |
-| Train Yard                                        |                                                               | Radtown                                                      |                                                  |
-| Underwater Labs                                   |                                                               | Sewer Branch                                                 |                                                  |
-| Stone Quarry<sup> (PRZ)</sup>                     |                                                               | HQM Quarry                                                   |                                                  |
-| U6 Mining Outpost<sup> (PRZ)</sup>                |                                                               | Sulfur  Quarry                                               |                                                  |
-| Z5 Mining Outpost<sup> (PRZ)</sup>                |                                                               | Jungle Ziggurat                                              |                                                  |
-|                                                   |                                                               | Airfield<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
-|                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+| Power Plant<sup> (PRZ)</sup>                      |                                                               | Abandoned Military Base                                      |                                                  |
+| Train Yard                                        |                                                               | Underwater Labs                                              |                                                  |
+| Airfield                                          |                                                               | Sewer Branch                                                 |                                                  |
+| Radtown<sup> (PRZ)</sup>                          |                                                               | HQM Quarry                                                   |                                                  |
+| Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Sulfur  Quarry                                               |                                                  |
+| G5 Gas Station<sup> (PRZ)</sup>                   |                                                               | Jungle Ziggurat                                              |                                                  |
+| K10 Mining Outpost<sup> (PRZ)</sup>               |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
@@ -419,7 +418,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2025-11_MTC.png"/>
+<img src="/assets/2025-12_MTC.png"/>
 </p>
 
 
@@ -494,6 +493,8 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 <hr color="#22ffcd">
 
 ## Purge Rules
+
+# **THERE WILL BE NO PURGE EVENT FOR THE DECEMBER 2025 WIPE!**
 
 The Purge is a PVP event for the end of the wipe in which everyone can experience vanilla style PVP and raiding with minimal liability as the server wipes the following day. With this in mind, **enjoy the gameplay but please always be respectful to each other**. While general banter is acceptable, excessive toxicity is not. Please remember at the end of the day, the community you are PVPing with is the same community that you will be interacting with in the future.
 
