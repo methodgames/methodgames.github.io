@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2026-01_PRZ.png"/>
+  <img src="/assets/2026-02_PRZ.png"/>
 </p>
 
 
@@ -212,7 +212,8 @@ Thank you for being respectful, creative, and simply amazing.
 - Players in PVP zones may not attack players outside of it and vice versa.
 - If a fight breaks out in a non-temporary PVP zone, the fight can continue until both parties (on a per team member basis) leave the designated area.
 - If you are killed or downed while the temporary PVP is active, your body can be looted by anyone, including yourself, after the temporary PVP is over. The looting of bodies after the PVP has ended should not be a PVP zone. **<u>If you do not want to participate in temporary PVP, stay inside and out of vision.</u>**
-- Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.
+- Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat, modular boat, or camper since all of the items inside would be at risk.
+- The Deep Sea is considered a PVP zone.
 
 - **New Life Rule:**
     - Upon death to PVP, you are not allowed to visit the area where your body is for the next 10 minutes. Any loot you had is forfeit and is lootable by anyone. Do not go back for it.
@@ -220,7 +221,9 @@ Thank you for being respectful, creative, and simply amazing.
     - If you die to PVE in a PVP zone following a PVP engagement, the New Life Rule remains in effect for 10 minutes after the conclusion of PVP (as indicated by your combat log).
     - If you are killed in a PVP situation, you may not be invited back to continue the fight or to retrieve your items as other players may be present. If a player says they are leaving items for you to pick up after your 10-minute timer is up, they will not be held responsible for items that may be missing. If you have waited the 10-minute timer, return to your death location, and are killed again by the same player, this will not be considered baiting a PVP zone; you are reentering at your own discretion.
     - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Patrol Helicopter PVP) and all other PVP zones.**
+    - **The new life rule does not apply to the Deep Sea.**
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
+    
 
 <a name="Monuments" style="display: block; margin-top: 15px;"></a>
 
@@ -229,23 +232,24 @@ Thank you for being respectful, creative, and simply amazing.
 
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
-| <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
+| <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
 | <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
 | Missile Silo                                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Fishing Village                                  |
 | Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Barn / Ranch                                     |
-| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Satellite Dish                                               | <a href="#Method-Town-Center">Method Town Center |
+| Military Tunnels                                  |                                                               | Satellite Dish                                               | <a href="#Method-Town-Center">Method Town Center |
 | Arctic Research Base                              |                                                               | Ferry Terminal                                               |                                                  |
 | Power Plant<sup> (PRZ)</sup>                      |                                                               | Abandoned Military Base                                      |                                                  |
 | Train Yard                                        |                                                               | Underwater Labs                                              |                                                  |
 | Airfield                                          |                                                               | Sewer Branch                                                 |                                                  |
-| Underwater Lab<sup> (PRZ)</sup>                   |                                                               | Radtown                                                      |                                                  |
-| HQM Quarry<sup> (PRZ)</sup>                       |                                                               | Stone Quarry                                                 |                                                  |
-| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Jungle Ziggurat                                              |                                                  |
-| S6 Gas Station<sup> (PRZ)</sup>                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Radtown                                                      |                                                  |
+| Y9 Gas Station<sup> (PRZ)</sup>                   |                                                               | Stone Quarry                                                 |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | HQM Quarry                                                   |                                                  |
+|                                                   |                                                               | Jungle Ziggurat                                              |                                                  |
+|                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
-|                                                   |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
+| Deep Sea                                          |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
 | <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |    
 
 <a name="Boundaries"></a>
@@ -367,17 +371,17 @@ Thank you for being respectful, creative, and simply amazing.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
 
-#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, Rowboats, RHIBs, Snowmobiles, Trains, Motorcycles, Bikes:
+#### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, PT Boats, Rowboats, RHIBs, Snowmobiles, Trains, Motorcycles, Bikes:
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
 - You may not steal or kill horses owned by or led by another player. 
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 - Vehicle weapons should only be used to target other players within PVP zones.
 - You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**. This rule is not meant to encourage stealing, but rather to encourage securing your loot. Items may not be returned if misplaced or stolen. 
 
-#### Tugboats and Campers:
-- Tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
+#### Modular Boats, Tugboats and Campers:
+- Modular boats, tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
 - Vehicles should not be moved into PVP zones by anyone other than the owners.
-- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
+- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat, modular boat, or camper since all of the items inside would be at risk.**
 - Items lost due to decay will not be returned.
 - Tugboats:
     - Loot and deployables placed in locked areas of a tugboat are considered secure. Deployables placed in unsecure areas of a tugboat follow the same rules as unsecure deployables. Locked boxes on the deck of a tugboat are considered secure.
@@ -418,7 +422,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2026-01_MTC.png"/>
+<img src="/assets/2026-02_MTC.png"/>
 </p>
 
 
@@ -458,7 +462,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
             - However, if you've already entered an unsecured compound that then becomes secure, you're allowed to use building, flying, etc. to exit.
         - Areas of a base that are not within a compound that are either left open or are open as a result of PVP.
             - You may loot and break boxes and tool cupboards in the unsecure areas of the base. You may boost, build, or fly to gain access to the unsecure areas of the base.
-    - Tugboats in PRZ are classified as vehicles and can be broken into while a player is offline.
+    - Tugboats and modular boats in PRZ are classified as vehicles and can be broken into while a player is offline.
 
 #### Online Raiding:
 - PVP should not turn into a raid without first confirming online status.
@@ -483,8 +487,8 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 
 #### Transportation:
 - Locked vehicles found in this zone may be damaged to destroy locks.
-- Tugboats and campers located in the PRZ can be broken into and looted (explosives can be used).
-- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat or camper since all of the items inside would be at risk.**
+- Tugboats, modular boats, and campers located in the PRZ can be broken into and looted (explosives can be used).
+- **Please be careful about entering a PVP zone (PVP monument or PRZ) with a tugboat, modular boat, or camper since all of the items inside would be at risk.**
 - Vehicles should not be moved into the PRZ by anyone other than the owners.
 
 
