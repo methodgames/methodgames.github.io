@@ -246,7 +246,7 @@ Thank you for being respectful, creative, and simply amazing.
 | Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 | Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 | J14 Supermarket<sup> (PRZ)</sup>                  |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
-| J20 Mining Outpost<sup> (PRZ)</sup>               |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
+|                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 | Deep Sea                                          |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
 | <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
 
