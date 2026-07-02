@@ -71,7 +71,7 @@ Thank you for being respectful, creative, and simply amazing.
 #### Conflict Resolution:
 - <u>If you have a disagreement with another player, please try to roleplay to a solution or respectfully come to a resolution before resorting to a ticket.</u>
 - If you are asked to leave someone’s property, please respect their request without hard feelings. Someone may ask you to leave if they are not currently looking to RP.
-    
+
 #### Communication and Assistance:
 - If you are ever in an uncomfortable situation or fear your items being lost, please take a clip or screenshot of your inventory and/or players in question to make recovery easier.
 - Please do not hesitate to contact a staff member regarding any concerns or assistance.
