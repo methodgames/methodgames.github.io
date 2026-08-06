@@ -103,9 +103,10 @@ Thank you for being respectful, creative, and simply amazing.
 #### Construction and Land Use:
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells).
 - Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
-- External TCs should only be used for securing building privilege <u>around compounds</u>. Building prvillage can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
+- External TCs should only be used for securing building privilege <u>around compounds</u>. Building privilege can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
 - External TCs, deployables, and walls around decayed bases may be removed by an admin. 
 - Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
+- Power lines are only considered owned by a player if they fall within their building privilege.
 
 #### Traps and Deployables:
 - Traps should not hit anyone outside a base or compound (this includes peacekeepers as a passing player could be marked hostile). Traps that do not follow this may be temporarily adjusted to mitigate harm. Trap bases are not allowed.
@@ -386,6 +387,7 @@ Thank you for being respectful, creative, and simply amazing.
 #### Player-Maintained Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
 <p style="margin-bottom: 15px;"></p> 
 - Heavy electric fuses cannot be removed once installed, therefore, there is no mechanic by which players can greif by taking fuses out after powering the monument.
+- Power lines are only owned if they fall within a player's building privilege.
 - See below for rules specific to associated monuments:
 
 - <strong>Power Plant:</strong>
@@ -412,6 +414,7 @@ Thank you for being respectful, creative, and simply amazing.
     - Phase 4 asset.
     - No direct impact to the monument.
     - See above rules regarding Satellite Crash PVP. <a href="#SatelliteCrash"><strong><sup> [^]</sup></strong></a>
+    
 
 <a name="Transportation" style="display: block; margin-top: 16px;"></a>
 
