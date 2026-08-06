@@ -13,11 +13,11 @@ order: 3
 
 ## About
 
-This inclusive community was created with the vision of facilitating respectful and interactive gameplay. Although respectful roleplay is the primary focus of the server, we have included designated PVP areas, as this is a part of Rust that we would like our players to enjoy. The intent of this design is to allow it to be used as an avenue for players to explore various aspects of gameplay in a safe environment and to use that exposure to exercise their choice of exploring others servers that are more focused on the specific aspects of gameplay they enjoy. 
+This inclusive community was created with the vision of facilitating respectful and interactive gameplay. Although respectful roleplay is the primary focus of the server, we have included designated PVP areas, as this is a part of Rust that we would like our players to enjoy. The intent of this design is to allow it to be used as an avenue for players to explore various aspects of gameplay in a safe environment and to use that exposure to exercise their choice of exploring others servers that are more focused on the specific aspects of gameplay they enjoy.
 
 We are incredibly proud of the wonderful community we have built together. It is a reflection of the kindness and respect you all display in your interactions. It fosters a sense of belonging and friendship among our members and paves the way for creativity to flourish. The support and camaraderie that each one of you brings to this space has truly made it a special place for everyone. The bonds we've formed, the stories we've created, and the adventures we've shared are a testament to the incredible heart of our community.
 
-Thank you for being respectful, creative, and simply amazing. 
+Thank you for being respectful, creative, and simply amazing.
 
 [Connect Now](steam://connect/167.114.158.147:28016) or [Join Our Discord](https://discord.gg/methodgames)
 
@@ -42,7 +42,7 @@ Thank you for being respectful, creative, and simply amazing.
 #### Content:
 - Slurs, racial stereotypes, sexual violence, domestic abuse, suicide, school shootings, slavery, etc. are considered inappropriate and RP, chat, team chat, comments, jokes, signs, graffiti, usernames, notes, bag names, etc. that are disrespectful or that are about these are prohibited. This applies to both private and public content and interactions. These are all actively monitored and use of these terms, irrespective of duration of existence, may result in an automatic ban from the server.
 - No inappropriate usernames or profile pictures. Usernames referring to sexual acts and genitalia are not allowed. No websites in usernames. Chat and usernames must be in English characters.
-- Signs, fireworks, graffiti, etc. (both private and public and regardless of duration) must not be discriminatory or inappropriate and must follow Twitch TOS. 
+- Signs, fireworks, graffiti, etc. (both private and public and regardless of duration) must not be discriminatory or inappropriate and must follow Twitch TOS.
 - No excessive or inappropriate chat spam or sounds (via mic, soundboard, etc. and no music).
 
 #### Etiquette:
@@ -104,7 +104,7 @@ Thank you for being respectful, creative, and simply amazing.
 - You may not wall off monuments (including tiny monuments such as surfaces of caves and water wells).
 - Compounds should be limited to 100 high external walls and gates (or equivalent) and must not take away from gameplay, otherwise they will be reduced in size or removed.
 - External TCs should only be used for securing building privilege <u>around compounds</u>. Building privilege can extend to a maximum of one layer of TCs outside of your compound walls. They should not be used to claim land. You must place compound walls down first before placing TCs.
-- External TCs, deployables, and walls around decayed bases may be removed by an admin. 
+- External TCs, deployables, and walls around decayed bases may be removed by an admin.
 - Buildings or building blocks that are used to claim land or that are blocking building privilege may be removed at admin discretion without prior warning.
 - Power lines are only considered owned by a player if they fall within their building privilege.
 
@@ -133,8 +133,8 @@ Thank you for being respectful, creative, and simply amazing.
 #### General:
 - Offline raiding is not allowed. Please refer to the PRZ section of the rules for all details regarding raiding and looting in that area. Online raiding is only allowed if both parties agree for an RP or event purpose.
 - Sleepers cannot be killed or looted for 20 minutes after a server restart, server crash, or mass disconnects only.
-    - Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned. 
-    - If your game crashes, please create a ticket as soon as possible to let us know. 
+    - Please be mindful that a player may have crashed. If a player crashes and reconnects within a reasonable amount of time, an admin may try to coordinate to see if items can be returned.
+    - If your game crashes, please create a ticket as soon as possible to let us know.
     - Saving a disconnected player’s items for some time and letting an admin know is always appreciated.
 
 #### Non-Decaying Bases:
@@ -147,7 +147,7 @@ Thank you for being respectful, creative, and simply amazing.
 - **<u>Secure Loot:</u>**
     - **Locked boxes within building privilege should not be destroyed.**
     - **Compounds are considered secure.**
-        - Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted. 
+        - Unlocked storage, locked storage, and deployables within secure areas of a base or compound cannot be looted.
     - If you are caught looting a non-decaying base, you may be asked to leave or killed.
     - Legacy shelters will be considered building blocks, not deployables, and therefore should not be broken. They should be allowed to fully decay before the contents can be looted.
     - If you are caught looting a secure deployable you may be warned and then killed by the owner.
@@ -162,20 +162,20 @@ Thank you for being respectful, creative, and simply amazing.
 - **Conduct:**
     - If you are asked to leave someone's building you must do so. If a player refuses to leave after first attempting to seek a peaceful resolution, please open a ticket explaining the situation before taking defensive action (including killing the trespassers).
         - Please refrain from keeping items from killed trespassers. Notify an admin to help coordinate and facilitate return.
-    - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base. 
+    - Twig and ladders should not be placed on another player’s base and boosting, flying, parachuting, etc. should not be used to gain access to another player’s base.
     - If you gain access to an unlocked tool cupboard (TC), you may not grief the base (ex. authorizing TC and building to close it off or taking items).
         - If you find a non-decaying base left open or a base that looks like it has been raided, please do not loot it. **Please reach out to an admin to help secure it.** Any items that were lost between the time a base was left open and the time an admin closed or secure it will not be returned. We advise locks be placed on deployables since **locked boxes within building privilege should not be destroyed.** Players that continue to loot non-decaying bases instead of reporting to an admin will be disciplined accordingly.
 
 #### Decaying Bases:
 
 - **What is considered a decaying base?**
-    - If a base is decaying, all building blocks made of the same material will experience decay. While some blocks may decay at different rates, the overall rule is that if a base is <u>actively</u> decaying, all building blocks composed of the same material will not be at full health. 
+    - If a base is decaying, all building blocks made of the same material will experience decay. While some blocks may decay at different rates, the overall rule is that if a base is <u>actively</u> decaying, all building blocks composed of the same material will not be at full health.
     - You can check the current health of a building block with a hammer. If you are unsure if a base is actively decaying or if it may look to have been raided, please reach out to an admin.
     - Bases made up of only foundations will be subject to decaying base rules since there would be no way to differentiate them from a non-decaying base.
 
 - **Looting:**
     - Decaying bases **cannot be raided** (ex. breaking tool cupboards, building blocks, doors, etc.) **or griefed** (ex. closing off by authorizing on TC and building walls).
-    - Decaying bases can be looted and locked boxes can be broken. Twig and ladders can be placed on decaying bases. 
+    - Decaying bases can be looted and locked boxes can be broken. Twig and ladders can be placed on decaying bases.
     - If there a deployable that you cannot pick up or that is not lootable due to building privilege, you may repair the building block it is on until the building block the TC is on decays.
     - If the base owner returns to their decaying base, looters may be asked to leave to secure the base.
     - Decaying bases are not PVP zones.
@@ -228,7 +228,7 @@ Thank you for being respectful, creative, and simply amazing.
 <a name="Monuments" style="display: block; margin-top: 15px;"></a>
 
 #### Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
-<p style="margin-bottom: 15px;"></p> 
+<p style="margin-bottom: 15px;"></p>
 
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
@@ -256,7 +256,7 @@ Thank you for being respectful, creative, and simply amazing.
 <p style="margin-bottom: -30px;">&nbsp;</p>
 
 #### PVP Boundaries: <a href="#PVP-Monuments"><sup>[^]</sup></a>
-<p style="margin-bottom: 15px;"></p> 
+<p style="margin-bottom: 15px;"></p>
 
 - **Monuments:**
     - The PVP area at the designated monuments is limited to terrain change or adjacent roads, whichever is closer.
@@ -292,7 +292,7 @@ Thank you for being respectful, creative, and simply amazing.
                 - If you are at harbor when the Cargo Ship is appraoching and you do not want to participate in PVP, make sure to leave the area and stay out of sight.
 
 #### Temporary PVP Zones: <a href="#PVP-Monuments"><sup>[^]</sup></a>
-<p style="margin-bottom: 5px;"></p> 
+<p style="margin-bottom: 5px;"></p>
 
 <a name="PatrolHelicopter"></a>
 <p style="margin-bottom: 20px;"></p>
@@ -305,13 +305,13 @@ Thank you for being respectful, creative, and simply amazing.
         - The four crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, each crate will become lootable, with slight differences in the times each one is accessible.
     - **Gameplay:**
         - Automated server announcements will indicate the start and end of temporary PVP.
-        - The temporary PVP zone begins when the destroyed Patrol Helicopter hits the ground. 
+        - The temporary PVP zone begins when the destroyed Patrol Helicopter hits the ground.
             - If the Patrol Helicopter is destroyed, falls near you, and you do not want to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted. **Players who go outside during temporary PVP are doing so at their own risk and players engaging in PVP are not responsible for items lost as a result of this.**
         - The temporary PVP zone ends when all of the crates have been looted.
         - If the crates land inside of a compound or on top of a base, anyone engaging in temporary PVP may climb, fly, ladder, etc., to gain access to the area where the crates are located. During this time, while temporary PVP is active, you may engage in PVP, loot dead bodies, and collect loot from the event crates only (not player-owned deployables). Once temporary PVP ends, you should leave the area that you had gained access to; you should not ladder into compounds or onto bases to collect loot from dead bodies after temporary PVP ends.
     - **Patrol Helicopter Takedown:**
-        - Do not use another player’s base for protection from the Patrol Helicopter. 
-        - Please try to be mindful about taking down Patrol Helicopter in populated areas. 
+        - Do not use another player’s base for protection from the Patrol Helicopter.
+        - Please try to be mindful about taking down Patrol Helicopter in populated areas.
             - If Patrol Helicopter damages another player's base you are required to inform an admin to help seal and repair the base.
             - If you have not hit it and it falls and damages your base, please let an admin know and we can help you with repairs.
         - Players who have hit the Patrol Helicopter and die to it are not lootable until the Patrol Helicopter is taken down; you cannot kill other players who are actively trying to take the Patrol Helicopter down.
@@ -356,7 +356,7 @@ Thank you for being respectful, creative, and simply amazing.
         - Satellite debris may be harvested by any player regardless of invovlment in triggering the crash or involvement in PVP.
     - **Gameplay:**
         - Automated server announcements will indicate the start and end of temporary PVP (WIP). Please verify in chat that the crates have been looted until this feature is active.
-        - The temporary PVP zone begins when the Satellite hits the ground. 
+        - The temporary PVP zone begins when the Satellite hits the ground.
             - <p style="margin-bottom: 5px;">If the Satellite, falls near you, and you do not want to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted. <strong>Players who go outside during temporary PVP are doing so at their own risk and players engaging in PVP are not responsible for items lost as a result of this.</strong></p>
         - The temporary PVP zone ends when all of the crates at the crash site have been looted.
     - **Satellite Crash PVP:**
@@ -371,7 +371,7 @@ Thank you for being respectful, creative, and simply amazing.
         - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior and questionable actions that are reported will be subject to judgment by admins.**
 
 #### Other Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
-<p style="margin-bottom: 15px;"></p> 
+<p style="margin-bottom: 15px;"></p>
 
 <a name="WorkCarts"></a>
 - <strong> <sup>†</sup>Work Carts: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
@@ -385,7 +385,7 @@ Thank you for being respectful, creative, and simply amazing.
 <a name="PlayerMaintainedMonuments" style="display: block; margin-top: 15px;"></a>
 
 #### Player-Maintained Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
-<p style="margin-bottom: 15px;"></p> 
+<p style="margin-bottom: 15px;"></p>
 - Heavy electric fuses cannot be removed once installed, therefore, there is no mechanic by which players can greif by taking fuses out after powering the monument.
 - Power lines are only owned if they fall within a player's building privilege.
 - See below for rules specific to associated monuments:
@@ -414,7 +414,7 @@ Thank you for being respectful, creative, and simply amazing.
     - Phase 4 asset.
     - No direct impact to the monument.
     - See above rules regarding Satellite Crash PVP. <a href="#SatelliteCrash"><strong><sup> [^]</sup></strong></a>
-    
+
 
 <a name="Transportation" style="display: block; margin-top: 16px;"></a>
 
@@ -424,17 +424,17 @@ Thank you for being respectful, creative, and simply amazing.
 ## Transportation Rules
 
 #### General:
-- You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if <u>completely</u> unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline. 
+- You may store and use unlocked modes of transportation. Unlocked modes of transportation can be claimed by another player if <u>completely</u> unattended. (The majority of the time owners are nearby, so please use reasonable discretion and ask in game and in chat if anyone is nearby before taking unattended transportation. This rule is not meant to encourage stealing. If you are caught stealing you may be asked to leave or killed). Vehicles must be stored in a secure location while offline.
 - You should not shoot at people in vehicles within non-PVP zones.
 - If you die with any form of transportation in a temporary or permanent PVP zone, it may be taken. If you obtain a vehicle in PVP, please remember to remove existing locks, clear auth, and add a new lock.
 - Please create a ticket if your mode of transportation is not recoverable (vehicles that are stuck and cannot be moved by any other player).
 
 #### Modular Cars, Minicopters, Scrap Transport Helicopters, Player Attack Helicopters, Submarines, Horses, Hot Air Balloons, PT Boats, Rowboats, RHIBs, Snowmobiles, Trains, Motorcycles, Bikes:
 - Locked modular cars can be left unattended, and therefore should not be damaged or have existing locks removed by other players. Do not leave your car on a powered car lift as this will not be considered secure.
-- You may not steal or kill horses owned by or led by another player. 
+- You may not steal or kill horses owned by or led by another player.
 - Trains are considered public and cannot be owned. Trains may enter PVP areas so passengers should be aware of their surroundings. Trains may only be temporarily claimed when actively utilized.
 - Vehicle weapons should only be used to target other players within PVP zones.
-- You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**. This rule is not meant to encourage stealing, but rather to encourage securing your loot. Items may not be returned if misplaced or stolen. 
+- You are responsible for securing guns and ammo placed in your player attack helicopter **at all times**. This rule is not meant to encourage stealing, but rather to encourage securing your loot. Items may not be returned if misplaced or stolen.
 
 #### Modular Boats, Tugboats and Campers:
 - Modular boats, tugboats and campers located in the PVP Zones can be broken into and looted (explosives can be used).
@@ -496,7 +496,7 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 **Please note, the PRZ rules have been completly changed and are therefore subject to change and clarification to address the needs of the server and of this area.**
 
 #### General:
-- Killing on sight (KOS) is allowed. 
+- Killing on sight (KOS) is allowed.
 - Building with the intention of blocking building privilage is not allowed.
 - Authorizing on a TC to deny access without breaking secure building blocks is allowed.
 - Items lost in this area are not recoverable.
@@ -511,9 +511,9 @@ The PVP Raid Zone Rules (**PRZ**) is an area of the map that will focus on our t
 - Traps that hit players outside of secure areas of a base or compound can be broken.
 - Offline raiding of secure areas of a base or compound (breaking building blocks) is not allowed. Offline and online looting is allowed.
     - **What is considered secure and should not be raided:**
-        - Closed compounds are considered secure and should not be raided. 
+        - Closed compounds are considered secure and should not be raided.
         - Areas of a base that are unreachable without breaking building blocks or deployables are considered secure and should not be raided.
-            - Unlootable deployables (deployables that do not have looting mechanisms or that would not be lootable if broken) should not be destroyed as this would be considered greifing. 
+            - Unlootable deployables (deployables that do not have looting mechanisms or that would not be lootable if broken) should not be destroyed as this would be considered greifing.
     - **What is considered as an unsecure area of a base and can be raided:**
         - Twig is not considered secure and can be broken into.
         - Areas of a compound that are left open or are open as a result of PVP. You should not gain access to a **secure compound** by any means of boosting, placing twig, flying, etc.
@@ -569,7 +569,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - Players from other teams may spectate a raid at their own risk, but should refrain from creating an unfair advantage for any other team (ex. calling out hidden players). Please observe from a safe distance to avoid any potential misunderstandings regrading teaming.
 
 #### Teams:
-- Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time. 
+- Teammates may be benched in and out mid-raid, but there should never be more than 4 members of the same team active at the same raid target at the same time.
     - Teammates waiting to be **swapped <u>in</u>** must not go to or respawn at the site of an active raid until the teammate being **swapped <u>out</u>** has respawned outside of the active raid.
     - For respawn points at site of active raid, if the teammate being **swapped <u>in</u>** has already respawned at the active raid before the teammate being **swapped <u>out</u>** has left the raid, they should not leave the respawn point.
         - *Note: This includes respawn points within a raid base.*
@@ -581,7 +581,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - If you suspect someone of breaking any rules, instead of broadcasting in chat, please create a ticket through discord and let us know.
     - Excessive banter concerning the discussion of rules in global chat, rather than creating a ticket, may result in a temporary mute with guidance to address disputes through the ticket system.
 - Admins cannot be everywhere at once so please let all of us know if anything is happening by using the [⁠📩│tickets](https://discord.com/channels/809936105101066352/809944459793530880/810937523517128715) system on the discord.
-    - While not a requirement, we encourage players provide us with as much information as possible. Providing combat logs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively. 
+    - While not a requirement, we encourage players provide us with as much information as possible. Providing combat logs, timestamps, screenshots, recordings, etc. may assist in resolving disputes quickly and effectively.
 
 
 <a name="Admin" style="display: block; margin-top: 16px;"></a>
@@ -599,7 +599,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - Interpretation and final verdict are at admin discretion. Everything is reviewed on a case-by-case basis and the rules stated here are to cover the basics.
 
 #### Conduct:
-- Complaints about staff may be emailed to [methodgamesrust@gmail.com](methodgamesrust@gmail.com) and will be addressed with the staff member and the rest of the staff team. 
+- Complaints about staff may be emailed to [methodgamesrust@gmail.com](methodgamesrust@gmail.com) and will be addressed with the staff member and the rest of the staff team.
 - Admins may act as mediators between players and teams but admins will not enforce the terms of any agreements that fall outside of the rules. Such agreements do not allow any violation of the rules.
 - In certain situations, such as removal of a team member, admins may attempt to facilitate conversation and compromise between players, but the terms should come from the players.
 - Toxicity and disrespect toward staff will not be tolerated including refusal to comply in regards to server matters. Constructive criticism is welcome.
@@ -609,11 +609,11 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 - If there is a service you would like help with, we encourage you to first reach out to other players. Please do not ask admins for free items.
 - If you have made progress with an RP building and you are in need of something you cannot normally get by crafting or looting, you may reach out to an admin for assistance. These items will be removed before the purge event.
 - Items spawned by admins are to be utilized strictly for the purposes for which they were originally intended. Any use of these items beyond the scope or reason for which they were spawned will lead to immediate removal (despawning) of the items. Furthermore, the player in possession of these items may lose the ability to receive such admin-spawned items in future instances. This rule is enforced to maintain fair gameplay and uphold the integrity of the community.
-- Items spawned in for an admin sponsored event should not be taken. If admin spawned items are found, reach out via a ticket to ensure the return of these items. If spawned in items are taken from an admin, they will be recovered and despawned accordingly. 
+- Items spawned in for an admin sponsored event should not be taken. If admin spawned items are found, reach out via a ticket to ensure the return of these items. If spawned in items are taken from an admin, they will be recovered and despawned accordingly.
 
 #### Teleporting:
 - Admins may teleport you to an event but you are not guaranteed a teleport back. If you are asked to not bring items, you are not guaranteed storage or recovery if lost.
-- If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you. 
+- If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you.
 
 <hr color="#dab3ff">
 
