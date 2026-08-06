@@ -89,7 +89,7 @@ Thank you for being respectful, creative, and simply amazing.
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
 <p align="center">
-  <img src="/assets/2026-07_PRZ.png"/>
+  <img src="/assets/2026-08_PRZ.png"/>
 </p>
 
 
@@ -192,7 +192,7 @@ Thank you for being respectful, creative, and simply amazing.
 
 ## PVP / Monument Rules
 
-<a href="#Monuments">Monuments</a> <strong>|</strong> <a href="#Boundaries">Boundaries</a> <strong>|</strong> <a href="#OilRigs">Oil Rigs</a> <strong>|</strong> <a href="#PatrolHelicopter">Patrol Helicopter</a> <strong>|</strong> <a href="#AirDrops">Air Drops</a> <strong>|</strong> <a href="#CargoShip">Cargo Ship</a> <strong>|</strong> <a href="#LockedCrates">Locked Crates</a> <strong>|</strong> <a href="#WorkCarts">Work Carts</a> <strong>|</strong> <a href="#Excavator">Giant Excavator</a>
+<a href="#Monuments">Monuments</a> <strong>|</strong> <a href="#Boundaries">Boundaries</a> <strong>|</strong> <a href="#OilRigs">Oil Rigs</a> <strong>|</strong> <a href="#PatrolHelicopter">Patrol Helicopter</a> <strong>|</strong> <a href="#AirDrops">Air Drops</a> <strong>|</strong> <a href="#CargoShip">Cargo Ship</a> <strong>|</strong> <a href="#LockedCrates">Locked Crates</a> <strong>|</strong> <a href="#SatelliteCrash">Satellite Crash</a> <strong>|</strong> <a href="#WorkCarts">Work Carts</a> <strong>|</strong> <a href="#Excavator">Giant Excavator</a><strong>|</strong> <a href="#PlayerMaintainedMonuments">Player-Maintained Monuments</a>
 
 #### General:
 - PVP has been designated to specific areas of the map.
@@ -223,7 +223,6 @@ Thank you for being respectful, creative, and simply amazing.
     - **The new life rule does not apply to the PRZ. It applies to temporary PVP (except Patrol Helicopter PVP) and all other PVP zones.**
     - **The new life rule does not apply to the Deep Sea.**
     - If you die in a PVP zone outside of the PRZ you should not respawn in your camper or tugboat as this would be a violation of the new life rule.
-    
 
 <a name="Monuments" style="display: block; margin-top: 15px;"></a>
 
@@ -232,17 +231,19 @@ Thank you for being respectful, creative, and simply amazing.
 
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
-| <a href="#OilRigs">Large Oil Rig                  | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
-| <a href="#OilRigs">Small Oil Rig                  | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Supermarket                                                  | Bandit Camp                                      |
-| Missile Silo                                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Lighthouse                                                   | Apartment Complex                                |
-| Launch Site<sup> (PRZ)</sup>                      | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Mining Outpost                                               | Fishing Village                                  |
-| Military Tunnels<sup> (PRZ)</sup>                 |                                                               | Satellite Dish                                               | Barn / Ranch                                     |
-| Arctic Research Base<sup> (PRZ)</sup>             |                                                               | Ferry Terminal                                               | <a href="#Method-Town-Center">Method Town        |
+| <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
+| <a href="#OilRigs">Small Oil Rig                  | <a href="#SatelliteCrash">Satellite Crash<sup>†</sup></a>     | Supermarket                                                  | Bandit Camp                                      |
+| Missile Silo                                      | <a href="#AirDrops">Air Drops<sup>†</sup></a>                 | Lighthouse                                                   | Apartment Complex                                |
+| Launch Site<sup> (PRZ)</sup>                      | <a href="#CargoShip">Cargo Ship<sup>†</sup></a>               | Mining Outpost                                               | Fishing Village                                  |
+| Military Tunnels                                  | <a href="#LockedCrates">Locked Crates<sup>†</sup></a>         | Satellite Dish                                               | Barn / Ranch                                     |
+| Arctic Research Base                              |                                                               | Ferry Terminal                                               | <a href="#Method-Town-Center">Method Town Center |
 | Power Plant                                       |                                                               | Abandoned Military Base                                      |                                                  |
-| Train Yard                                        |                                                               | Underwater Labs                                              |                                                  |
-| Airfield                                          |                                                               | HQM Quarry                                                   |                                                  |
+| Airfield                                          |                                                               | Underwater Labs                                              |                                                  |
+| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | HQM Quarry                                                   |                                                  |
 | Stone Quarry<sup> (PRZ)</sup>                     |                                                               | Jungle Ziggurat                                              |                                                  |
-| Sulfur Quarry<sup> (PRZ)</sup>                    |                                                               | Sewer Branch                                                 |                                                  |
+|                                                   |                                                               | Sewer Branch                                                 |                                                  |
+|                                                   |                                                               | Train Yard                                                   |                                                  |
+|                                                   |                                                               | Arctic Research Base                                         |                                                  |
 |                                                   |                                                               | Harbors<a href="#CargoShip"><sup> (!CS)</sup></a>            |                                                  |
 |                                                   |                                                               | Dome<a href="#LockedCrates"><sup> (!LC)</sup></a>            |                                                  |
 |                                                   |                                                               | Water Treatment<a href="#LockedCrates"><sup> (!LC)</sup></a> |                                                  |
@@ -343,6 +344,31 @@ Thank you for being respectful, creative, and simply amazing.
     - The Chinook helicopter should be allowed to drop off its crate at a monument, and players should refrain from destroying it.
     - <p style="margin-bottom: 5px;">Locked crates at monuments that are normally non-PVP are considered temporary PVP zones from the time they touch the ground until the time they are fully looted.</p>
 
+<a name="SatelliteCrash"></a>
+- <strong> <sup>†</sup>Satellite Crash: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
+    - **Information:**
+        - The Satellite Crash event is a global player-triggered event.
+        - After the Satellite hits the ground, players, vegetation, construction (outside of TC privilage), and vegetation may be impacted. Crashes should automatically avoid player-owned buildings.
+        - This event also creates a localized high radiation zone.
+        - A debris field indicator will appear on the map. Please note that this indicator solely marks the crash site location. Its disappearance from the map does not signify the end of temporary PVP, nor is it associated with the crates being looted.
+        - The Satellite crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, all crates will become lootable.
+        - Satellite debris may be harvested by any player regardless of invovlment in triggering the crash or involvement in PVP.
+    - **Gameplay:**
+        - Automated server announcements will indicate the start and end of temporary PVP (WIP). Please verify in chat that the crates have been looted until this feature is active.
+        - The temporary PVP zone begins when the Satellite hits the ground. 
+            - <p style="margin-bottom: 5px;">If the Satellite, falls near you, and you do not want to participate in PVP, either stay inside a building out of vision or stay away until all of the crates have been looted. <strong>Players who go outside during temporary PVP are doing so at their own risk and players engaging in PVP are not responsible for items lost as a result of this.</strong></p>
+        - The temporary PVP zone ends when all of the crates at the crash site have been looted.
+    - **Satellite Crash PVP:**
+        - PVP zones are a 3x3 grid around the crash site (with the debris field indicator in the center of the 3x3 grid).
+        - Your base may be used as cover by people in the area who are currently in PVP after the Satellite has fallen.
+        - <p style="margin-bottom: 5px;">The new life rule applies to the Satellite Crash event.</p>
+    - **Behavior:**
+        - **Players are expected to prioritize obtaining loot from the crates as the primary objective, with PVP encounters naturally emerging as a product of the event.**
+        - **Players should refrain from manipulating loot by leaving items, swapping items, or adding items to crates, as this behavior will be considered baiting.**
+        - **Players should not avoid looting with the intention of baiting or prolonging PVP encounters.**
+        - **Unfair or exploitative behavior may result in disciplinary measures.**
+        - **Players are encouraged to report instances when these behavior rules are not followed. Patterns of behavior and questionable actions that are reported will be subject to judgment by admins.**
+
 #### Other Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
 <p style="margin-bottom: 15px;"></p> 
 
@@ -355,6 +381,37 @@ Thank you for being respectful, creative, and simply amazing.
     - Only the group running the excavator should interact with the excavator controls (diesel tank and resource selection).
     - Excavator airdrops have been disabled.
 
+<a name="PlayerMaintainedMonuments" style="display: block; margin-top: 15px;"></a>
+
+#### Player-Maintained Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
+<p style="margin-bottom: 15px;"></p> 
+- Heavy electric fuses cannot be removed once installed, therefore, there is no mechanic by which players can greif by taking fuses out after powering the monument.
+- See below for rules specific to associated monuments:
+
+- <strong>Power Plant:</strong>
+    - Will remain a PVP monument since buffs benefit the entire server.
+- <strong>Gas Station:</strong>
+    - Phase 1 asset.
+    - Car list access is a convenience feature and therefore will have no rule modifications.
+    - Please try to avoid trapping players under the car lift.
+- <strong>Supermarket:</strong>
+    - Phase 1 asset.
+    - Freezer access is a convenience feature and therefore will have no rule modifications.
+- <strong>Water Treatment:</strong>
+    - Phase 1 asset.
+    - The water resource output will be on a first-come, first-serve basis.
+    - Players should not attempt to disconnect another player's connection.
+- <strong>Dome:</strong>
+    - Phase 3 asset.
+    - The crude oil resource output will be on a first-come, first-serve basis.
+    - Players should not attempt to disconnect another player's connection.
+- <strong>Airfield:</strong>
+    - Phase 4 asset.
+    - Resupply call only accelerates Airdrop frequency and therefore will have no rule modifications.
+- <strong>Launch Site:</strong>
+    - Phase 4 asset.
+    - No direct impact to the monument.
+    - See above rules regarding Satellite Crash PVP. <a href="#SatelliteCrash"><strong><sup> [^]</sup></strong></a>
 
 <a name="Transportation" style="display: block; margin-top: 16px;"></a>
 
@@ -420,7 +477,7 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
 <p align="center">
-<img src="/assets/2026-07_MTC.png"/>
+<img src="/assets/2026-08_MTC.png"/>
 </p>
 
 
