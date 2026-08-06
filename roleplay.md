@@ -349,7 +349,7 @@ Thank you for being respectful, creative, and simply amazing.
 - <strong> <sup>†</sup>Satellite Crash: <a href="#PVP-Monuments"><sup> [^]</sup></a></strong>
     - **Information:**
         - The Satellite Crash event is a global player-triggered event.
-        - After the Satellite hits the ground, players, vegetation, construction (outside of TC privilage), and vegetation may be impacted. Crashes should automatically avoid player-owned buildings.
+        - After the Satellite hits the ground, players, construction (outside of TC privilage), and vegetation may be impacted. Crashes should automatically avoid player-owned buildings.
         - This event also creates a localized high radiation zone.
         - A debris field indicator will appear on the map. Please note that this indicator solely marks the crash site location. Its disappearance from the map does not signify the end of temporary PVP, nor is it associated with the crates being looted.
         - The Satellite crates, unless dropped in the water, will be on fire and unlootable. After a few minutes, all crates will become lootable.
