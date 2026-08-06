@@ -613,7 +613,7 @@ The Purge is a PVP event for the end of the wipe in which everyone can experienc
 
 #### Teleporting:
 - Admins may teleport you to an event but you are not guaranteed a teleport back. If you are asked to not bring items, you are not guaranteed storage or recovery if lost.
-- If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you.
+- If you are killed by a safe zone (outpost / bandit camp / fishing village / barn / ranch) and would like help retrieving your items, feel free to reach out to us to help you. 
 
 <hr color="#dab3ff">
 
