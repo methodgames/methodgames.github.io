@@ -88,10 +88,13 @@ Thank you for being respectful, creative, and simply amazing.
 
 **This wipe, there will be a designated PVP and raid zone (which will be referred to as PRZ below), as designated by the yellow outline below.** If your TC authorization range extends into the PRZ, your base will be considered within the PRZ and are subject to <a href="#PVP-Raid-Zone">PRZ rules</a>. There should be no question of whether your base is on the border of the PRZ.
 
+# THE PRZ MAP HERE IS FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 PRZ MAP CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
+
 <p align="center">
   <img src="/assets/2026-09_PRZ.png"/>
 </p>
 
+# THE PRZ MAP HERE IS FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 PRZ MAP CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
 
 <a name="Building-and-Gameplay"></a>
 
@@ -230,6 +233,8 @@ Thank you for being respectful, creative, and simply amazing.
 #### Monuments: <a href="#PVP-Monuments"><sup>[^]</sup></a>
 <p style="margin-bottom: 15px;"></p>
 
+# THE PVP MONUMENTS HERE ARE FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 PVP MONUMENTS CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
+
 | PVP Monuments / Zones                             | Temporary PVP Zones                                           | Non-PVP Monuments                                            | Safe Zones                                       |
 |:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------:|
 | <a href="#OilRigs">Large Oil Rig<sup> (PRZ)</sup> | <a href="#PatrolHelicopter">Patrol Helicopter<sup>†</sup></a> | Gas Station                                                  | Outpost                                          |
@@ -251,6 +256,8 @@ Thank you for being respectful, creative, and simply amazing.
 |                                                   |                                                               | Junkyard<a href="#LockedCrates"><sup> (!LC)</sup></a>        |                                                  |
 | Deep Sea                                          |                                                               | <a href="#WorkCarts">Work Carts<sup>†</sup></a>              |                                                  |
 | <a href="#PVP-Raid-Zone">PRZ<sup>†</sup>          |                                                               | <a href="#Excavator">Giant Excavator<sup>†</sup>             |                                                  |
+
+# THE PVP MONUMENTS HERE ARE FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 PVP MONUMENTS CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
 
 <a name="Boundaries"></a>
 <p style="margin-bottom: -30px;">&nbsp;</p>
@@ -479,10 +486,13 @@ The Method Town Center (**MTC**) will be a hub for fostering interactive gamepla
 
 <p style="margin-bottom: 15px;">&nbsp;</p>
 
+# THE MTC MAP HERE IS FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 MTC MAP CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
+
 <p align="center">
 <img src="/assets/2026-09_MTC.png"/>
 </p>
 
+# THE MTC MAP HERE IS FOR THE SEPTEMBER 2026 WIPE - THE OCTOBER 2026 MTC MAP CAN BE FOUND ON THE DISCORD UNDER THE ANNOUNCEMENTS CHANNEL
 
 <a name="PVP-Raid-Zone" style="display: block; margin-top: 16px;"></a>
 
